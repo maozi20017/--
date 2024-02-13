@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Liberator -->
+
+  <MissileSilo.label>解放者</MissileSilo.label>
+  <MissileSilo.description>RA-1776b解放者是一個自包含的全方位戰略導彈製造和發射設施，具有5枚導彈的彈夾容量。需要有人操作SACS才能正常運作。</MissileSilo.description>
+  <MissileSilo_Blueprint.label>解放者 (藍圖)</MissileSilo_Blueprint.label>
+  <MissileSilo_Frame.label>解放者 (建造中)</MissileSilo_Frame.label>
+  <MissileSilo_Frame.description>RA-1776b解放者是一個自包含的全方位戰略導彈製造和發射設施，具有5枚導彈的彈夾容量。需要有人操作SACS才能正常運作。</MissileSilo_Frame.description>
+
+
+  <!-- <li>PlaceWorker_NotUnderRoof</li>
+    </placeWorkers>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <uiIconScale>0.65</uiIconScale>
+  </ThingDef> -->
+
+  <notReal.label>不真實的</notReal.label>
+
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchProject_RTBasicFuses.label>保險絲</ResearchProject_RTBasicFuses.label>
+  <ResearchProject_RTBasicFuses.description>解鎖建造基本的保險絲；可以連接任何接有電池的電網。每一根保險絲都可以安全地抵消1800W(相當於三個原版電池所儲存的電量)的放電，熔斷後需要維修。</ResearchProject_RTBasicFuses.description>
+
+
+</LanguageData>

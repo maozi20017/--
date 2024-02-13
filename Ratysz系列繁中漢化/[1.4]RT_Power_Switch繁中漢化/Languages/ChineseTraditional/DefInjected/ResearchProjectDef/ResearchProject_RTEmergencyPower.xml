@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchProject_RTEmergencyPower.label>緊急電源</ResearchProject_RTEmergencyPower.label>
+  <ResearchProject_RTEmergencyPower.description>允許重新配置電源開關，使其鄰近的電網即將耗盡電力時自動打開，並在該電網電池完全充電後再次關閉。
+
+    然而，這種行為不是即時的，因此建議在每個由開關連接的網路中至少有一個電池。</ResearchProject_RTEmergencyPower.description>
+
+
+</LanguageData>

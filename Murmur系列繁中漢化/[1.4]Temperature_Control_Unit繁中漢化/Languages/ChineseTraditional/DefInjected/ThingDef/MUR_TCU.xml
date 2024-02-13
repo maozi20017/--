@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MUR_TCU.label>溫控單元</MUR_TCU.label>
+  <MUR_TCU.description>一種壁掛式冷暖氣組合設備。</MUR_TCU.description>
+
+  <MUR_TCU_Wide.label>溫控單元 (寬型)</MUR_TCU_Wide.label>
+  <MUR_TCU_Wide.description>一種寬型壁掛式冷暖氣組合設備。</MUR_TCU_Wide.description>
+
+  <MUR_TCU_Long.label>溫控單元 (長型)</MUR_TCU_Long.label>
+  <MUR_TCU_Long.description>一種長型壁掛式冷暖氣組合設備。</MUR_TCU_Long.description>
+
+  <MUR_TCU_TwoByTwo.label>溫控單元 (2x2)</MUR_TCU_TwoByTwo.label>
+  <MUR_TCU_TwoByTwo.description>一種2x2壁掛式冷暖氣組合設備。</MUR_TCU_TwoByTwo.description>
+
+
+</LanguageData>

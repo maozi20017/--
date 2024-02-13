@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Dubs Skylights繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.dubsskylights</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Dubwise.dubsskylights</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+這個簡單的天窗可以安裝在屋頂上，讓陽光照進來。
+
+在室內陽光下種植植物，也可以在室內種植樹木。
+
+建造室內花園，殖民者可以在裡面進行戶外活動，建造一個 100 格的房間，其中至少有 50 格被天窗照亮，並且至少有 10 個美化植物。如果其他房間規則覆蓋了它，則刪除為該規則添加點數的建築物。
+
+此模組支援存檔。
+
+在電動或燃料鍛造機或電動熔爐中製作窗戶。
+
+玻璃用的沙子從哪裡來？和沙袋牆一樣！
+	</description>
+
+</ModMetaData>

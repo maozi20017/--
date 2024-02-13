@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_Mech_Incubator.label>incubator</MP_Mech_Incubator.label>
+  <MP_Mech_Incubator.description>A mobile factory, the Incubator fires Bursters directly into the enemy lines. It is incredibly durable, but attacks at a snail's pace. In longer engagements, the Incubator can spawn dozens of Bursters on its own.\n\nThe Incubator is named for the cryptosleep casket mounted upon its back. A single, poor soul is contained within, their body used as a breeding ground for dozens of Bursters. Upon death, the victim in the casket will expire as well, their body unleashing a final wave of Bursters. Be prepared for their deathrattle- it could catch a melee trooper offguard and kill them.</MP_Mech_Incubator.description>
+  <MP_Mech_Incubator.tools.0.label>右palp</MP_Mech_Incubator.tools.0.label>
+  <MP_Mech_Incubator.tools.1.label>左palp</MP_Mech_Incubator.tools.1.label>
+  <MP_Mech_Incubator.tools.2.label>head</MP_Mech_Incubator.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Radiation.label>輻射敏感度</Radiation.label>
+  <Radiation.description>該角色輻射積累影響的乘數。</Radiation.description>
+
+  <CraftingResearchSpeed.label>手工研究速度</CraftingResearchSpeed.label>
+  <CraftingResearchSpeed.description>該角色從事手工類研究時的速度。</CraftingResearchSpeed.description>
+
+  <ConstructionResearchSpeed.label>建造研究速度</ConstructionResearchSpeed.label>
+  <ConstructionResearchSpeed.description>該角色從事建造類研究時的速度。</ConstructionResearchSpeed.description>
+
+
+</LanguageData>

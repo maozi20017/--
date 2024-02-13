@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_ForceRapidIncubation.label>force incubate Bursters</MP_ForceRapidIncubation.label>
+  <MP_ForceRapidIncubation.description>Forcibly implant an entire canister of plague inducing mechanites into the target, empowered by a component. This will kill them in a generally horrific and swift fashion, spawning several allied Bursters when the target expires. Good for "conscripting" defenses in a pinch, or for gathering more Mechanite Canisters.\n\nJust... probably don't use this on your own pawns, okay?</MP_ForceRapidIncubation.description>
+  <MP_ForceRapidIncubation.jobString>Implanting mechanites.</MP_ForceRapidIncubation.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SewageSludgeComposting.label>堆肥</SewageSludgeComposting.label>
+  <SewageSludgeComposting.description>解鎖堆肥技術。廢水和糞便經過適當處理和發酵後營養物質豐富，可以作為生物有機肥料提高土壤肥沃度。</SewageSludgeComposting.description>
+
+  <MultiSplitAirCon.label>多分體式空調系統</MultiSplitAirCon.label>
+  <MultiSplitAirCon.description>建立將室外機與室內機以及冷凍櫃連接的多分體式空調系統。</MultiSplitAirCon.description>
+
+  <Plumbing.label>管道系統</Plumbing.label>
+  <Plumbing.description>使用管道、衛生設備、蓄水設備、水井、水泵和其他基礎給排水設備。</Plumbing.description>
+
+  <LogBoilers.label>供熱</LogBoilers.label>
+  <LogBoilers.description>建造可用於加熱房間並可放置在浴缸旁加熱浴水的鍋爐。</LogBoilers.description>
+
+  <CentralHeating.label>中央暖氣系統</CentralHeating.label>
+  <CentralHeating.description>建立搭配散熱器、熱水儲存槽、鍋爐和恆溫器的中央暖氣系統。</CentralHeating.description>
+
+  <GeothermalHeating.label>地熱加熱</GeothermalHeating.label>
+  <GeothermalHeating.description>建造可以建在間歇泉上，用來為中央暖氣和熱水儲存槽產生熱量的地熱加熱設備。</GeothermalHeating.description>
+
+  <Saunas.label>桑拿</Saunas.label>
+  <Saunas.description>建立一個專門的房間，配備桑拿爐，供殖民者放鬆身心和清潔使用，頻繁使用可以降低心臟病發作的機率。</Saunas.description>
+
+  <ModernFixtures.label>現代化衛浴設備</ModernFixtures.label>
+  <ModernFixtures.description>建造現代化風格的衛浴設備，例如馬桶和淋浴設備。</ModernFixtures.description>
+
+  <ElectricPumps.label>電動水泵</ElectricPumps.label>
+  <ElectricPumps.description>搭載動力的水泵，用於連續加壓抽水。</ElectricPumps.description>
+
+  <AdvancedShowers.label>電力淋浴設備</AdvancedShowers.label>
+  <AdvancedShowers.description>建造可以縮短淋浴時間並提高舒適度的電力淋浴設備。</AdvancedShowers.description>
+
+  <AdvancedToilets.label>智能馬桶</AdvancedToilets.label>
+  <AdvancedToilets.description>建造舒適、自動清潔、超高效率的智能馬桶。</AdvancedToilets.description>
+
+  <HotTubs.label>熱水浴池</HotTubs.label>
+  <HotTubs.description>建造可用於水療、放鬆和娛樂的熱水浴池。</HotTubs.description>
+
+  <LargeWaterPumps.label>工業規模化</LargeWaterPumps.label>
+  <LargeWaterPumps.description>建造工業規模的水泵和蓄水設備。</LargeWaterPumps.description>
+
+  <DeepWells.label>深井</DeepWells.label>
+  <DeepWells.description>鑽探更深的水井以取得更廣泛的地下水資源。</DeepWells.description>
+
+  <WashingMachines.label>洗衣機</WashingMachines.label>
+  <WashingMachines.description>建造可以將衣物洗得非常乾淨的洗衣機，甚至可以讓你無法發現這件衣服曾被死人穿過！</WashingMachines.description>
+
+  <WaterFiltration.label>水過濾</WaterFiltration.label>
+  <WaterFiltration.description>建造可以處理水源、消除疾病風險的水過濾系統。</WaterFiltration.description>
+
+  <HygieneBionics.label>衛生仿生</HygieneBionics.label>
+  <HygieneBionics.description>製作可以協助處理身體廢物和管理個人衛生的仿生體。</HygieneBionics.description>
+
+  <SepticTanks.label>化糞池</SepticTanks.label>
+  <SepticTanks.description>建造可以積累污水並提供基礎污水處理的化糞池。</SepticTanks.description>
+
+  <SewageTreatment.label>污水處理</SewageTreatment.label>
+  <SewageTreatment.description>建造可以積累大量污水並提供快速污水處理的大型污水處理系統。</SewageTreatment.description>
+
+  <SwimmingPools.label>游泳池</SwimmingPools.label>
+  <SwimmingPools.description>建造游泳池。</SwimmingPools.description>
+
+  <Irrigation.label>灌溉</Irrigation.label>
+  <Irrigation.description>建造可以灌溉土壤以提高肥沃度的灌溉噴水器。</Irrigation.description>
+
+  <FireSuppression.label>滅火系統</FireSuppression.label>
+  <FireSuppression.description>建造可以產生水霧抑制火災的消防噴頭。</FireSuppression.description>
+
+
+</LanguageData>

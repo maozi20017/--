@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimefellerCrafting.label>資源</RimefellerCrafting.label>
+  <RimefellerCrafting.description>操作邊緣石化資源控制台。</RimefellerCrafting.description>
+  <RimefellerCrafting.labelShort>資源</RimefellerCrafting.labelShort>
+  <RimefellerCrafting.pawnLabel>操作資源控制台</RimefellerCrafting.pawnLabel>
+  <RimefellerCrafting.gerundLabel>資源控制台</RimefellerCrafting.gerundLabel>
+  <RimefellerCrafting.verb>資源</RimefellerCrafting.verb>
+
+
+</LanguageData>

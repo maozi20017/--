@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Dubs Rimkit繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.dubsrimkit</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Dubwise.dubsrimkit</li>
+	</loadAfter>
+    <description>
+・Ayameduki的種族不能裝QQ
+漢化描述
+
+這套配件具有特殊能力和屬性加成，支援多人遊玩。
+
+醫療包配件可以讓殖民者在需要時在現場給自己或他人包紮傷口。
+
+維修包配件可以讓建造者在修理建築物時拆卸損壞的組件，然後可以在加工桌上修復它們。
+	</description>
+
+</ModMetaData>

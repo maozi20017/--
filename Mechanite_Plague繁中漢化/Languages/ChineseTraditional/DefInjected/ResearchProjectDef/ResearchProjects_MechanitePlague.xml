@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Weapon Research -->
+
+  <MP_MechaniteWeaponsNeolithic.label>plague coating</MP_MechaniteWeaponsNeolithic.label>
+  <MP_MechaniteWeaponsNeolithic.description>Craft tribal blowpipes and knives that can spread the Mechanite Plague through plague-based poisons.</MP_MechaniteWeaponsNeolithic.description>
+
+  <MP_MechaniteWeaponsIndustrial.label>plague dart guns</MP_MechaniteWeaponsIndustrial.label>
+  <MP_MechaniteWeaponsIndustrial.description>Craft industrial weaponry that specializes in firing darts that spread the Mechanite Plague.</MP_MechaniteWeaponsIndustrial.description>
+
+  <MP_MechaniteWeaponsSpacer.label>spacer plague guns</MP_MechaniteWeaponsSpacer.label>
+  <MP_MechaniteWeaponsSpacer.description>Craft spacer weaponry that specializes in applying the plague in a variety of ways, as well as equipment that allows all weapons to apply the mechanite plague.</MP_MechaniteWeaponsSpacer.description>
+
+  <MP_BursterCleanup.label>burster disassembly</MP_BursterCleanup.label>
+  <MP_BursterCleanup.description>Craft spacer buildings that automatically sweep the map for deactivated Bursters, and disassembles them for doubled Mechanite Canisters.</MP_BursterCleanup.description>
+
+  <MP_MechaniteWeaponsMelee.label>plagued blades</MP_MechaniteWeaponsMelee.label>
+  <MP_MechaniteWeaponsMelee.description>Craft medieval melee weaponry that can consistently apply the Mechanite Plague with an improved poison mixture.</MP_MechaniteWeaponsMelee.description>
+
+  <MP_MechaniteSecurity.label>plague turrets</MP_MechaniteSecurity.label>
+  <MP_MechaniteSecurity.description>Construct turrets that can inflict the Mechanite Plague through darts or shrapnel.</MP_MechaniteSecurity.description>
+
+  <MP_MechaniteMortar.label>plague shrapnel shells</MP_MechaniteMortar.label>
+  <MP_MechaniteMortar.description>Construct mortar shells that explode into plague-inducing shrapnel over a wide area.</MP_MechaniteMortar.description>
+
+  <MP_MechaniteMedicine.label>mechanite medicine</MP_MechaniteMedicine.label>
+  <MP_MechaniteMedicine.description>Learn how to modify the Mechanite Plague's mechanites to create a vaccine, as well as a potent combat stimulant.</MP_MechaniteMedicine.description>
+
+  <MP_PlagueBionics.label>plague bionics</MP_PlagueBionics.label>
+  <MP_PlagueBionics.description>Learn how to create a kidney that provides permanent immunity to the Mechanite Plague.</MP_PlagueBionics.description>
+
+  <MP_LuciferiumProduction.label>mechanite conversion</MP_LuciferiumProduction.label>
+  <MP_LuciferiumProduction.description>Learn how to modify the Mechanite Plague's mechanites to create Luciferium, as well as a specialized drug that can revive the (very) recently deceased. It'll take a lot of canisters and work, but it might be worth it!</MP_LuciferiumProduction.description>
+
+
+</LanguageData>

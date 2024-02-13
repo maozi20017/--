@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_RadiationMask.label>輻射防護面罩</Apparel_RadiationMask.label>
+  <Apparel_RadiationMask.description>透過內層防護屏蔽輻射，但更重要的是要防止直接接觸或吸入放射性粒子或氣體。</Apparel_RadiationMask.description>
+
+  <Apparel_MoppMaskDesert.label>MOPP輻射防護面罩(沙漠)</Apparel_MoppMaskDesert.label>
+  <Apparel_MoppMaskDesert.description>透過內層防護屏蔽輻射，但更重要的是要防止直接接觸或吸入放射性粒子或氣體。戰鬥版本採用更堅固的材料製造，以增加耐久性。</Apparel_MoppMaskDesert.description>
+
+  <Apparel_MoppMaskWoodland.label>MOPP輻射防護面罩(樹林)</Apparel_MoppMaskWoodland.label>
+  <Apparel_MoppMaskWoodland.description>透過內層防護屏蔽輻射，但更重要的是要防止直接接觸或吸入放射性粒子或氣體。戰鬥版本採用更堅固的材料製造，以增加耐久性。</Apparel_MoppMaskWoodland.description>
+
+  <Apparel_MoppMaskSnow.label>MOPP輻射防護面罩(雪地)</Apparel_MoppMaskSnow.label>
+  <Apparel_MoppMaskSnow.description>透過內層防護屏蔽輻射，但更重要的是要防止直接接觸或吸入放射性粒子或氣體。戰鬥版本採用更堅固的材料製造，以增加耐久性。</Apparel_MoppMaskSnow.description>
+
+  <Apparel_RadiationSuit.label>輻射防護服</Apparel_RadiationSuit.label>
+  <Apparel_RadiationSuit.description>一套透過內層防護屏蔽輻射的防護服。</Apparel_RadiationSuit.description>
+
+  <Apparel_MoppSuitDesert.label>MOPP輻射防護服(沙漠)</Apparel_MoppSuitDesert.label>
+  <Apparel_MoppSuitDesert.description>一套透過內層防護屏蔽輻射的防護服。戰鬥版本採用更堅固的材料製造，以增加耐久性。</Apparel_MoppSuitDesert.description>
+
+  <Apparel_MoppSuitWoodland.label>MOPP輻射防護服(樹林)</Apparel_MoppSuitWoodland.label>
+  <Apparel_MoppSuitWoodland.description>一套透過內層防護屏蔽輻射的防護服。戰鬥版本採用更堅固的材料製造，以增加耐久性。</Apparel_MoppSuitWoodland.description>
+
+  <Apparel_MoppSuitSnow.label>MOPP輻射防護服(雪地)</Apparel_MoppSuitSnow.label>
+  <Apparel_MoppSuitSnow.description>一套透過內層防護屏蔽輻射的防護服。戰鬥版本採用更堅固的材料製造，以增加耐久性。</Apparel_MoppSuitSnow.description>
+
+
+</LanguageData>

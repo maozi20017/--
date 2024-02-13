@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RocketEngine.label>火箭引擎</RocketEngine.label>
+  <RocketEngine.description>用於製造火箭推進器的引擎</RocketEngine.description>
+
+  <MissileFuselage.label>飛彈外殼</MissileFuselage.label>
+  <MissileFuselage.description>洲際彈道飛彈的外殼。</MissileFuselage.description>
+
+  <FissionWarhead.label>核彈頭</FissionWarhead.label>
+  <FissionWarhead.description>一種利用核反應產生破壞性力量的爆炸裝置。</FissionWarhead.description>
+
+  <ICBM_Fission.label>洲際彈道飛彈</ICBM_Fission.label>
+  <NuclearWarheadIncoming.label>飛彈來襲</NuclearWarheadIncoming.label>
+  <ICBMStrike.label>洲際彈道飛彈打擊</ICBMStrike.label>
+
+
+</LanguageData>

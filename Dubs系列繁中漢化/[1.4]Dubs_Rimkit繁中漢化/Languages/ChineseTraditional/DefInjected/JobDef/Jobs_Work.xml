@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TendSelf.reportString>包紮TargetA。</TendSelf.reportString>
+
+
+  <!-- <JobDef>
+		<defName>Bandage</defName>
+		<driverClass>Dubs_Rimkit.JobDriver_Bandage</driverClass>
+		<reportString>Bandaging with kit。</reportString>
+	</JobDef> -->
+
+  <BandageOthers.reportString>包紮TargetA。</BandageOthers.reportString>
+  <FixBrokenDownBuildingRepairKit.reportString>替換TargetA中的損壞組件。</FixBrokenDownBuildingRepairKit.reportString>
+
+
+  <!--<Bandage.reportString>包紮中。</Bandage.reportString>-->
+
+</LanguageData>

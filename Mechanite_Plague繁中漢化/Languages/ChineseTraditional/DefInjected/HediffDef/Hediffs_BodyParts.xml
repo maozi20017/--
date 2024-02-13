@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Guardian Kidney: provides immunity to the Mechanite Plague, also slightly more efficient -->
+
+  <MP_GuardianKidney.label>guardian kidney</MP_GuardianKidney.label>
+  <MP_GuardianKidney.description>An installed guardian kidney.</MP_GuardianKidney.description>
+  <MP_GuardianKidney.labelNoun>a guardian kidney</MP_GuardianKidney.labelNoun>
+
+
+</LanguageData>

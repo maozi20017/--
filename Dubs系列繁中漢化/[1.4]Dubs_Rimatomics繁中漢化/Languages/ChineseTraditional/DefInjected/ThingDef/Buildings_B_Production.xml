@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NuclearResearchBench.label>邊緣核能研究台</NuclearResearchBench.label>
+  <NuclearResearchBench.description>用於邊緣核能的研究項目。需要消耗電力。</NuclearResearchBench.description>
+  <NuclearResearchBench_Blueprint.label>邊緣核能研究台 (藍圖)</NuclearResearchBench_Blueprint.label>
+  <NuclearResearchBench_Frame.label>邊緣核能研究台 (建造中)</NuclearResearchBench_Frame.label>
+  <NuclearResearchBench_Frame.description>用於邊緣核能的研究項目。需要消耗電力。</NuclearResearchBench_Frame.description>
+
+  <TableRimatomicsMachining.label>邊緣核能機械加工台</TableRimatomicsMachining.label>
+  <TableRimatomicsMachining.description>一個組裝邊緣核能科技的工作站。</TableRimatomicsMachining.description>
+  <TableRimatomicsMachining_Blueprint.label>邊緣核能機械加工台 (藍圖)</TableRimatomicsMachining_Blueprint.label>
+  <TableRimatomicsMachining_Frame.label>邊緣核能機械加工台 (建造中)</TableRimatomicsMachining_Frame.label>
+  <TableRimatomicsMachining_Frame.description>一個組裝邊緣核能科技的工作站。</TableRimatomicsMachining_Frame.description>
+
+  <ResearchReactor.label>研究用反應爐</ResearchReactor.label>
+  <ResearchReactor.description>研究用反應爐。</ResearchReactor.description>
+  <ResearchReactor_Blueprint.label>研究用反應爐 (藍圖)</ResearchReactor_Blueprint.label>
+  <ResearchReactor_Frame.label>研究用反應爐 (建造中)</ResearchReactor_Frame.label>
+  <ResearchReactor_Frame.description>研究用反應爐。</ResearchReactor_Frame.description>
+
+  <WeaponsBench.label>武器研究台</WeaponsBench.label>
+  <WeaponsBench.description>武器研究台。</WeaponsBench.description>
+  <WeaponsBench_Blueprint.label>武器研究台 (藍圖)</WeaponsBench_Blueprint.label>
+  <WeaponsBench_Frame.label>武器研究台 (建造中)</WeaponsBench_Frame.label>
+  <WeaponsBench_Frame.description>武器研究台。</WeaponsBench_Frame.description>
+
+  <PlutoniumProcessor.label>鈽處理機</PlutoniumProcessor.label>
+  <PlutoniumProcessor.description>一種使用化學物質從核廢料中分離可裂變的鈽的機器。</PlutoniumProcessor.description>
+  <PlutoniumProcessor_Blueprint.label>鈽處理機 (藍圖)</PlutoniumProcessor_Blueprint.label>
+  <PlutoniumProcessor_Frame.label>鈽處理機 (建造中)</PlutoniumProcessor_Frame.label>
+  <PlutoniumProcessor_Frame.description>一種使用化學物質從核廢料中分離可裂變的鈽的機器。</PlutoniumProcessor_Frame.description>
+
+
+</LanguageData>

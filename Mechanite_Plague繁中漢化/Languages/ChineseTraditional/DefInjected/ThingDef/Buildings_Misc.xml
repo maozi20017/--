@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanite Disassembler: Automatically gathers Burster coprses from around the map, and disassembles them for doubled canisters. -->
+
+  <MP_BursterDisassembler.label>burster disassembler</MP_BursterDisassembler.label>
+  <MP_BursterDisassembler.description>About once per day, the Burster Disassembler is capable of sending out an autonomous horde of nanites that search the map, looking for deactivated Bursters. These are then automatically taken to the Burster Disassembler, where they are instantly broken down. This produces double the amount of Mechanite Canisters, but no steel.\n\nFairly essential for colonies that employ immense amounts of Bursters, especially if they want to get rid of all of them in a somewhat reasonable timeframe. Requires a low amount of power to function.</MP_BursterDisassembler.description>
+
+
+</LanguageData>

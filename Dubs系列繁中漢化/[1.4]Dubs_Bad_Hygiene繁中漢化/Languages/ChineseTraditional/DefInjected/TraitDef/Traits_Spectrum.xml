@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hygienic.degreeDatas.0.label>潔癖</Hygienic.degreeDatas.0.label>
+  <Hygienic.degreeDatas.0.description>[PAWN_nameDef]對細菌非常在意，會比一般人更頻繁地洗手。</Hygienic.degreeDatas.0.description>
+  <Hygienic.degreeDatas.1.label>衛生的</Hygienic.degreeDatas.1.label>
+  <Hygienic.degreeDatas.1.description>[PAWN_nameDef]非常注重衛生，會更頻繁地進行洗澡清潔。</Hygienic.degreeDatas.1.description>
+  <Hygienic.degreeDatas.2.label>不衛生的</Hygienic.degreeDatas.2.label>
+  <Hygienic.degreeDatas.2.description>[PAWN_nameDef]非常不衛生，可能不會經常進行洗澡或清潔。</Hygienic.degreeDatas.2.description>
+  <Hygienic.degreeDatas.3.label>邋遢</Hygienic.degreeDatas.3.label>
+  <Hygienic.degreeDatas.3.description>[PAWN_nameDef]對衛生標準要求很低，只有在非常必要的情況下才會進行洗澡或清潔。</Hygienic.degreeDatas.3.description>
+
+
+</LanguageData>

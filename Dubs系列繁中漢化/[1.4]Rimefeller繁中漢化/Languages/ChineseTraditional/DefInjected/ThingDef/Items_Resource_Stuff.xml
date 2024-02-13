@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shell_Napalm.label>凝固汽油彈</Shell_Napalm.label>
+  <Shell_Napalm.description>內部充滿易燃凝膠和一個小型爆炸裝置的炮彈。引爆時能夠點燃火源。可以用迫擊炮中發射。當受損時會爆炸。</Shell_Napalm.description>
+
+  <Bullet_Shell_Napalm.label>凝固汽油彈</Bullet_Shell_Napalm.label>
+
+  <Napalm.label>凝固汽油</Napalm.label>
+  <Napalm.description>一種高度易燃的黏性凝膠，用於燃燒彈，由化學燃料與聚乙烯增稠劑混合而成。</Napalm.description>
+
+  <OilBarrel.label>油桶</OilBarrel.label>
+  <OilBarrel.description>一個裝滿原油的桶，可以被倒掉、燃燒或處理。</OilBarrel.description>
+
+  <UncuredPlasteel.label>未固化的塑鋼</UncuredPlasteel.label>
+  <UncuredPlasteel.description>未固化的塑鋼，需要在高壓釜中進行固化處理。</UncuredPlasteel.description>
+
+  <Synthamide.label>聚酰胺纖維</Synthamide.label>
+  <Synthamide.description>一種耐高溫和強度較高的合成纖維，用於製作非常耐用的服裝或創建高強度的複合材料。</Synthamide.description>
+
+  <Synthylene.label>聚乙烯</Synthylene.label>
+  <Synthylene.description>一種人造建材。</Synthylene.description>
+  <Synthylene.stuffProps.stuffAdjective>聚乙烯</Synthylene.stuffProps.stuffAdjective>
+
+  <UncuredComposite.label>未固化的聚酰胺複合材料</UncuredComposite.label>
+  <UncuredComposite.description>未經固化的聚酰胺複合材料，需要在高壓釜中進行固化處理。</UncuredComposite.description>
+
+  <!--[Duplicated] <FiberComposite.label>Synthamide Composite</FiberComposite.label>-->
+  <!--[Duplicated] <FiberComposite.description>Synthamide composite is a high strength light weight fire resistant spacer tech composite material, made of a polymer matrix reinforced with aramid fibres。</FiberComposite.description>-->
+  <!--[Duplicated] <FiberComposite.stuffProps.stuffAdjective>Synthamide Composite</FiberComposite.stuffProps.stuffAdjective>-->
+
+  <FiberComposite.label>複合材料</FiberComposite.label>
+  <FiberComposite.description>聚酰胺複合材料是一種高強度、輕量、防火的夾層科技複合材料，由多種聚合物混合製成。</FiberComposite.description>
+  <FiberComposite.stuffProps.stuffAdjective>複合材料</FiberComposite.stuffProps.stuffAdjective>
+
+
+</LanguageData>

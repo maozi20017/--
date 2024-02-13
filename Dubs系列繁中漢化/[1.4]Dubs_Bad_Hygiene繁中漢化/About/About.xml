@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Dubs Bad Hygiene繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.dubsbadhygiene</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Dubwise.dubsbadhygiene</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+新增污水處理系統、馬桶、淋浴、衛生需求和情緒影響、中央暖氣、自來水、灌溉、肥料、空調、熱水浴池、廚房水槽等等，應有盡有！包括 Lite 模式，支援多人遊玩。
+
+點此前往該模組的 [url=https://github.com/Dubwise56/Dubs-Bad-Hygiene/wiki]WIKI[/url]
+
+與現有的存檔相容！但無法輕易地從存檔中移除。
+
+Lite 模式
+請在此訂閱該模組的 Lite 版本：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2570319432]Dubs Bad Hygiene Lite[/url]
+也可在此版本的模組設置中啟用，需要重新啟動以從模組中移除 defs。
+	</description>
+
+</ModMetaData>

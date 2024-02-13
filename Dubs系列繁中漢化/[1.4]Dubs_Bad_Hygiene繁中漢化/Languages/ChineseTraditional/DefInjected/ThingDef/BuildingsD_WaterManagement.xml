@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WATER PUMPING -->
+
+  <WaterWellInlet.label>水井</WaterWellInlet.label>
+  <WaterWellInlet.description>可通過水泵抽取地下水。污水或其他污染物的存在會降低水質，並可能導致污染。</WaterWellInlet.description>
+  <WaterWellInlet_Blueprint.label>水井 (藍圖)</WaterWellInlet_Blueprint.label>
+  <WaterWellInlet_Frame.label>水井 (建造中)</WaterWellInlet_Frame.label>
+  <WaterWellInlet_Frame.description>可通過水泵抽取地下水。污水或其他污染物的存在會降低水質，並可能導致污染。</WaterWellInlet_Frame.description>
+
+  <DeepWaterWellInlet.label>深井</DeepWaterWellInlet.label>
+  <DeepWaterWellInlet.description>可通過水泵抽取大範圍的地下水。深井不受污染的影響。</DeepWaterWellInlet.description>
+  <DeepWaterWellInlet_Blueprint.label>深井 (藍圖)</DeepWaterWellInlet_Blueprint.label>
+  <DeepWaterWellInlet_Frame.label>深井 (建造中)</DeepWaterWellInlet_Frame.label>
+  <DeepWaterWellInlet_Frame.description>可通過水泵抽取大範圍的地下水。深井不受污染的影響。</DeepWaterWellInlet_Frame.description>
+
+  <WaterButt.label>儲水桶</WaterButt.label>
+  <WaterButt.description>儲存水以供管道裝置使用。如果儲存的水被污染，則必須排空儲水箱。</WaterButt.description>
+  <WaterButt_Blueprint.label>儲水桶 (藍圖)</WaterButt_Blueprint.label>
+  <WaterButt_Blueprint_Install.label>儲水桶 (藍圖)</WaterButt_Blueprint_Install.label>
+  <WaterButt_Frame.label>儲水桶 (建造中)</WaterButt_Frame.label>
+  <WaterButt_Frame.description>儲存水以供管道裝置使用。如果儲存的水被污染，則必須排空儲水箱。</WaterButt_Frame.description>
+
+  <WaterTowerS.label>水塔</WaterTowerS.label>
+  <WaterTowerS.description>儲存水以供管道裝置使用。如果儲存的水被污染，則必須排空儲水箱。</WaterTowerS.description>
+  <WaterTowerS_Blueprint.label>水塔 (藍圖)</WaterTowerS_Blueprint.label>
+  <WaterTowerS_Frame.label>水塔 (建造中)</WaterTowerS_Frame.label>
+  <WaterTowerS_Frame.description>儲存水以供管道裝置使用。如果儲存的水被污染，則必須排空儲水箱。</WaterTowerS_Frame.description>
+
+  <WaterTowerL.label>巨型水塔</WaterTowerL.label>
+  <WaterTowerL.description>儲存水以供管道裝置使用。如果儲存的水被污染，則必須排空儲水箱。</WaterTowerL.description>
+  <WaterTowerL_Blueprint.label>巨型水塔 (藍圖)</WaterTowerL_Blueprint.label>
+  <WaterTowerL_Frame.label>巨型水塔 (建造中)</WaterTowerL_Frame.label>
+  <WaterTowerL_Frame.description>儲存水以供管道裝置使用。如果儲存的水被污染，則必須排空儲水箱。</WaterTowerL_Frame.description>
+
+  <WindPump.label>風力水泵</WindPump.label>
+  <WindPump.description>將水從井中抽到水塔。抽水能力: 3000 升/天。</WindPump.description>
+  <WindPump_Blueprint.label>風力水泵 (藍圖)</WindPump_Blueprint.label>
+  <WindPump_Frame.label>風力水泵 (建造中)</WindPump_Frame.label>
+  <WindPump_Frame.description>將水從井中抽到水塔。抽水能力: 3000 升/天。</WindPump_Frame.description>
+
+  <ElectricPump.label>電力水泵</ElectricPump.label>
+  <ElectricPump.description>將水從井中抽到水塔。抽水能力: 1500 升/天。</ElectricPump.description>
+  <ElectricPump_Blueprint.label>電力水泵 (藍圖)</ElectricPump_Blueprint.label>
+  <ElectricPump_Blueprint_Install.label>電力水泵 (藍圖)</ElectricPump_Blueprint_Install.label>
+  <ElectricPump_Frame.label>電力水泵 (建造中)</ElectricPump_Frame.label>
+  <ElectricPump_Frame.description>將水從井中抽到水塔。抽水能力: 1500 升/天。</ElectricPump_Frame.description>
+
+  <PumpingStation.label>水泵站</PumpingStation.label>
+  <PumpingStation.description>將水從井中抽到水塔。抽水能力: 10000 升/天。</PumpingStation.description>
+  <PumpingStation_Blueprint.label>水泵站 (藍圖)</PumpingStation_Blueprint.label>
+  <PumpingStation_Frame.label>水泵站 (建造中)</PumpingStation_Frame.label>
+  <PumpingStation_Frame.description>將水從井中抽到水塔。抽水能力: 10000 升/天。</PumpingStation_Frame.description>
+
+  <SewageOutlet.label>排污口</SewageOutlet.label>
+  <SewageOutlet.description>可以放在任何地方。污水會在陸地上積聚和擴散，或者在水中散佈。污水會隨著時間清理乾淨；樹木、水或雨水的存在會加速這個過程。</SewageOutlet.description>
+  <SewageOutlet_Blueprint.label>排污口 (藍圖)</SewageOutlet_Blueprint.label>
+  <SewageOutlet_Frame.label>排污口 (建造中)</SewageOutlet_Frame.label>
+  <SewageOutlet_Frame.description>可以放在任何地方。污水會在陸地上積聚和擴散，或者在水中散佈。污水會隨著時間清理乾淨；樹木、水或雨水的存在會加速這個過程。</SewageOutlet_Frame.description>
+
+  <SewageSepticTank.label>化糞池</SewageSepticTank.label>
+  <SewageSepticTank.description>隨時間逐漸清理污水。 污水先排到化糞池。 如果化糞池已滿，多餘的污水會被排到污水口。</SewageSepticTank.description>
+  <SewageSepticTank_Blueprint.label>化糞池 (藍圖)</SewageSepticTank_Blueprint.label>
+  <SewageSepticTank_Frame.label>化糞池 (建造中)</SewageSepticTank_Frame.label>
+  <SewageSepticTank_Frame.description>隨時間逐漸清理污水。 污水先排到化糞池。 如果化糞池已滿，多餘的污水會被排到污水口。</SewageSepticTank_Frame.description>
+
+  <SewageTreatment.label>污水處理池</SewageTreatment.label>
+  <SewageTreatment.description>隨時間逐漸清理污水。達到滿負荷後，多餘的污水將不經處理直接從排污口排出。</SewageTreatment.description>
+  <SewageTreatment_Blueprint.label>污水處理池 (藍圖)</SewageTreatment_Blueprint.label>
+  <SewageTreatment_Frame.label>污水處理池 (建造中)</SewageTreatment_Frame.label>
+  <SewageTreatment_Frame.description>隨時間逐漸清理污水。達到滿負荷後，多餘的污水將不經處理直接從排污口排出。</SewageTreatment_Frame.description>
+
+  <WaterTreatment.label>水處理器</WaterTreatment.label>
+  <WaterTreatment.description>能夠清除99.99％的細菌！過濾儲水塔中的現有水以及任何使用固定裝置的水，消除疾病風險。</WaterTreatment.description>
+  <WaterTreatment_Blueprint.label>水處理器 (藍圖)</WaterTreatment_Blueprint.label>
+  <WaterTreatment_Frame.label>水處理器 (建造中)</WaterTreatment_Frame.label>
+  <WaterTreatment_Frame.description>能夠清除99.99％的細菌！過濾儲水塔中的現有水以及任何使用固定裝置的水，消除疾病風險。</WaterTreatment_Frame.description>
+
+
+</LanguageData>

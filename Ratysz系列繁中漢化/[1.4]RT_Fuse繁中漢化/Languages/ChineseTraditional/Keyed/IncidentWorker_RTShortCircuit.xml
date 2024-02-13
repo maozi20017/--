@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IncidentWorker_RTShortCircuit_PartialMitigation>接入電網的電池中的所有{0}W電量都已釋放，但其中{1}W電量被保險絲和斷路器抵消。</IncidentWorker_RTShortCircuit_PartialMitigation>
+
+  <IncidentWorker_RTShortCircuit_FullMitigation>接入電網的電池中的所有{0}W電量都已釋放，釋放出的電量都被保險絲和斷路器抵消，沒有發生事故。</IncidentWorker_RTShortCircuit_FullMitigation>
+
+</LanguageData>

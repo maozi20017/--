@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heating -->
+
+  <Thermostat.label>恆溫器</Thermostat.label>
+  <Thermostat.description>用於控制電力和燃氣鍋爐，可安裝多個，通過管道連接。</Thermostat.description>
+  <Thermostat_Blueprint.label>恆溫器 (藍圖)</Thermostat_Blueprint.label>
+  <Thermostat_Blueprint_Install.label>恆溫器 (藍圖)</Thermostat_Blueprint_Install.label>
+  <Thermostat_Frame.label>恆溫器 (建造中)</Thermostat_Frame.label>
+  <Thermostat_Frame.description>用於控制電力和燃氣鍋爐，可安裝多個，通過管道連接。</Thermostat_Frame.description>
+
+  <LogBoiler.label>鍋爐</LogBoiler.label>
+  <LogBoiler.description>產生2000 熱量單位，用於加熱暖氣和熱水儲存槽。加熱房間和相鄰的浴室，需要原木作為燃料。</LogBoiler.description>
+  <LogBoiler_Blueprint.label>鍋爐 (藍圖)</LogBoiler_Blueprint.label>
+  <LogBoiler_Blueprint_Install.label>鍋爐 (藍圖)</LogBoiler_Blueprint_Install.label>
+  <LogBoiler_Frame.label>鍋爐 (建造中)</LogBoiler_Frame.label>
+  <LogBoiler_Frame.description>產生2000 熱量單位，用於加熱暖氣和熱水儲存槽。加熱房間和相鄰的浴室，需要原木作為燃料。</LogBoiler_Frame.description>
+
+  <GasBoiler.label>燃氣鍋爐</GasBoiler.label>
+  <GasBoiler.description>產生2000 熱量單位，用於加熱暖氣和熱水儲存槽。需要化合燃料作為燃料。可以透過恆溫器進行控制。</GasBoiler.description>
+  <GasBoiler_Blueprint.label>燃氣鍋爐 (藍圖)</GasBoiler_Blueprint.label>
+  <GasBoiler_Blueprint_Install.label>燃氣鍋爐 (藍圖)</GasBoiler_Blueprint_Install.label>
+  <GasBoiler_Frame.label>燃氣鍋爐 (建造中)</GasBoiler_Frame.label>
+  <GasBoiler_Frame.description>產生2000 熱量單位，用於加熱暖氣和熱水儲存槽。需要化合燃料作為燃料。可以透過恆溫器進行控制。</GasBoiler_Frame.description>
+
+  <ElectricBoiler.label>電熱鍋爐</ElectricBoiler.label>
+  <ElectricBoiler.description>用於加熱暖氣和熱水儲存槽。可手動控制功率設置。可以透過恆溫器進行控制。</ElectricBoiler.description>
+  <ElectricBoiler_Blueprint.label>電熱鍋爐 (藍圖)</ElectricBoiler_Blueprint.label>
+  <ElectricBoiler_Blueprint_Install.label>電熱鍋爐 (藍圖)</ElectricBoiler_Blueprint_Install.label>
+  <ElectricBoiler_Frame.label>電熱鍋爐 (建造中)</ElectricBoiler_Frame.label>
+  <ElectricBoiler_Frame.description>用於加熱暖氣和熱水儲存槽。可手動控制功率設置。可以透過恆溫器進行控制。</ElectricBoiler_Frame.description>
+
+  <SolarHeater.label>太陽能加熱器</SolarHeater.label>
+  <SolarHeater.description>使用陽光加熱暖氣和熱水儲存槽，加熱功率為0至2000 熱量單位，視光線強度和環境溫度而定。</SolarHeater.description>
+  <SolarHeater_Blueprint.label>太陽能加熱器 (藍圖)</SolarHeater_Blueprint.label>
+  <SolarHeater_Frame.label>太陽能加熱器 (建造中)</SolarHeater_Frame.label>
+  <SolarHeater_Frame.description>使用陽光加熱暖氣和熱水儲存槽，加熱功率為0至2000 熱量單位，視光線強度和環境溫度而定。</SolarHeater_Frame.description>
+
+  <GeothermHeater.label>地熱加熱器</GeothermHeater.label>
+  <GeothermHeater.description>使用地熱能來加熱暖氣和熱水儲存槽，產生3700 熱量單位。</GeothermHeater.description>
+  <GeothermHeater_Blueprint.label>地熱加熱器 (藍圖)</GeothermHeater_Blueprint.label>
+  <GeothermHeater_Frame.label>地熱加熱器 (建造中)</GeothermHeater_Frame.label>
+  <GeothermHeater_Frame.description>使用地熱能來加熱暖氣和熱水儲存槽，產生3700 熱量單位。</GeothermHeater_Frame.description>
+
+  <HotWaterTank.label>熱水儲存槽</HotWaterTank.label>
+  <HotWaterTank.description>儲存淋浴和浴缸用的熱水。可以連接到任何鍋爐進行加熱。</HotWaterTank.description>
+  <HotWaterTank_Blueprint.label>熱水儲存槽 (藍圖)</HotWaterTank_Blueprint.label>
+  <HotWaterTank_Blueprint_Install.label>熱水儲存槽 (藍圖)</HotWaterTank_Blueprint_Install.label>
+  <HotWaterTank_Frame.label>熱水儲存槽 (建造中)</HotWaterTank_Frame.label>
+  <HotWaterTank_Frame.description>儲存淋浴和浴缸用的熱水。可以連接到任何鍋爐進行加熱。</HotWaterTank_Frame.description>
+
+  <RadiatorStuffed.label>暖氣</RadiatorStuffed.label>
+  <RadiatorStuffed.description>使用來自鍋爐的熱水來加熱房間，需要100 熱量單位。</RadiatorStuffed.description>
+  <RadiatorStuffed_Blueprint.label>暖氣 (藍圖)</RadiatorStuffed_Blueprint.label>
+  <RadiatorStuffed_Blueprint_Install.label>r暖氣 (藍圖)</RadiatorStuffed_Blueprint_Install.label>
+  <RadiatorStuffed_Frame.label>暖氣 (建造中)</RadiatorStuffed_Frame.label>
+  <RadiatorStuffed_Frame.description>使用來自鍋爐的熱水來加熱房間，需要100 熱量單位。</RadiatorStuffed_Frame.description>
+
+  <RadiatorLarge.label>大型暖氣</RadiatorLarge.label>
+  <RadiatorLarge.description>輸出是標準暖氣的三倍。適用於較大的房間。需要300 熱量單位。</RadiatorLarge.description>
+  <RadiatorLarge_Blueprint.label>大型暖氣 (藍圖)</RadiatorLarge_Blueprint.label>
+  <RadiatorLarge_Blueprint_Install.label>大型暖氣 (藍圖)</RadiatorLarge_Blueprint_Install.label>
+  <RadiatorLarge_Frame.label>大型暖氣 (建造中)</RadiatorLarge_Frame.label>
+  <RadiatorLarge_Frame.description>輸出是標準暖氣的三倍。適用於較大的房間。需要300 熱量單位。</RadiatorLarge_Frame.description>
+
+  <RadiatorTowelRail.label>毛巾架</RadiatorTowelRail.label>
+  <RadiatorTowelRail.description>令人印象深刻的浴室毛巾架。</RadiatorTowelRail.description>
+  <RadiatorTowelRail_Blueprint.label>毛巾架 (藍圖)</RadiatorTowelRail_Blueprint.label>
+  <RadiatorTowelRail_Blueprint_Install.label>毛巾架 (藍圖)</RadiatorTowelRail_Blueprint_Install.label>
+  <RadiatorTowelRail_Frame.label>毛巾架 (建造中)</RadiatorTowelRail_Frame.label>
+  <RadiatorTowelRail_Frame.description>令人印象深刻的浴室毛巾架。</RadiatorTowelRail_Frame.description>
+
+
+  <!-- COOLING -->
+
+  <CeilingFan.label>吊扇 2x2</CeilingFan.label>
+  <CeilingFan.description>通過循環空氣來冷卻房間。配有內置燈具。</CeilingFan.description>
+  <CeilingFan_Blueprint.label>吊扇 2x2 (藍圖)</CeilingFan_Blueprint.label>
+  <CeilingFan_Blueprint_Install.label>吊扇 2x2 (藍圖)</CeilingFan_Blueprint_Install.label>
+  <CeilingFan_Frame.label>吊扇 2x2 (建造中)</CeilingFan_Frame.label>
+  <CeilingFan_Frame.description>通過循環空氣來冷卻房間。配有內置燈具。</CeilingFan_Frame.description>
+
+  <CeilingFanS.label>吊扇 1x1</CeilingFanS.label>
+  <CeilingFanS.description>通過循環空氣來冷卻房間。配有內置燈具。</CeilingFanS.description>
+  <CeilingFanS_Blueprint.label>吊扇 1x1 (藍圖)</CeilingFanS_Blueprint.label>
+  <CeilingFanS_Blueprint_Install.label>吊扇 1x1 (藍圖)</CeilingFanS_Blueprint_Install.label>
+  <CeilingFanS_Frame.label>吊扇 1x1 (建造中)</CeilingFanS_Frame.label>
+  <CeilingFanS_Frame.description>通過循環空氣來冷卻房間。配有內置燈具。</CeilingFanS_Frame.description>
+
+  <AirConOutdoorUnit.label>空調室外機</AirConOutdoorUnit.label>
+  <AirConOutdoorUnit.description>多分體式空調系統。可放置在室外並將管道連接到室內機或冷凍庫。提供功率模式選擇，冷卻能力為100至1000 冷卻單位。</AirConOutdoorUnit.description>
+  <AirConOutdoorUnit_Blueprint.label>空調室外機 (藍圖)</AirConOutdoorUnit_Blueprint.label>
+  <AirConOutdoorUnit_Blueprint_Install.label>空調室外機 (藍圖)</AirConOutdoorUnit_Blueprint_Install.label>
+  <AirConOutdoorUnit_Frame.label>空調室外機 (建造中)</AirConOutdoorUnit_Frame.label>
+  <AirConOutdoorUnit_Frame.description>多分體式空調系統。可放置在室外並將管道連接到室內機或冷凍庫。提供功率模式選擇，冷卻能力為100至1000 冷卻單位。</AirConOutdoorUnit_Frame.description>
+
+  <AirconIndoorUnit.label>空調室內機</AirconIndoorUnit.label>
+  <AirconIndoorUnit.description>室內空調機，適用於房間。可連接到空調室外機。需要100 冷卻單位。</AirconIndoorUnit.description>
+  <AirconIndoorUnit_Blueprint.label>空調室內機 (藍圖)</AirconIndoorUnit_Blueprint.label>
+  <AirconIndoorUnit_Blueprint_Install.label>空調室內機 (藍圖)</AirconIndoorUnit_Blueprint_Install.label>
+  <AirconIndoorUnit_Frame.label>空調室內機 (建造中)</AirconIndoorUnit_Frame.label>
+  <AirconIndoorUnit_Frame.description>室內空調機，適用於房間。可連接到空調室外機。需要100 冷卻單位。</AirconIndoorUnit_Frame.description>
+
+  <FreezerUnit.label>大型製冷機</FreezerUnit.label>
+  <FreezerUnit.description>大型製冷機，用於建立步入式冷凍庫。可連接到室外空調機。需要300 冷卻單位。</FreezerUnit.description>
+  <FreezerUnit_Blueprint.label>大型製冷機 (藍圖)</FreezerUnit_Blueprint.label>
+  <FreezerUnit_Blueprint_Install.label>大型製冷機 (藍圖)</FreezerUnit_Blueprint_Install.label>
+  <FreezerUnit_Frame.label>大型製冷機 (建造中)</FreezerUnit_Frame.label>
+  <FreezerUnit_Frame.description>大型製冷機，用於建立步入式冷凍庫。可連接到室外空調機。需要300 冷卻單位。</FreezerUnit_Frame.description>
+
+
+</LanguageData>

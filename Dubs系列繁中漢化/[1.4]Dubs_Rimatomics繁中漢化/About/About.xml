@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Dubs Rimatomics繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.rimatomics</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Dubwise.rimatomics</li>
+	</loadAfter>
+    <description>
+漢化描述
+核能 | 能量武器 | 核武器
+
+支援存檔
+支援多人遊戲
+
+WIKI [url=https://github.com/Dubwise56/Rimatomics/wiki]帶我去Wiki[/url]
+
+Rimatomics 新增了核能和能量武器，並提供自訂的研究系統，逐步引導您了解大部分功能，部分細節需要您自己探索。核能系統從千瓦到兆瓦進行了擴展，提供不同類型的冷卻系統、渦輪機和反應爐核心的組合選擇，還有升級選項。為了利用如此龐大的能量，添加了各種能量武器，如微波區域阻斷系統、特斯拉線圈、高能激光、電磁軌道炮、防迫擊炮系統、威脅檢測、降落艙干擾器、許多類型的升級模組和核武器。
+	</description>
+
+</ModMetaData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_Mech_Drider.label>drider</MP_Mech_Drider.label>
+  <MP_Mech_Drider.description>Medium-sized mechanoids with the upper half of a humanoid and the lower half of a spider, Driders possess incredible speed without compromising their ability to use firearms. Making use of their speed to get in close, Driders will shred targets apart with their shotguns or their lightweight claws.\n\nThough a terror to behold on the battlefield, the Drider's design prioritizes speed over durability, making them incredibly vulnerable to focus fire.</MP_Mech_Drider.description>
+  <MP_Mech_Drider.tools.0.label>左blade</MP_Mech_Drider.tools.0.label>
+  <MP_Mech_Drider.tools.1.label>右blade</MP_Mech_Drider.tools.1.label>
+  <MP_Mech_Drider.tools.2.label>head</MP_Mech_Drider.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChemfuelHopper.label>化合燃料泵</ChemfuelHopper.label>
+  <ChemfuelHopper.description>將化合燃料儲存罐中的化合燃料泵送到可用的/可出售的罐中。</ChemfuelHopper.description>
+
+  <ChemfuelSiphon.label>化合燃料虹吸器</ChemfuelSiphon.label>
+  <ChemfuelSiphon.description>將化合燃料從罐中虹吸到化合燃料儲存罐中。</ChemfuelSiphon.description>
+
+  <RefineryLoadingBay.label>煉油廠卸貨灣</RefineryLoadingBay.label>
+  <RefineryLoadingBay.description>煉油廠需要的卸貨灣，用於卸載產品。</RefineryLoadingBay.description>
+
+  <SynthyleneRefiner.label>聚乙烯精煉廠</SynthyleneRefiner.label>
+  <SynthyleneRefiner.description>將化合燃料加工成聚乙烯，可用於建築或製作零部件。</SynthyleneRefiner.description>
+  <SynthyleneRefiner_Blueprint.label>聚乙烯精煉廠 (藍圖)</SynthyleneRefiner_Blueprint.label>
+  <SynthyleneRefiner_Blueprint_Install.label>聚乙烯精煉廠 (藍圖)</SynthyleneRefiner_Blueprint_Install.label>
+  <SynthyleneRefiner_Frame.label>聚乙烯精煉廠 (建造中)</SynthyleneRefiner_Frame.label>
+  <SynthyleneRefiner_Frame.description>將化合燃料加工成聚乙烯，可用於建築或製作零部件。</SynthyleneRefiner_Frame.description>
+
+  <NapalmRefiner.label>凝固汽油精煉廠</NapalmRefiner.label>
+  <NapalmRefiner.description>將化合燃料加工成凝固汽油，一種高度易燃的黏性凝膠，用於燃燒彈中，由化合燃料和聚乙烯增稠劑混合而成。</NapalmRefiner.description>
+  <NapalmRefiner_Blueprint.label>凝固汽油精煉廠 (藍圖)</NapalmRefiner_Blueprint.label>
+  <NapalmRefiner_Blueprint_Install.label>凝固汽油精煉廠 (藍圖)</NapalmRefiner_Blueprint_Install.label>
+  <NapalmRefiner_Frame.label>凝固汽油精煉廠 (建造中)</NapalmRefiner_Frame.label>
+  <NapalmRefiner_Frame.description>將化合燃料加工成凝固汽油，一種高度易燃的黏性凝膠，用於燃燒彈中，由化合燃料和聚乙烯增稠劑混合而成。</NapalmRefiner_Frame.description>
+
+  <SynthreadRefiner.label>合成纖維精煉廠</SynthreadRefiner.label>
+  <SynthreadRefiner.description>將化合燃料加工成合成纖維，可用於製作衣物的高強度的織物。</SynthreadRefiner.description>
+  <SynthreadRefiner_Blueprint.label>合成纖維精煉廠 (藍圖)</SynthreadRefiner_Blueprint.label>
+  <SynthreadRefiner_Blueprint_Install.label>合成纖維精煉廠 (藍圖)</SynthreadRefiner_Blueprint_Install.label>
+  <SynthreadRefiner_Frame.label>合成纖維精煉廠 (建造中)</SynthreadRefiner_Frame.label>
+  <SynthreadRefiner_Frame.description>將化合燃料加工成合成纖維，可用於製作衣物的高強度的織物。</SynthreadRefiner_Frame.description>
+
+  <SynthamideRefiner.label>聚酰胺纖維精煉廠</SynthamideRefiner.label>
+  <SynthamideRefiner.description>將化合燃料加工成聚酰胺胺編織物，一種高強度的合成纖維。</SynthamideRefiner.description>
+  <SynthamideRefiner_Blueprint.label>聚酰胺纖維精煉廠 (藍圖)</SynthamideRefiner_Blueprint.label>
+  <SynthamideRefiner_Blueprint_Install.label>聚酰胺纖維精煉廠 (藍圖)</SynthamideRefiner_Blueprint_Install.label>
+  <SynthamideRefiner_Frame.label>聚酰胺纖維精煉廠 (建造中)</SynthamideRefiner_Frame.label>
+  <SynthamideRefiner_Frame.description>將化合燃料加工成聚酰胺胺編織物，一種高強度的合成纖維。</SynthamideRefiner_Frame.description>
+
+  <HyperweaveRefiner.label>超級布料精煉廠</HyperweaveRefiner.label>
+  <HyperweaveRefiner.description>將化合燃料加工成超級布料，一種高強度的合成纖維。</HyperweaveRefiner.description>
+  <HyperweaveRefiner_Blueprint.label>超級布料精煉廠 (藍圖)</HyperweaveRefiner_Blueprint.label>
+  <HyperweaveRefiner_Blueprint_Install.label>超級布料精煉廠 (藍圖)</HyperweaveRefiner_Blueprint_Install.label>
+  <HyperweaveRefiner_Frame.label>超級布料精煉廠 (建造中)</HyperweaveRefiner_Frame.label>
+  <HyperweaveRefiner_Frame.description>將化合燃料加工成超級布料，一種高強度的合成纖維。</HyperweaveRefiner_Frame.description>
+
+  <NeutroamineRefiner.label>中性胺精煉廠</NeutroamineRefiner.label>
+  <NeutroamineRefiner.description>將化合燃料加工成中性胺，用於製藥。</NeutroamineRefiner.description>
+  <NeutroamineRefiner_Blueprint.label>中性胺精煉廠 (藍圖)</NeutroamineRefiner_Blueprint.label>
+  <NeutroamineRefiner_Blueprint_Install.label>中性胺精煉廠 (藍圖)</NeutroamineRefiner_Blueprint_Install.label>
+  <NeutroamineRefiner_Frame.label>中性胺精煉廠 (建造中)</NeutroamineRefiner_Frame.label>
+  <NeutroamineRefiner_Frame.description>將化合燃料加工成中性胺，用於製藥。</NeutroamineRefiner_Frame.description>
+
+  <Autoclave.label>高壓釜</Autoclave.label>
+  <Autoclave.description>將未固化的塑鋼或聚酰胺複合材料烘烤成最終產品。</Autoclave.description>
+  <Autoclave_Blueprint.label>高壓釜 (藍圖)</Autoclave_Blueprint.label>
+  <Autoclave_Blueprint_Install.label>高壓釜 (藍圖)</Autoclave_Blueprint_Install.label>
+  <Autoclave_Frame.label>高壓釜 (建造中)</Autoclave_Frame.label>
+  <Autoclave_Frame.description>將未固化的塑鋼或聚酰胺複合材料烘烤成最終產品。</Autoclave_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Rimefeller繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.rimefeller</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Dubwise.rimefeller</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+鑽探石油，將其加工成化學燃料、塑料、複合材料和凝固汽油。
+
+可與現有的存檔兼容。
+
+如果您使用的是舊版本的 Zetrith 多人遊戲模組，則控制台界面將無法繪製，請在 Steam 上升級到最新版本。
+
+Rimefeller 新增的功能：
+鑽探淺層和深層儲油層中的原油。
+將原油裂解成儲存在儲罐中並分配給料斗和精煉廠的化學燃料。
+運行通過管道供應化學燃料的化學燃料發電廠。
+將化學燃料精煉為一種名為「聚乙烯」的塑料，用作通用建材，類似於木材。
+將化學燃料精煉為類似於防彈衣的高強度線纖維「聚酰胺」。
+將聚乙烯和聚酰胺手工製作成高強度建材「聚酰胺複合材料」。
+生產中和聚酰胺。
+使用鋼和聚乙烯的混合物製作塑鋼和組件。
+製作凝固汽油，以鋪設道路和投擲凝固汽油炸彈，將一切燃燒成灰燼。
+石油泄漏事件
+
+問：為什麼我的裂解廠或精煉廠沒有運作？
+答：檢查是否缺少管道。檢查是否有儲罐被設定為排放狀態。檢查是否已在控制台上添加精煉訂單。並檢查是否有手工工匠可以操作控制台以運行機器。
+	</description>
+
+</ModMetaData>

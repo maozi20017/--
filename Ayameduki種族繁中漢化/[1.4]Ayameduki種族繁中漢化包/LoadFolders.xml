@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+  <v1.4>
+    <li>/</li>
+    <li>1.4</li>
+    <li IfModActive="ayameduki.harchaoura">1.4/Chaoura</li>
+    <li IfModActive="ayameduki.bossenforcer">1.4/Enforcer</li>
+    <li IfModActive="ayameduki.haridearn">1.4/Idearn</li>
+    <li IfModActive="ayameduki.haridhale">1.4/Idhale</li>
+    <li IfModActive="ayameduki.harlittluna">1.4/Littluna</li>
+    <li IfModActive="ayameduki.harnearmare">1.4/Nearmare</li>
+    <li IfModActive="ayameduki.harneclose">1.4/Neclose</li>
+    <li IfModActive="ayameduki.harnexaga">1.4/Nexaga</li>
+    <li IfModActive="ayameduki.harqualeela">1.4/Qualeela</li>
+    <li IfModActive="ayameduki.bossrequeen">1.4/Requeen</li>
+    <li IfModActive="ayameduki.harsaclean">1.4/Saclean</li>
+    <li IfModActive="ayameduki.harsilkiera">1.4/Silkiera</li>
+    <li IfModActive="ayameduki.harsolark">1.4/Solark</li>
+    <li IfModActive="ayameduki.harxenoorca">1.4/Xenoorca</li>
+    <li IfModActive="ayameduki.hareveliet">1.4/Eveliet</li>
+    <li IfModActive="ayameduki.ideastoryteller">1.4/Ideastoryteller</li>
+  </v1.4>
+</loadFolders>

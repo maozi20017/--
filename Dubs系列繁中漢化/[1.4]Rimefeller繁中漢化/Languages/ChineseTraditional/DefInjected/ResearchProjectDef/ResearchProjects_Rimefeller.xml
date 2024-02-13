@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilDrilling.label>鑽探石油</OilDrilling.label>
+  <OilDrilling.description>鑽探石油。</OilDrilling.description>
+
+  <DeepOilWells.label>深油井</DeepOilWells.label>
+  <DeepOilWells.description>鑽探更深的井以開採新的、更大的油藏。</DeepOilWells.description>
+
+  <ChemfuelRefining.label>化合燃料精煉</ChemfuelRefining.label>
+  <ChemfuelRefining.description>將原油提煉成化合燃料，存儲在化合燃料儲罐中。</ChemfuelRefining.description>
+
+  <NeutroamineProduction.label>中性胺</NeutroamineProduction.label>
+  <NeutroamineProduction.description>將儲存的化合燃料加工成中性胺，可用於製造藥品。</NeutroamineProduction.description>
+
+  <SynthyleneProduction.label>聚乙烯</SynthyleneProduction.label>
+  <SynthyleneProduction.description>從儲存的化合燃料加工成聚乙烯，可用於建築或製作零部件的材料。</SynthyleneProduction.description>
+
+  <Napalm.label>凝固汽油</Napalm.label>
+  <Napalm.description>高度易燃的粘性凝膠，可用於燃燒彈，用聚乙烯增稠的化學燃料組成。</Napalm.description>
+
+  <ArtificialFloors.label>人造地板</ArtificialFloors.label>
+  <ArtificialFloors.description>用聚乙烯製造人造地板。</ArtificialFloors.description>
+
+  <SynthyleneComponents.label>聚乙烯零部件</SynthyleneComponents.label>
+  <SynthyleneComponents.description>使用聚乙烯和鋼鐵製造零部件，減緩你鋼鐵庫存的消耗。</SynthyleneComponents.description>
+
+  <SynthyleneAdvComponents.label>高級聚乙烯零部件</SynthyleneAdvComponents.label>
+  <SynthyleneAdvComponents.description>使用聚乙烯製作高級零部件，減緩你鋼鐵庫存的消耗。</SynthyleneAdvComponents.description>
+
+  <SynthreadProduction.label>合成纖維</SynthreadProduction.label>
+  <SynthreadProduction.description>將儲存的化合燃料加工成合成纖維，可用於製作服裝的織物。</SynthreadProduction.description>
+
+  <SynthamideProduction.label>聚酰胺纖維</SynthamideProduction.label>
+  <SynthamideProduction.description>生產聚酰胺纖維，一種耐高溫、強度高的合成纖維，可用於製造非常耐用的衣物。</SynthamideProduction.description>
+
+  <SynthamideCompositeProduction.label>聚酰胺複合材料</SynthamideCompositeProduction.label>
+  <SynthamideCompositeProduction.description>生產聚酰胺複合材料，一種高強度、輕量、防火的間隔技術複合材料，由多種聚合物混合製成。</SynthamideCompositeProduction.description>
+
+  <PlasteelProduction.label>塑鋼</PlasteelProduction.label>
+  <PlasteelProduction.description>發掘製造塑鋼的秘密。</PlasteelProduction.description>
+
+  <HyperweaveProduction.label>超級布料</HyperweaveProduction.label>
+  <HyperweaveProduction.description>發掘製造超級布料的秘密。</HyperweaveProduction.description>
+
+
+</LanguageData>

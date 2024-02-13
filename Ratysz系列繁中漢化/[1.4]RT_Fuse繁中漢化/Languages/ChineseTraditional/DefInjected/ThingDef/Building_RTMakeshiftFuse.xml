@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Building_RTMakeshiftFuse.label>保險絲</Building_RTMakeshiftFuse.label>
+  <Building_RTMakeshiftFuse.description>一根簡單的保險絲，可以安全地抵消1800W的放電，熔斷後需要維修。</Building_RTMakeshiftFuse.description>
+  <Building_RTMakeshiftFuse_Blueprint.label>保險絲 (藍圖)</Building_RTMakeshiftFuse_Blueprint.label>
+  <Building_RTMakeshiftFuse_Blueprint_Install.label>保險絲 (藍圖)</Building_RTMakeshiftFuse_Blueprint_Install.label>
+  <Building_RTMakeshiftFuse_Frame.label>保險絲 (建造中)</Building_RTMakeshiftFuse_Frame.label>
+  <Building_RTMakeshiftFuse_Frame.description>一根簡單的保險絲，可以安全地抵消1800W的放電，熔斷後需要維修。</Building_RTMakeshiftFuse_Frame.description>
+
+
+</LanguageData>

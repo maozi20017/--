@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanite Blowpipe -->
+
+  <MP_Bullet_MechaniteBlowdart.label>mechanite blowdart</MP_Bullet_MechaniteBlowdart.label>
+
+  <MP_Gun_MechaniteBlowpipe.label>mechanite blowpipe</MP_Gun_MechaniteBlowpipe.label>
+  <MP_Gun_MechaniteBlowpipe.description>A hollow wooden tube that fires metallic darts, tipped with the contents of a Mechanite Canister. The darts aren't very potent, giving them a chance to not apply the Mechanite Plague. While not very deadly alone, a horde of tribals with blowpipes is a force to be reckoned with.</MP_Gun_MechaniteBlowpipe.description>
+  <MP_Gun_MechaniteBlowpipe.tools.0.label>shaft</MP_Gun_MechaniteBlowpipe.tools.0.label>
+
+
+  <!-- Mechanite Darter -->
+
+  <MP_Bullet_MechaniteDart.label>mechanite dart</MP_Bullet_MechaniteDart.label>
+
+  <MP_Gun_MechaniteDarter.label>mechanite darter</MP_Gun_MechaniteDarter.label>
+  <MP_Gun_MechaniteDarter.description>A lightweight, quick-firing dart pistol. It's a bit on the inaccurate side, but the darts it fires will apply the Mechanite Plague. Thanks to the lack of recoil, the user can quickly move after firing. It deals less damage than conventional firearms.</MP_Gun_MechaniteDarter.description>
+  <MP_Gun_MechaniteDarter.tools.0.label>grip</MP_Gun_MechaniteDarter.tools.0.label>
+  <MP_Gun_MechaniteDarter.tools.1.label>barrel</MP_Gun_MechaniteDarter.tools.1.label>
+
+
+  <!-- Mechanite Stinger -->
+
+  <MP_Bullet_MechaniteDartHeavy.label>heavy mechanite dart</MP_Bullet_MechaniteDartHeavy.label>
+
+  <MP_Gun_MechaniteStinger.label>mechanite stinger</MP_Gun_MechaniteStinger.label>
+  <MP_Gun_MechaniteStinger.description>A lightweight dart rifle equipped with armor-piercing darts. These are filled with plague-inducing mechanites, spreading the Mechanite Plague at a safe distance. Thanks to the lack of recoil, the user can quickly move after firing. It deals less damage than conventional firearms.</MP_Gun_MechaniteStinger.description>
+  <MP_Gun_MechaniteStinger.tools.0.label>stock</MP_Gun_MechaniteStinger.tools.0.label>
+  <MP_Gun_MechaniteStinger.tools.1.label>barrel</MP_Gun_MechaniteStinger.tools.1.label>
+
+
+  <!-- Mechanite Tempest -->
+
+  <MP_Bullet_MechaniteFrag.label>mechanite shard</MP_Bullet_MechaniteFrag.label>
+
+  <MP_Gun_MechaniteTempest.label>mechanite tempest</MP_Gun_MechaniteTempest.label>
+  <MP_Gun_MechaniteTempest.description>A mid-ranged rifle that fires a swarm of razor-sharp shards, each with a high chance to infect the target with the Mechanite Plague. Its low accuracy lends it better to hitting groups of targets. Acts as a good midpoint between conventional weaponry and plague-inducing weaponry.</MP_Gun_MechaniteTempest.description>
+  <MP_Gun_MechaniteTempest.tools.0.label>stock</MP_Gun_MechaniteTempest.tools.0.label>
+  <MP_Gun_MechaniteTempest.tools.1.label>barrel</MP_Gun_MechaniteTempest.tools.1.label>
+
+
+  <!-- Mechanite Slugger -->
+
+  <MP_Bullet_MechaniteFragShotgun.label>mechanite shard blast</MP_Bullet_MechaniteFragShotgun.label>
+
+  <MP_Gun_MechaniteSlugger.label>mechanite slugger</MP_Gun_MechaniteSlugger.label>
+  <MP_Gun_MechaniteSlugger.description>A spacer-tech shotgun that can fire two quick blasts of Mechanite Plague infected shards with fair accuracy, without sacrificing any damage output like most plague-based weaponry. Foes damaged by this weapon are infected with a stronger version of the Mechanite Plague, causing them to spawn one additional Burster upon death.</MP_Gun_MechaniteSlugger.description>
+  <MP_Gun_MechaniteSlugger.tools.0.label>stock</MP_Gun_MechaniteSlugger.tools.0.label>
+  <MP_Gun_MechaniteSlugger.tools.1.label>barrel</MP_Gun_MechaniteSlugger.tools.1.label>
+
+
+  <!-- Chaos Launcher -->
+
+  <MP_Rocket_Chaos.label>rocket</MP_Rocket_Chaos.label>
+
+  <MP_Gun_ChaosRocket.label>chaos launcher</MP_Gun_ChaosRocket.label>
+  <MP_Gun_ChaosRocket.description>A single-shot rocket launcher that fires a lightweight pod a long distance. On impact, the pod explodes into a large cloud of smoke, stunning foes in the area for a short duration. A swarm of Bursters will surge from the target location, ripping through anyone in the immediate area.</MP_Gun_ChaosRocket.description>
+  <MP_Gun_ChaosRocket.tools.0.label>barrel</MP_Gun_ChaosRocket.tools.0.label>
+
+
+  <!-- Incubator Cannon (mech only) -->
+
+  <MP_Rocket_EggPod.label>egg pod</MP_Rocket_EggPod.label>
+
+  <MP_Gun_IncubatorSpawner.label>incubator cannon</MP_Gun_IncubatorSpawner.label>
+  <MP_Gun_IncubatorSpawner.description>A heavy cannon held within the internals of the Incubator. Fires twin pods that spread smoke on impact, each containing two fully-operational Bursters. While menacing, it has a long cooldown period.\n\nIt is said that the Chaos Launcher line of rockets is but a crude replica of the technology used within this cannon.</MP_Gun_IncubatorSpawner.description>
+  <MP_Gun_IncubatorSpawner.tools.0.label>barrel</MP_Gun_IncubatorSpawner.tools.0.label>
+
+
+</LanguageData>

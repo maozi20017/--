@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus.label>Mint選單</MintMenus.label>
+  <MintMenus.description>搜索所有模組的所有建築物。</MintMenus.description>
+
+  <MintResearch.label>Mint研究</MintResearch.label>
+  <MintResearch.description>搜索研究項目。</MintResearch.description>
+
+  <MintDesignators.label>Mint標籤</MintDesignators.label>
+  <MintDesignators.description>快速選擇標籤。</MintDesignators.description>
+
+  <MintBillMenu.label>Mint工作選單</MintBillMenu.label>
+  <MintBillMenu.description>查看所有工作。</MintBillMenu.description>
+
+  <MintGearMenu.label>Mint裝備選單</MintGearMenu.label>
+  <MintGearMenu.description>查看所有單位裝備。</MintGearMenu.description>
+
+
+</LanguageData>

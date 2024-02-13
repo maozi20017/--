@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GenerateFloorsDesc>從其他地板中生成聚乙烯地板風格</GenerateFloorsDesc>
+  <GenerateFloors>生成地板</GenerateFloors>
+  <CommandDesignateOpenCloseValveLabelRimefeller>切換閥門</CommandDesignateOpenCloseValveLabelRimefeller>
+  <CommandDesignateOpenCloseValveDescRimefeller>切換閥門開閉</CommandDesignateOpenCloseValveDescRimefeller>
+  <ValveClosedRimefeller>閥門已關閉</ValveClosedRimefeller>
+  <OilToFuelReadout>石油:{0}/小時 燃料:{1}/小時</OilToFuelReadout>
+  <CrackerNotWorking>沒有運作</CrackerNotWorking>
+  <NoUncuredPlasteel>沒有未固化的塑鋼</NoUncuredPlasteel>
+  <NoUncuredSynthamide>沒有未固化的聚酰胺複合材料</NoUncuredSynthamide>
+  <CantModeAutoclave>不能在固化時改變模式</CantModeAutoclave>
+  <CuringTime>固化剩餘時間：{0}</CuringTime>
+  <ProductionPaused>生產暫停</ProductionPaused>
+  <CurePlasteel>固化塑鋼</CurePlasteel>
+  <CureComposite>固化複合材料</CureComposite>
+  <CommandCompositeModeDesc>在這個高壓釜切換固化塑鋼或者固化複合材料</CommandCompositeModeDesc>
+
+  <FuelStorage>燃料儲量: {0} / {1}升</FuelStorage>
+  <TotalFuelStorage>管道系統燃料儲量: {0}升</TotalFuelStorage>
+
+  <DrillingPhase>鑽探油井</DrillingPhase>
+  <DrillingPhaseDesc>油井架已建造完成，但油井仍需鑽探。
+    \n\n需要具有採礦技能的殖民者監督鑽掘過程，直到完成為止。
+    \n\n最多可有3名殖民者同時監督鑽掘，以加快進度。
+    \n\n進度: {0}</DrillingPhaseDesc>
+
+  <OilStorage>石油儲量: {0} / {1}升</OilStorage>
+  <WellPressure>油井壓力: x{0}</WellPressure>
+  <OilWellCapacity>油井流量: {0} 升/天</OilWellCapacity>
+  <TotalOilStorage>管道系統燃料儲量: {0} 升 ({1})</TotalOilStorage>
+  <PipedOilPumpCapacity>管道流量: {0} 升/天</PipedOilPumpCapacity>
+
+  <DrillingProgress>鑽探進度: {0}</DrillingProgress>
+
+  <CleanOilSpill>清理石油洩漏</CleanOilSpill>
+  <CleanOilSpillDesc>清理石油洩漏或凝固汽油軌跡</CleanOilSpillDesc>
+  <DesignatorRemovePipeline>拆除管道</DesignatorRemovePipeline>
+  <DesignatorRemovePipelineDesc>拆除輸油管道</DesignatorRemovePipelineDesc>
+
+  <PlaceDirectlyOverWell>距離現有的井口太近，請放置在未使用的井上並再次點擊它</PlaceDirectlyOverWell>
+
+  <FuelPowerplantUsage>燃料消耗: {0} 升/天</FuelPowerplantUsage>
+
+  <CuringFailed>因為供電中斷導致固化失敗</CuringFailed>
+
+  <DrainStorageTank>清空儲存罐</DrainStorageTank>
+  <DrainStorageTankDesc>將此儲存罐的內容物排放到其他可用的儲存罐中</DrainStorageTankDesc>
+
+  <RaiseRefinerPower>提高功率</RaiseRefinerPower>
+  <LowerRefinerPower>降低功率</LowerRefinerPower>
+  <LowerRefinerPowerDesc>減少精煉廠使用的能量，以減少輸出</LowerRefinerPowerDesc>
+  <RaiseRefinerPowerDesc>增加精煉廠使用的能量，以增加輸出</RaiseRefinerPowerDesc>
+
+  <NoRefinerNeedsWork>沒有已連接的精煉廠或裂解廠可供運作</NoRefinerNeedsWork>
+
+  <RequiresDeepScanner>需要運作中的地層掃描儀才能看到深層油藏</RequiresDeepScanner>
+  <RequiresResourceConsole>需要運作中的資源控制台才能看到油藏</RequiresResourceConsole>
+
+  <AllowedCraftingSkill>最低手工等級 {0}</AllowedCraftingSkill>
+  <FuelStorageLimit>燃料產出限制 {0}</FuelStorageLimit>
+  <OilStorageLimit>石油產出限制 {0}</OilStorageLimit>
+
+  <FuelStoragelimitTip>裂解廠一旦達到最大值，它們將停止運作，一旦下降到最小值以下，它們將再次運作。
+    \n\n勾選以啟用</FuelStoragelimitTip>
+
+  <OilStoragelimitTip>油井一旦達到最大值，它們將停止運作，一旦下降到最小值以下，它們將再次運作。
+    \n\n勾選以啟用</OilStoragelimitTip>
+
+  <FuelPumpLimit>燃料泵限額</FuelPumpLimit>
+  <FuelPumpLimitTip>泵送燃料至此設定值, 勾選以啟用</FuelPumpLimitTip>
+
+  <ResourceConsoleAlert>資源控制台</ResourceConsoleAlert>
+  <ResourceConsoleAlertDesc>在資源控制台上打開清單選項卡，更改油和燃料生產的設置並為精煉廠新增清單</ResourceConsoleAlertDesc>
+
+  <ConsoleSettings>控制台設定</ConsoleSettings>
+  <GlobalSettings>全域設定</GlobalSettings>
+
+</LanguageData>

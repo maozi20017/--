@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DPSPaintThings.label>將物品著色</DPSPaintThings.label>
+  <DPSPaintThings.verb>著色</DPSPaintThings.verb>
+  <DPSPaintThings.gerund>正在著色</DPSPaintThings.gerund>
+
+  <DPSPaintFloors.label>將地板著色</DPSPaintFloors.label>
+  <DPSPaintFloors.verb>著色</DPSPaintFloors.verb>
+  <DPSPaintFloors.gerund>正在著色</DPSPaintFloors.gerund>
+
+  <DPSStripPaint.label>除去著色</DPSStripPaint.label>
+  <DPSStripPaint.verb>著色</DPSStripPaint.verb>
+  <DPSStripPaint.gerund>正在著色</DPSStripPaint.gerund>
+
+
+</LanguageData>

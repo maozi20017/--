@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoreBlast.label>核心爆炸</CoreBlast.label>
+  <CoreBlast.deathMessage>{0} 在一次爆炸中死亡。</CoreBlast.deathMessage>
+
+  <ArcDischarge.label>Arc Discharge</ArcDischarge.label>
+  <ArcDischarge.deathMessage>{0} 燒成焦炭了。</ArcDischarge.deathMessage>
+
+  <LaserDischarge.label>Laser Discharge</LaserDischarge.label>
+  <LaserDischarge.deathMessage>{0} 燒成焦炭了。</LaserDischarge.deathMessage>
+
+
+</LanguageData>

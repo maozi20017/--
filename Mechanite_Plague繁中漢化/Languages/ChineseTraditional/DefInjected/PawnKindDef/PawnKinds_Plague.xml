@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Neolithic -->
+
+  <MP_Tribal_Blowdarter.label>blowdarter</MP_Tribal_Blowdarter.label>
+  <MP_Tribal_Assassin.label>assassin</MP_Tribal_Assassin.label>
+
+
+  <!-- Industrial -->
+
+  <MP_Mercenary_Plagueblade.label>mercenary plagueblade</MP_Mercenary_Plagueblade.label>
+  <MP_Mercenary_Plaguebringer.label>plaguebringer</MP_Mercenary_Plaguebringer.label>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CleanOil.reportString>清理石油。</CleanOil.reportString>
+  <SuperviseDrilling.reportString>監督鑽井作業。</SuperviseDrilling.reportString>
+  <EmptyAutoclave.reportString>清空高壓釜。</EmptyAutoclave.reportString>
+  <FillAutoclave.reportString>填滿高壓釜。</FillAutoclave.reportString>
+  <OperateResourceConsole.reportString>操作TargetA。</OperateResourceConsole.reportString>
+
+
+</LanguageData>

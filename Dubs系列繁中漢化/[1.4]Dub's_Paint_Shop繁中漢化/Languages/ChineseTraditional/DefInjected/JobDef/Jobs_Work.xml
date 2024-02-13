@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DPSPaintThings.reportString>正在著色於 TargetA。</DPSPaintThings.reportString>
+  <DPSPaintCells.reportString>正在著色於 TargetA。</DPSPaintCells.reportString>
+  <DPSStripCells.reportString>正在從TargetA除去著色。</DPSStripCells.reportString>
+  <DPSStripThings.reportString>正在從TargetA除去著色。</DPSStripThings.reportString>
+
+
+</LanguageData>

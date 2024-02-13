@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Guardian Mechanites - Blocks Mechanite Plague -->
+
+  <MP_GuardianMechanitesHigh.label>guardian mechanites</MP_GuardianMechanitesHigh.label>
+  <MP_GuardianMechanitesHigh.description>A mechanite-induced immunity to the Mechanite Plague. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant. Also slightly boosts blood filtration.</MP_GuardianMechanitesHigh.description>
+
+
+  <!-- Stimulant Mechanites - Temporary, incredibly powerful speed boost! Followed by a crash. -->
+
+  <MP_StimulantMechanitesHigh.label>stimulant mechanites</MP_StimulantMechanitesHigh.label>
+  <MP_StimulantMechanitesHigh.description>There are mechanites in the user's brain, boosting their consciousness and movement speed. After a few hours however, the user will suffer from a crash, inverting the drug's effects.</MP_StimulantMechanitesHigh.description>
+  <MP_StimulantMechanitesHigh.stages.0.label>crashing</MP_StimulantMechanitesHigh.stages.0.label>
+  <MP_StimulantMechanitesHigh.stages.1.label>overcharging</MP_StimulantMechanitesHigh.stages.1.label>
+  <MP_StimulantMechanitesHigh.labelNoun>a stimulant mechanite dose</MP_StimulantMechanitesHigh.labelNoun>
+
+
+</LanguageData>

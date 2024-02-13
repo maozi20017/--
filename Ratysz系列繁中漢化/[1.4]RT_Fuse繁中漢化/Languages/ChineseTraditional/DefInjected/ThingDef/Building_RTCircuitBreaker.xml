@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Building_RTCircuitBreaker.label>斷路器</Building_RTCircuitBreaker.label>
+  <Building_RTCircuitBreaker.description>一套斷路器系統，可以安全地抵消1800W的放電，跳閘後需要手動復位。</Building_RTCircuitBreaker.description>
+  <Building_RTCircuitBreaker_Blueprint.label>斷路器 (藍圖)</Building_RTCircuitBreaker_Blueprint.label>
+  <Building_RTCircuitBreaker_Blueprint_Install.label>斷路器 (藍圖)</Building_RTCircuitBreaker_Blueprint_Install.label>
+  <Building_RTCircuitBreaker_Frame.label>斷路器 (建造中)</Building_RTCircuitBreaker_Frame.label>
+  <Building_RTCircuitBreaker_Frame.description>一套斷路器系統，可以安全地抵消1800W的放電，跳閘後需要手動復位。</Building_RTCircuitBreaker_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LoadRailgunMagazine.label>裝填磁軌炮彈</LoadRailgunMagazine.label>
+  <LoadRailgunMagazine.verb>裝填</LoadRailgunMagazine.verb>
+  <LoadRailgunMagazine.gerund>正在裝填</LoadRailgunMagazine.gerund>
+
+  <LoadSilo.label>裝填發射井</LoadSilo.label>
+  <LoadSilo.verb>裝填</LoadSilo.verb>
+  <LoadSilo.gerund>正在裝填</LoadSilo.gerund>
+
+  <LoadFuelModule.label>裝填燃料</LoadFuelModule.label>
+  <LoadFuelModule.verb>將燃料裝填進</LoadFuelModule.verb>
+  <LoadFuelModule.gerund>正在將燃料裝填進</LoadFuelModule.gerund>
+
+  <LoadSpentFuel.label>裝載燃料殘渣</LoadSpentFuel.label>
+  <LoadSpentFuel.verb>裝載</LoadSpentFuel.verb>
+  <LoadSpentFuel.gerund>正在裝載</LoadSpentFuel.gerund>
+
+  <LoadProcChemFuel.label>裝載化合燃料</LoadProcChemFuel.label>
+  <LoadProcChemFuel.verb>裝填</LoadProcChemFuel.verb>
+  <LoadProcChemFuel.gerund>正在裝填</LoadProcChemFuel.gerund>
+
+  <UnloadPlutonium.label>分離鈽</UnloadPlutonium.label>
+  <UnloadPlutonium.verb>分離</UnloadPlutonium.verb>
+  <UnloadPlutonium.gerund>正在分離</UnloadPlutonium.gerund>
+
+  <RemoveFuelModule.label>清除燃料</RemoveFuelModule.label>
+  <RemoveFuelModule.verb>將燃料清除出</RemoveFuelModule.verb>
+  <RemoveFuelModule.gerund>正在將燃料清除出</RemoveFuelModule.gerund>
+
+  <UpgradeBuilding.label>升級邊緣核能建物</UpgradeBuilding.label>
+  <UpgradeBuilding.verb>升級</UpgradeBuilding.verb>
+  <UpgradeBuilding.gerund>正在升級</UpgradeBuilding.gerund>
+
+  <DoBillsTableNuclear.label>完成邊緣核能加工台的清單</DoBillsTableNuclear.label>
+  <DoBillsTableNuclear.verb>製作</DoBillsTableNuclear.verb>
+  <DoBillsTableNuclear.gerund>正在製作</DoBillsTableNuclear.gerund>
+
+  <RimatomicsCrafting.label>進行研究</RimatomicsCrafting.label>
+  <RimatomicsCrafting.verb>研究</RimatomicsCrafting.verb>
+  <RimatomicsCrafting.gerund>正在研究</RimatomicsCrafting.gerund>
+
+  <RimatomicsResearch.label>進行邊緣核能研究</RimatomicsResearch.label>
+  <RimatomicsResearch.verb>邊緣核能研究</RimatomicsResearch.verb>
+  <RimatomicsResearch.gerund>正在研究</RimatomicsResearch.gerund>
+
+  <RimatomicsSuperviseResearch.label>進行監督式研究</RimatomicsSuperviseResearch.label>
+  <RimatomicsSuperviseResearch.verb>監督式研究</RimatomicsSuperviseResearch.verb>
+  <RimatomicsSuperviseResearch.gerund>正在研究</RimatomicsSuperviseResearch.gerund>
+
+  <RimatomicsConstruction.label>進行邊緣核能建設</RimatomicsConstruction.label>
+  <RimatomicsConstruction.verb>建設</RimatomicsConstruction.verb>
+  <RimatomicsConstruction.gerund>正在建設</RimatomicsConstruction.gerund>
+
+
+</LanguageData>

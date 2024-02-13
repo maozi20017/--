@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_MechanitePlague.label>mechanite plague</MP_MechanitePlague.label>
+  <MP_MechanitePlague.description>A specialized disease caused by weaponized mechanites in the target's bloodstream. While easy to treat and will regress if treated properly, there is one caveat. If the host is slain when the disease has progressed far enough, a mechanoid known as a "Burster" will erupt from their corpse.\n\nPawns with a lower toxic sensitivity are less vulnerable to plague-based weaponry, but not entirely immune. Mechanical units meanwhile, are completely immune to the plague. In addition, while the plague will infect animals, it will not cause Bursters to emerge from their corpse. This can be configured in the settings.\n\nIf the pawn is sufficiently infected, is downed, and this plague isn't tended to, the incubating Burster will attempt to claw out of the pawn from the inside, causing damage over time. Damage will not occur if the pawn is in a bed, so as to prevent "infinite medicine loops". This feature can be disabled in the settings.</MP_MechanitePlague.description>
+  <MP_MechanitePlague.stages.0.label>forming</MP_MechanitePlague.stages.0.label>
+  <MP_MechanitePlague.stages.1.label>incubating</MP_MechanitePlague.stages.1.label>
+  <MP_MechanitePlague.stages.2.label>bursting</MP_MechanitePlague.stages.2.label>
+
+
+</LanguageData>

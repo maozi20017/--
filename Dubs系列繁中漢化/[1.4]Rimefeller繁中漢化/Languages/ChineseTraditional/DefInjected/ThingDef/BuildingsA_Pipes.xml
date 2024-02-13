@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <Filth_OilSlick.label>油漬</Filth_OilSlick.label>
+  <Filth_OilSlick.description>一個易燃油水坑。</Filth_OilSlick.description>
+  <Filth_OilSlick.comps.0.useLabel>點燃</Filth_OilSlick.comps.0.useLabel>
+
+  <Filth_NapalmTrail.label>凝固汽油軌跡</Filth_NapalmTrail.label>
+  <Filth_NapalmTrail.description>一條凝固汽油的軌跡。</Filth_NapalmTrail.description>
+  <Filth_NapalmTrail.comps.0.useLabel>點燃</Filth_NapalmTrail.comps.0.useLabel>
+  <Filth_NapalmTrail_Blueprint.label>凝固汽油軌跡 (藍圖)</Filth_NapalmTrail_Blueprint.label>
+  <Filth_NapalmTrail_Frame.label>凝固汽油軌跡 (建造中)</Filth_NapalmTrail_Frame.label>
+  <Filth_NapalmTrail_Frame.description>一條凝固汽油的軌跡。</Filth_NapalmTrail_Frame.description>
+
+  <NapalmBomb.label>凝固汽油炸彈</NapalmBomb.label>
+  <NapalmBomb.description>凝固汽油炸彈</NapalmBomb.description>
+  <NapalmBomb.comps.0.useLabel>點燃</NapalmBomb.comps.0.useLabel>
+  <NapalmBomb_Blueprint.label>凝固汽油炸彈 (藍圖)</NapalmBomb_Blueprint.label>
+  <NapalmBomb_Blueprint_Install.label>凝固汽油炸彈 (藍圖)</NapalmBomb_Blueprint_Install.label>
+  <NapalmBomb_Frame.label>凝固汽油炸彈 (建造中)</NapalmBomb_Frame.label>
+  <NapalmBomb_Frame.description>凝固汽油炸彈</NapalmBomb_Frame.description>
+
+  <SparkGrid.label>點火裝置</SparkGrid.label>
+  <SparkGrid.description>當啟動時可以點燃像凝固汽油等易燃物。</SparkGrid.description>
+  <SparkGrid_Blueprint.label>點火裝置 (藍圖)</SparkGrid_Blueprint.label>
+  <SparkGrid_Frame.label>點火裝置 (建造中)</SparkGrid_Frame.label>
+  <SparkGrid_Frame.description>當啟動時可以點燃像凝固汽油等易燃物。</SparkGrid_Frame.description>
+
+  <OilPipeline.label>石油管道</OilPipeline.label>
+  <OilPipeline.description>用於設備之間的石油傳輸。</OilPipeline.description>
+  <OilPipeline_Blueprint.label>石油管道 (藍圖)</OilPipeline_Blueprint.label>
+  <OilPipeline_Frame.label>石油管道 (建造中)</OilPipeline_Frame.label>
+  <OilPipeline_Frame.description>用於設備之間的石油傳輸。</OilPipeline_Frame.description>
+
+  <pipelineValve.label>石油閥門</pipelineValve.label>
+  <pipelineValve.description>打開或關閉輸油管道之間的連接。</pipelineValve.description>
+  <pipelineValve_Blueprint.label>石油閥門 (藍圖)</pipelineValve_Blueprint.label>
+  <pipelineValve_Blueprint_Install.label>石油閥門 (藍圖)</pipelineValve_Blueprint_Install.label>
+  <pipelineValve_Frame.label>石油閥門 (建造中)</pipelineValve_Frame.label>
+  <pipelineValve_Frame.description>打開或關閉輸油管道之間的連接。</pipelineValve_Frame.description>
+
+
+</LanguageData>

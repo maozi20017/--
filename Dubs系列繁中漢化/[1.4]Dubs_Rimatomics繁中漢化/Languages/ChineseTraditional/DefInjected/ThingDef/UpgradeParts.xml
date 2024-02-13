@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedRimatomics.label>未完成的邊緣核能組件</UnfinishedRimatomics.label>
+  <UnfinishedRimatomics.description>一個未完成的邊緣核能組件</UnfinishedRimatomics.description>
+
+  <ControlRodActuator.label>控制棒驅動器</ControlRodActuator.label>
+  <ControlRodActuator.description>邊緣核能核反應爐的升級組件</ControlRodActuator.description>
+
+  <ATOM.label>ATOM</ATOM.label>
+  <ATOM.description>先進威脅預警模組(ATOM)，TACS 的升級模組。</ATOM.description>
+
+  <SCAD.label>SCAD</SCAD.label>
+  <SCAD.description>電磁防護系統(SCAD)，邊緣核能能量武器的升級零件</SCAD.description>
+
+  <MEPS.label>MEPS</MEPS.label>
+  <MEPS.description>模組化電力系統(MEPS)，邊緣核能能量武器的升級零件</MEPS.description>
+
+  <ALC.label>ALC</ALC.label>
+  <ALC.description>先進水冷系統(ALC)，邊緣核能能量武器的升級零件</ALC.description>
+
+  <ERS.label>ERS</ERS.label>
+  <ERS.description>能量回收系統(ERS)，邊緣核能能量武器的升級零件</ERS.description>
+
+  <DriveActuator.label>驅動器致動器</DriveActuator.label>
+  <DriveActuator.description>邊緣核能能量武器的升級零件</DriveActuator.description>
+
+  <TargetingChip.label>定位晶片</TargetingChip.label>
+  <TargetingChip.description>邊緣核能磁軌炮的升級組件</TargetingChip.description>
+
+  <BeamSplitter.label>光束分裂器</BeamSplitter.label>
+  <BeamSplitter.description>邊緣核能方尖碑的升級組件</BeamSplitter.description>
+
+  <LenseModule.label>透鏡模組</LenseModule.label>
+  <LenseModule.description>邊緣核能方尖碑的升級組件</LenseModule.description>
+
+
+</LanguageData>

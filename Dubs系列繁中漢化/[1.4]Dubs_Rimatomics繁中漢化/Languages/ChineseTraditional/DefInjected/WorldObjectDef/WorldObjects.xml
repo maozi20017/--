@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ICBMfission.label>洲際彈道飛彈</ICBMfission.label>
+  <ICBMfission.description>洲際彈道飛彈是一種由火箭推進、具有制導系統的彈道飛彈，主要用於運輸核武器，這枚飛彈裝備了核彈頭。</ICBMfission.description>
+
+  <Sabot.label>磁軌炮彈</Sabot.label>
+  <Sabot.description>磁軌炮彈</Sabot.description>
+
+  <Fallout.label>核輻射塵</Fallout.label>
+  <Fallout.description>核輻射塵是指核爆炸或核反應爐核熔毀時被噴射到空氣中的殘留放射性物質。</Fallout.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DesignatorPaintTools>著色工具</DesignatorPaintTools>
+  <DesignatorPaintToolsDesc>將建築物、服裝和地板著色</DesignatorPaintToolsDesc>
+  <PaintApparel>服裝著色工具</PaintApparel>
+  <PaintWalls>牆壁著色工具</PaintWalls>
+  <PaintBuildings>建築著色工具</PaintBuildings>
+  <PaintDoors>門著色工具</PaintDoors>
+  <EraserTool>橡皮擦工具</EraserTool>
+  <EyedropperObject>物件取色器工具</EyedropperObject>
+  <EyedropperPixel>像素取色器工具</EyedropperPixel>
+  <PaintTerrain>地板著色工具</PaintTerrain>
+  <EraseTerrain>地板擦除工具</EraseTerrain>
+  <PaintAll>著色工具</PaintAll>
+  <ZoneColourTool>區域著色工具</ZoneColourTool>
+  <CopyPalette>複製調色板</CopyPalette>
+  <EditPalette>編輯調色板</EditPalette>
+  <DeletePalette>刪除調色板</DeletePalette>
+  <ClearDesTool>清除著色標記</ClearDesTool>
+
+</LanguageData>

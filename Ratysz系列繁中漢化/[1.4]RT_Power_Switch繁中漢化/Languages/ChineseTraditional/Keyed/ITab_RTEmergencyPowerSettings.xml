@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ITab_RTEmergencyPowerSettings_LabelKey>設置</ITab_RTEmergencyPowerSettings_LabelKey>
+  <ITab_RTEmergencyPowerSettings_UnitsTip>設置以下數值是被視為總電池容量的百分比還是固定的能量值。</ITab_RTEmergencyPowerSettings_UnitsTip>
+  <ITab_RTEmergencyPowerSettings_KickInLabel>接通</ITab_RTEmergencyPowerSettings_KickInLabel>
+  <ITab_RTEmergencyPowerSettings_KickInTip>如果此數值小於下一個數值，則當受監控電網的電池電量低於此值時，開關將打開。如果此數值大於下一個數值，則當受監控電網的電池電量高於此值時，開關將打開。</ITab_RTEmergencyPowerSettings_KickInTip>
+  <ITab_RTEmergencyPowerSettings_ShutOffLabel>斷開</ITab_RTEmergencyPowerSettings_ShutOffLabel>
+  <ITab_RTEmergencyPowerSettings_ShutOffTip>如果此數值小於上一個數值，則當受監控電網的電池電量低於此值時，開關將關閉。如果此數值大於上一個數值，則當受監控電網的電池電量高於此值時，開關將關閉。 the value。</ITab_RTEmergencyPowerSettings_ShutOffTip>
+  <ITab_RTEmergencyPowerSettings_DirectionLabel>監控方向:</ITab_RTEmergencyPowerSettings_DirectionLabel>
+  <ITab_RTEmergencyPowerSettings_DirectionTip>開關將監控從此方向連接的電網中的電池。</ITab_RTEmergencyPowerSettings_DirectionTip>
+
+</LanguageData>

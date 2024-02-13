@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Guardian Kidney: provides immunity to the Mechanite Plague, also slightly more efficient -->
+
+  <MP_GuardianKidney.label>guardian kidney</MP_GuardianKidney.label>
+  <MP_GuardianKidney.description>An advanced bionic kidney designed to ward off the Mechanite Plague. Acting as a micro factory for the guardian mechanites, this organ ensures that the user will always be immune to the Mechanite Plague. Doesn't work against existing infections, but installing this into someone currently infected with the plague sounds really dangerous.</MP_GuardianKidney.description>
+
+
+</LanguageData>

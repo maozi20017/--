@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PPC.label>PPC</PPC.label>
+  <PPC.description>RA-P3脈衝功率電容器(PPC)使用超級電容器儲存大量能量，並可在與邊緣核能兼容的能量武器中以單一脈衝形式釋放。</PPC.description>
+  <PPC_Blueprint.label>PPC (藍圖)</PPC_Blueprint.label>
+  <PPC_Frame.label>PPC (建造中)</PPC_Frame.label>
+  <PPC_Frame.description>RA-P3PPC使用超級電容器儲存大量能量，並可在與邊緣核能兼容的能量武器中以單一脈衝形式釋放。</PPC_Frame.description>
+
+  <PPCWeaponsConsole.label>SACS</PPCWeaponsConsole.label>
+  <PPCWeaponsConsole.description>RA-c85半自動指揮站(SACS)是邊緣核能所有能量武器所必需的控制台，某些武器可能需要人員操作才能完全發揮作用。</PPCWeaponsConsole.description>
+  <PPCWeaponsConsole_Blueprint.label>SACS (藍圖)</PPCWeaponsConsole_Blueprint.label>
+  <PPCWeaponsConsole_Frame.label>SACS (建造中)</PPCWeaponsConsole_Frame.label>
+  <PPCWeaponsConsole_Frame.description>RA-c85半自動指揮站(SACS)是邊緣核能所有能量武器所必需的控制台，某些武器可能需要人員操作才能完全發揮作用。</PPCWeaponsConsole_Frame.description>
+
+  <RadarDish.label>TACS</RadarDish.label>
+  <RadarDish.description>RA-92目標獲取和通信系統(TACS)使用多種技術來追蹤陸地和空中目標，並與武器系統進行通信。</RadarDish.description>
+  <RadarDish_Blueprint.label>TACS (藍圖)</RadarDish_Blueprint.label>
+  <RadarDish_Frame.label>TACS (建造中)</RadarDish_Frame.label>
+  <RadarDish_Frame.description>RA-92目標獲取和通信系統(TACS)使用多種技術來追蹤陸地和空中目標，並與武器系統進行通信。</RadarDish_Frame.description>
+
+  <PPCADS.label>ADS</PPCADS.label>
+  <PPCADS.description>RA-22主動式拒止系統(ADS)是一種非致命性定向能量武器，用於區域封鎖和人群控制。它通過加熱目標人體皮膚，使其破壞隊列並逃離。該武器無需視線，但需要一個有人操作的SACS(指揮站)。</PPCADS.description>
+  <PPCADS_Blueprint.label>ADS (藍圖)</PPCADS_Blueprint.label>
+  <PPCADS_Frame.label>ADS (建造中)</PPCADS_Frame.label>
+  <PPCADS_Frame.description>RA-22主動式拒止系統(ADS)是一種非致命性定向能量武器，用於區域封鎖和人群控制。它通過加熱目標人體皮膚，使其破壞隊列並逃離。該武器無需視線，但需要一個有人操作的SACS(指揮站)。</PPCADS_Frame.description>
+
+  <ADS_Dish.label>ADS射頻天線</ADS_Dish.label>
+  <ADS_Dish.description>ADS射頻天線。</ADS_Dish.description>
+
+  <PPCTeslaCoil.label>特斯拉線圈</PPCTeslaCoil.label>
+  <PPCTeslaCoil.description>RA-42T特斯拉線圈對其目標提供巨大的電弧放電，會造成嚴重的燒傷或致命傷害。它具有100％的準確性，射程中等，可以點燃目標。該武器具有自動瞄準和射擊功能。如果需要進行手動瞄準，需要有人操作SACS。</PPCTeslaCoil.description>
+  <PPCTeslaCoil_Blueprint.label>特斯拉線圈 (藍圖)</PPCTeslaCoil_Blueprint.label>
+  <PPCTeslaCoil_Frame.label>特斯拉線圈 (建造中)</PPCTeslaCoil_Frame.label>
+  <PPCTeslaCoil_Frame.description>RA-42T特斯拉線圈對其目標提供巨大的電弧放電，會造成嚴重的燒傷或致命傷害。它具有100％的準確性，射程中等，可以點燃目標。該武器具有自動瞄準和射擊功能。如果需要進行手動瞄準，需要有人操作SACS。</PPCTeslaCoil_Frame.description>
+
+  <Tesla_Coil_Arc_Discharger.label>特斯拉線圈電弧放電器</Tesla_Coil_Arc_Discharger.label>
+  <Tesla_Coil_Arc_Discharger.description>特斯拉線圈電弧放電器。</Tesla_Coil_Arc_Discharger.description>
+
+  <PPCHEL.label>HEL</PPCHEL.label>
+  <PPCHEL.description>RA-702高能激光(HEL)可以摧毀敵方空中彈藥，例如迫擊炮彈。當迫擊炮發射時，系統將檢查彈藥是否會經過HEL的射程範圍，並試圖跟蹤目標，一旦目標進入射程，便會開火。</PPCHEL.description>
+  <PPCHEL_Blueprint.label>HEL (藍圖)</PPCHEL_Blueprint.label>
+  <PPCHEL_Frame.label>HEL (建造中)</PPCHEL_Frame.label>
+  <PPCHEL_Frame.description>RA-702高能激光(HEL)可以摧毀敵方空中彈藥，例如迫擊炮彈。當迫擊炮發射時，系統將檢查彈藥是否會經過HEL的射程範圍，並試圖跟蹤目標，一旦目標進入射程，便會開火。</PPCHEL_Frame.description>
+
+  <HEL_Laser.label>HEL激光</HEL_Laser.label>
+  <HEL_Laser.description>HEL激光。</HEL_Laser.description>
+
+  <PPCRailgun.label>制裁者</PPCRailgun.label>
+  <PPCRailgun.description>RA-1802D制裁者是一種裝有25發彈夾的磁軌炮平台，使用大型電磁脈衝以極高的速度和射程發射穿甲彈。此武器需要視線。火力任務不需要視線。可選擇手動瞄準。RA-1802D制裁者需要有人操作SACS。</PPCRailgun.description>
+  <PPCRailgun_Blueprint.label>制裁者 (藍圖)</PPCRailgun_Blueprint.label>
+  <PPCRailgun_Frame.label>制裁者 (建造中)</PPCRailgun_Frame.label>
+  <PPCRailgun_Frame.description>RA-1802D制裁者是一種裝有25發彈夾的磁軌炮平台，使用大型電磁脈衝以極高的速度和射程發射穿甲彈。此武器需要視線。火力任務不需要視線。可選擇手動瞄準。RA-1802D制裁者需要有人操作SACS。</PPCRailgun_Frame.description>
+
+  <Railgun_Cannon.label>制裁者磁軌炮</Railgun_Cannon.label>
+  <Railgun_Cannon.description>制裁者磁軌炮。</Railgun_Cannon.description>
+
+  <PPCObelisk.label>方尖碑</PPCObelisk.label>
+  <PPCObelisk.description>RA-2152-X方尖碑是一種定向能量武器，使用聚焦的固態激光將目標物質蒸發。它可以在極長的射程和毀滅性的能量下進行100％準確度的打擊。此武器具有自動瞄準和開火功能。需要有人操作SACS進行手動瞄準。</PPCObelisk.description>
+  <PPCObelisk_Blueprint.label>方尖碑 (藍圖)</PPCObelisk_Blueprint.label>
+  <PPCObelisk_Frame.label>方尖碑 (建造中)</PPCObelisk_Frame.label>
+  <PPCObelisk_Frame.description>RA-2152-X方尖碑是一種定向能量武器，使用聚焦的固態激光將目標物質蒸發。它可以在極長的射程和毀滅性的能量下進行100％準確度的打擊。此武器具有自動瞄準和開火功能。需要有人操作SACS進行手動瞄準。</PPCObelisk_Frame.description>
+
+  <Obelisk_Laser.label>方尖碑激光</Obelisk_Laser.label>
+  <Obelisk_Laser.description>方尖碑激光。</Obelisk_Laser.description>
+
+  <PPCMarauder.label>劫掠者</PPCMarauder.label>
+  <PPCMarauder.description>RA-3b劫掠者是一種多管同軸離子加速磁軌炮平台，使用大型電磁脈衝發射一串加速離子環以極高速度飛行，從而引發具有爆炸性的輻射影響。需要有人操作SACS。</PPCMarauder.description>
+  <PPCMarauder_Blueprint.label>劫掠者 (藍圖)</PPCMarauder_Blueprint.label>
+  <PPCMarauder_Frame.label>劫掠者 (建造中)</PPCMarauder_Frame.label>
+  <PPCMarauder_Frame.description>RA-3b劫掠者是一種多管同軸離子加速磁軌炮平台，使用大型電磁脈衝發射一串加速離子環以極高速度飛行，從而引發具有爆炸性的輻射影響。需要有人操作SACS。</PPCMarauder_Frame.description>
+
+  <Marauder_Railgun.label>劫掠者磁軌炮</Marauder_Railgun.label>
+  <Marauder_Railgun.description>劫掠者磁軌炮。</Marauder_Railgun.description>
+
+  <Bullet_PlasmaToroid.label>電漿環</Bullet_PlasmaToroid.label>
+
+
+  <!-- <ThingDef ParentName="BasedWeapon" Class="Rimatomics.RimatomicsThingDef">
+		<defName>RimatomicsWeatherController</defName>
+		<label>Rimatomics weather controller</label>
+		<description>An ultratech device for controlling weather. Using chemicals and exotic fields, it forces the weather into a particular configuration。</description>
+		<size>(6,6)</size>
+		<receivesSignals>true</receivesSignals>
+		<castEdgeShadows>True</castEdgeShadows>
+		<graphicData>
+			<texPath>Things/Building/Misc/WeatherController</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(6,6)</drawSize>
+			<shadowData>
+				<volume>(5.5,3.5,5.4)</volume>
+				<offset>(0,0,0)</offset>
+			</shadowData>
+			<damageData>
+				<rect>(0.1, 0.8, 5.8, 4.1)</rect>
+			</damageData>
+		</graphicData>
+		<building>
+			<soundAmbient>WeatherAffecter_Ambience</soundAmbient>
+		</building>
+		<comps>
+			<li Class="CompProperties_CausesGameCondition">
+				<conditionDef>WeatherController</conditionDef>
+				<compClass>CompCauseGameCondition_ForceWeather</compClass>
+				<worldRange>10</worldRange>
+				<preventConditionStacking>false</preventConditionStacking>
+			</li>
+		</comps>
+	</ThingDef> -->
+
+  <RimatomicsShieldGenerator.label>哨兵</RimatomicsShieldGenerator.label>
+  <RimatomicsShieldGenerator.description>RA-S4 哨兵是一種能量護盾，它使用激光、微波和弧放電的組合來創造電漿場，可以攔截物理或基於能量的彈藥武器。該裝置檢測到產生衝擊波的事件後，通過感應來決定相對於防禦目標的方向和距離，並計算出射擊計劃，然後通過反射、折射、分散、吸收和動量轉移來減弱衝擊波事件的影響。</RimatomicsShieldGenerator.description>
+  <RimatomicsShieldGenerator_Blueprint.label>哨兵 (藍圖)</RimatomicsShieldGenerator_Blueprint.label>
+  <RimatomicsShieldGenerator_Frame.label>哨兵 (建造中)</RimatomicsShieldGenerator_Frame.label>
+  <RimatomicsShieldGenerator_Frame.description>RA-S4 哨兵是一種能量護盾，它使用激光、微波和弧放電的組合來創造電漿場，可以攔截物理或基於能量的彈藥武器。該裝置檢測到產生衝擊波的事件後，通過感應來決定相對於防禦目標的方向和距離，並計算出射擊計劃，然後通過反射、折射、分散、吸收和動量轉移來減弱衝擊波事件的影響。</RimatomicsShieldGenerator_Frame.description>
+
+
+</LanguageData>

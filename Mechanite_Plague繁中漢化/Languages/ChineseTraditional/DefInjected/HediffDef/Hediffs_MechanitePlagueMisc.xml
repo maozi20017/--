@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_SpawnDecay.label>mechanoid decay</MP_SpawnDecay.label>
+  <MP_SpawnDecay.description>This mechanoid is naturally unstable. While they're more than capable of killing others and wiping out a settlement, their reactor will fail after a short time.</MP_SpawnDecay.description>
+  <MP_SpawnDecay.stages.0.label>none</MP_SpawnDecay.stages.0.label>
+  <MP_SpawnDecay.stages.1.label>light</MP_SpawnDecay.stages.1.label>
+  <MP_SpawnDecay.stages.2.label>moderate</MP_SpawnDecay.stages.2.label>
+  <MP_SpawnDecay.stages.3.label>heavy</MP_SpawnDecay.stages.3.label>
+  <MP_SpawnDecay.stages.4.label>malfunction</MP_SpawnDecay.stages.4.label>
+
+  <MP_SpawnDecayRemove.label>mechanoid disintegration</MP_SpawnDecayRemove.label>
+  <MP_SpawnDecayRemove.description>This mechnaoid is naturally unstable. While they're more than capable of killing others and wiping out a settlement, their reactor will fail after a VERY short time.\n\nIncredibly high levels of instability will cause this mechanoid to crumble and fade out of existence upon death, leaving no corpse. Bursters spawned from further infections from this unit will leave bodies, however.</MP_SpawnDecayRemove.description>
+  <MP_SpawnDecayRemove.stages.0.label>none</MP_SpawnDecayRemove.stages.0.label>
+  <MP_SpawnDecayRemove.stages.1.label>light</MP_SpawnDecayRemove.stages.1.label>
+  <MP_SpawnDecayRemove.stages.2.label>moderate</MP_SpawnDecayRemove.stages.2.label>
+  <MP_SpawnDecayRemove.stages.3.label>heavy</MP_SpawnDecayRemove.stages.3.label>
+  <MP_SpawnDecayRemove.stages.4.label>faded</MP_SpawnDecayRemove.stages.4.label>
+
+
+  <!-- Rapid Incubation: caused by surgery, won't occur naturally -->
+
+  <MP_RapidIncubation.label>rapid mechanite incubation</MP_RapidIncubation.label>
+  <MP_RapidIncubation.description>This pawn is beyond screwed. Expect them to die within the hour, if not sooner. Their death will spawn a small horde of Bursters, whether to go after enemies or for harvest.</MP_RapidIncubation.description>
+  <MP_RapidIncubation.stages.0.label>forming</MP_RapidIncubation.stages.0.label>
+  <MP_RapidIncubation.stages.1.label>rupturing</MP_RapidIncubation.stages.1.label>
+
+
+</LanguageData>

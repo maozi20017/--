@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BedPan.label>便盆</BedPan.label>
+  <BedPan.description>盛放臥床患者尿液和糞便的容器。</BedPan.description>
+
+  <Biosolids.label>生物有機肥料</Biosolids.label>
+  <Biosolids.description>當污水污泥經過適當的處理和加工後，就會變成稱為生物有機肥料的物質，對於增加土地肥沃度有一定的幫助。在空間有限且環境惡劣的地區，生物固體可以提供必要的肥沃度。此外，生物固體還可以大幅提升沙土的肥沃度，通過灌溉的方式，可以讓沙土變得肥沃。</Biosolids.description>
+
+  <FecalSludge.label>糞泥</FecalSludge.label>
+  <FecalSludge.description>一個裝滿排泄物的桶。可以倒掉、燒掉或製成生物有機肥料。</FecalSludge.description>
+
+
+  <!-- Example of a drink for the thirst need, modExtension makes anything ingestible work as a drink, this is patched out when thirst is disabled -->
+
+  <DBH_WaterBottle.label>水</DBH_WaterBottle.label>
+  <DBH_WaterBottle.description>一瓶水。</DBH_WaterBottle.description>
+  <DBH_WaterBottle.ingestible.ingestCommandString>喝 {0}</DBH_WaterBottle.ingestible.ingestCommandString>
+  <DBH_WaterBottle.ingestible.ingestReportString>正在喝 {0}。</DBH_WaterBottle.ingestible.ingestReportString>
+
+
+</LanguageData>

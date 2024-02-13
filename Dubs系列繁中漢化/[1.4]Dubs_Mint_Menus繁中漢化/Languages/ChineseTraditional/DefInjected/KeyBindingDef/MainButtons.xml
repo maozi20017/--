@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <MainButtonDef>
+		<defName>MintNeedsMenu</defName>
+		<label>mint needs menu</label>
+		<description>View all pawns needs.</description>
+		<tabWindowClass>DubsMintMenus.MintPawns_Needs</tabWindowClass>
+		<buttonVisible>true</buttonVisible>
+		<defaultHotKey>None</defaultHotKey>
+		<order>100</order>
+		<minimized>True</minimized>
+		<iconPath>Mint/UI/Global_bills</iconPath>
+		<validWithoutMap>false</validWithoutMap>
+	</MainButtonDef>
+
+	<MainButtonDef>
+		<defName>MintHealthMenu</defName>
+		<label>mint health menu</label>
+		<description>View all pawns health.</description>
+		<tabWindowClass>DubsMintMenus.MintPawns_Health</tabWindowClass>
+		<buttonVisible>true</buttonVisible>
+		<defaultHotKey>None</defaultHotKey>
+		<order>100</order>
+		<minimized>True</minimized>
+		<iconPath>Mint/UI/Global_bills</iconPath>
+		<validWithoutMap>false</validWithoutMap>
+	</MainButtonDef> -->
+
+  <MintMenus_BuildMenu.label>Mint建造選單</MintMenus_BuildMenu.label>
+  <MintMenus_MintResearch.label>Mint研究選單</MintMenus_MintResearch.label>
+  <MintMenus_MintWheel.label>Mint輪盤</MintMenus_MintWheel.label>
+  <MintMenus_MintBillMenu.label>Mint工作選單</MintMenus_MintBillMenu.label>
+  <MintMenus_PinningHide.label>隱藏資源統計(除了釘選)</MintMenus_PinningHide.label>
+  <MintMenus_MintGearMenu.label>Mint裝備選單</MintMenus_MintGearMenu.label>
+
+
+</LanguageData>

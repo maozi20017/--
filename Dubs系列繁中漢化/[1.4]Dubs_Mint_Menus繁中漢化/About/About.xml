@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Dubs Mint Menus繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.dubsmintmenus</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Dubwise.dubsmintmenus</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+新增了選單清單方塊，包括食譜清單、健康清單、植物選擇、建築選單、研究選單和一個快速選擇選單，以方便在運行多個模組時查找物品。
+
+新增了一個名為「Mint輪盤」的浮動標識選擇器，可以通過熱鍵或鼠標按鈕打開，從 Mint 建築選單中分配最多 20 個標識。
+
+新增了一個類似邊緣核能風格的研究選單，可以按照模組、項目或解鎖進行搜索，過濾已完成或鎖定的項目，查看所有已解鎖的配方、物品和植物。（可能無法與其他研究模組一起使用）
+
+植物選擇界面帶有搜索功能、縮放選項、Shift+點擊多選和設置、滑鼠懸停時顯示的卡片以及按植物類型分組的組織。
+
+食譜清單帶有搜索功能、圖像預覽、縮放選項，並在滑鼠懸停時顯示卡片。
+
+健康清單帶有搜索功能。
+
+新增了一個建築選單，帶有搜索功能，可以通過熱鍵或Ctrl+點擊建築選單打開，或將其設置為默認選單。
+	</description>
+
+</ModMetaData>

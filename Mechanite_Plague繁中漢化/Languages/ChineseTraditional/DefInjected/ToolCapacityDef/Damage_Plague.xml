@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- bite (as bites != weapons, their damage is done a bit differently) -->
+
+  <MP_BiteInfect.label>infectious bite</MP_BiteInfect.label>
+
+
+  <!-- cut -->
+
+  <MP_CutInfect.label>infectious cut</MP_CutInfect.label>
+
+
+  <!-- stab -->
+
+  <MP_StabInfect.label>infectious stab</MP_StabInfect.label>
+
+
+</LanguageData>

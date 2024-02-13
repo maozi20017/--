@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadioactiveFallout.label>核熔毀輻射塵埃</RadioactiveFallout.label>
+  <RadioactiveFallout.description>一股由反應爐熔毀所釋放出的放射性煙霧和灰塵已經被噴射到空氣中，並將在周圍地區沉降。</RadioactiveFallout.description>
+  <RadioactiveFallout.endMessage>災難性的放射性塵埃已經被沖刷掉了。</RadioactiveFallout.endMessage>
+
+  <NuclearFallout.label>核爆輻射塵埃</NuclearFallout.label>
+  <NuclearFallout.description>一股由核爆釋放出的放射性煙霧和灰塵已經被噴射到空氣中，並將在周圍地區沉降。</NuclearFallout.description>
+  <NuclearFallout.endMessage>災難性的放射性塵埃已經被沖刷掉了。</NuclearFallout.endMessage>
+
+
+</LanguageData>

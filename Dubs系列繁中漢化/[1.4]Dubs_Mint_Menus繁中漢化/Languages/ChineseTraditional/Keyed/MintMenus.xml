@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mint.GearMenu>Mint裝備選單(實驗性)</Mint.GearMenu>
+  <Mint.GearMenuVisible>主按鈕 可見度</Mint.GearMenuVisible>
+  <Mint.GearMenuDesc>啟動一個按鈕以打開一個裝備管理選單，該選單允許您將可用的裝備拖放到任何單位上</Mint.GearMenuDesc>
+  <Mint.Setup>設置</Mint.Setup>
+  <Mint.AssignMenu>Mint指派選單</Mint.AssignMenu>
+  <Mint.AssignMenuDesc>使用Mint版本取代預設的指派選單</Mint.AssignMenuDesc>
+  <MessageCantEquipWhileDowned>無法在倒地狀態下裝備</MessageCantEquipWhileDowned>
+  <Mint.ShowMintBillsButton>顯示Mint工作主按鈕</Mint.ShowMintBillsButton>
+  <Mint.ShowMintBillsButtonTip>在螢幕底部的主選單清單上顯示mint工作的按鈕</Mint.ShowMintBillsButtonTip>
+  <ReplacePlantMenuTip>将Mint植物選單設為默認植物選單,如果禁用了選單，可以使用 Ctrl + 點擊來打開Mint選單</ReplacePlantMenuTip>
+  <Mint.ShowBillWorkIcons>顯示工作圖示</Mint.ShowBillWorkIcons>
+  <Mint.ShowBillIngredientIcons>顯示原材料圖示</Mint.ShowBillIngredientIcons>
+  <Mint.ConfirmDeleteTemplate>確認刪除複製項</Mint.ConfirmDeleteTemplate>
+  <Mint.RenameTemplateTip>重命名</Mint.RenameTemplateTip>
+  <Mint.Clones>複製</Mint.Clones>
+  <Mint.Bills>工作</Mint.Bills>
+  <Mint.PasteTemplateTip>將工作複製至該工作台</Mint.PasteTemplateTip>
+  <Mint.CloneBills>複製工作</Mint.CloneBills>
+  <Mint.DeleteTemplate>刪除範本</Mint.DeleteTemplate>
+  <Mint.CloneWorktable>從此工作台複製工作</Mint.CloneWorktable>
+  <Mint.SelectABenchToAddBills>選擇要添加工作的工作台</Mint.SelectABenchToAddBills>
+  <AutoCloseArchitect>選擇後關閉</AutoCloseArchitect>
+  <AutoCloseArchitectDesc>選擇選項後關閉建造選單</AutoCloseArchitectDesc>
+  <ResearchQueueTip>研究隊列 - 拖動以排序</ResearchQueueTip>
+  <QueueResearchProj>對列</QueueResearchProj>
+  <EnablePinningResources>啟用資源釘選</EnablePinningResources>
+  <EnablePinningResourcesTip>Ctrl+左鍵將某資源釘選到資源統計頂端(僅限類別模式)</EnablePinningResourcesTip>
+  <ShowHideResourceList>隱藏資源統計</ShowHideResourceList>
+  <ShowHideResourceListTip>隱藏在螢幕左側的資源統計視窗</ShowHideResourceListTip>
+  <dragdropdes>拖動
+    \n&amp;
+    \n放置</dragdropdes>
+  <ReplacePlantMenu>Mint植物選單</ReplacePlantMenu>
+  <ResearchCompletionMode>研究完成後的通知方式</ResearchCompletionMode>
+  <MintHelpLinks>支持連結</MintHelpLinks>
+  <MintDiscord>Dubs模組Discord</MintDiscord>
+  <ProjectStalled>研究項目要求未滿足</ProjectStalled>
+  <ProjectStopped>研究項目已停止</ProjectStopped>
+  <MintWiki>Mint選單Wiki</MintWiki>
+  <SetButtonsFromBuildo>使用Mint建造選單添加按鈕(使用Ctrl +點擊建造選單)</SetButtonsFromBuildo>
+  <BillSearchTip>可搜索詞包括:
+    \n\n清單列表或產品列表中的任何詞，例如褲子
+    \n\n材料類別，例如皮革
+    \n\n身體部分，例如頭
+    \n\n分類，例如工業
+    \n\n裝備部位，例如帽子</BillSearchTip>
+  <NoActiveProject>沒有正在進行的研究項目</NoActiveProject>
+  <TargetProject>目標項目: {0}</TargetProject>
+  <MintWheelEditMode>在建造選單中點擊標籤以添加到輪盤中
+    \n拖曳以排列輪盤中的標籤</MintWheelEditMode>
+  <MintWheelDesc>Mint輪盤{0}/{1} Ctrl+左鍵已分配</MintWheelDesc>
+  <MintWheelMenu>Mint輪盤選單</MintWheelMenu>
+  <MintWheelonrightclick>右鍵點擊時顯示Mint輪盤</MintWheelonrightclick>
+  <MintWheelRightClickDesc>右鍵點擊時打開Mint輪盤，而不是打開建造選單</MintWheelRightClickDesc>
+  <MintWheel>Mint輪盤</MintWheel>
+  <MintBuildMenu>建造選單</MintBuildMenu>
+  <AutoFocusSearch>自動選擇搜尋框</AutoFocusSearch>
+  <AutoFocusSearchDesc>每次打開建造選單時自動選擇搜索框以開始輸入</AutoFocusSearchDesc>
+  <OverrideArchitectTab>覆蓋建造頁面</OverrideArchitectTab>
+  <OverrideArchitectTabDesc>將Mint建造選單設為預設的建造頁面(按住Ctrl鍵以恢復預設)</OverrideArchitectTabDesc>
+  <ResearchMenu>研究</ResearchMenu>
+  <MintListWidth>列表寬度</MintListWidth>
+  <OverrideResearchTab>覆蓋研究頁面</OverrideResearchTab>
+  <OverrideResearchTabDesc>將Mint研究選單設為預設的研究頁面(按住Ctrl鍵以恢復預設)</OverrideResearchTabDesc>
+  <UnlockedThings>解鎖項目</UnlockedThings>
+  <HideFinishedProjects>隱藏完成的研究項目</HideFinishedProjects>
+  <HideLockedProjects>隱藏鎖定的研究項目</HideLockedProjects>
+  <PinnedRes>釘選</PinnedRes>
+  <MintResourceReadout>Mint資源統計</MintResourceReadout>
+  <MintExperimental>附加</MintExperimental>
+  <Autoprojectstep>自動研究</Autoprojectstep>
+  <AutoprojectstepDesc>自動啟動下一個研究項目步驟以完成目標項目</AutoprojectstepDesc>
+  <MintBills>工作</MintBills>
+  <ListWidth>列表寬度</ListWidth>
+  <RowHeight>列表高度</RowHeight>
+  <InfocardWidth>訊息卡寬度</InfocardWidth>
+  <TopOffset>頂部偏移(建議500)</TopOffset>
+  <MaxHeight>最大高度(建議500)</MaxHeight>
+  <MintPlants>植物</MintPlants>
+  <BoxSizeX>列表寬度</BoxSizeX>
+  <BoxSizeY>列表高度</BoxSizeY>
+  <MintResetAll>全部重置</MintResetAll>
+
+</LanguageData>

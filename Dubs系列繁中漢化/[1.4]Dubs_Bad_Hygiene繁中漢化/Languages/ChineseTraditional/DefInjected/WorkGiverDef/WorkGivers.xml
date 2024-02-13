@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlaceFertilizer.label>施肥</PlaceFertilizer.label>
+  <PlaceFertilizer.verb>施肥</PlaceFertilizer.verb>
+  <PlaceFertilizer.gerund>正在施肥</PlaceFertilizer.gerund>
+
+  <TipSewage.label>傾倒污水</TipSewage.label>
+  <TipSewage.verb>傾倒污水</TipSewage.verb>
+  <TipSewage.gerund>正在傾倒</TipSewage.gerund>
+
+  <DrainWaterTank.label>排水</DrainWaterTank.label>
+  <DrainWaterTank.verb>排水</DrainWaterTank.verb>
+  <DrainWaterTank.gerund>正在排水</DrainWaterTank.gerund>
+
+  <DBHAdministerFluids.label>給予液體</DBHAdministerFluids.label>
+  <DBHAdministerFluids.verb>給予喝的</DBHAdministerFluids.verb>
+  <DBHAdministerFluids.gerund>正在提供喝的</DBHAdministerFluids.gerund>
+
+  <DBHAdministerFluidsWarden.label>給予液體</DBHAdministerFluidsWarden.label>
+  <DBHAdministerFluidsWarden.verb>給予喝的</DBHAdministerFluidsWarden.verb>
+  <DBHAdministerFluidsWarden.gerund>正在提供喝的</DBHAdministerFluidsWarden.gerund>
+
+  <ClearBlockage.label>清除堵塞</ClearBlockage.label>
+  <ClearBlockage.verb>清除堵塞</ClearBlockage.verb>
+  <ClearBlockage.gerund>正在清除堵塞</ClearBlockage.gerund>
+
+  <washPatient.label>清洗病人</washPatient.label>
+  <washPatient.verb>清洗</washPatient.verb>
+  <washPatient.gerund>正在清洗</washPatient.gerund>
+
+  <washChild.label>清洗兒童</washChild.label>
+  <washChild.verb>清洗</washChild.verb>
+  <washChild.gerund>正在清洗</washChild.gerund>
+
+  <DocCleanBedpan.label>清理便盆</DocCleanBedpan.label>
+  <DocCleanBedpan.verb>清理</DocCleanBedpan.verb>
+  <DocCleanBedpan.gerund>正在清理</DocCleanBedpan.gerund>
+
+  <cleanBedpan.label>清理便盆</cleanBedpan.label>
+  <cleanBedpan.verb>清理</cleanBedpan.verb>
+  <cleanBedpan.gerund>正在清理</cleanBedpan.gerund>
+
+
+</LanguageData>

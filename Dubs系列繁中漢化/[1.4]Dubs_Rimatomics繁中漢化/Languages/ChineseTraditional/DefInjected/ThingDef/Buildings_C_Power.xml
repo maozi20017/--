@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimatomicsRTG.label>放射性同位素發電機</RimatomicsRTG.label>
+  <RimatomicsRTG.description>一種電力發電機，使用熱電偶陣列將合適放射性物質衰變釋放的熱能轉化為電能。</RimatomicsRTG.description>
+  <RimatomicsRTG_Blueprint.label>放射性同位素發電機 (藍圖)</RimatomicsRTG_Blueprint.label>
+  <RimatomicsRTG_Blueprint_Install.label>放射性同位素發電機 (藍圖)</RimatomicsRTG_Blueprint_Install.label>
+  <RimatomicsRTG_Frame.label>放射性同位素發電機 (建造中)</RimatomicsRTG_Frame.label>
+  <RimatomicsRTG_Frame.description>一種電力發電機，使用熱電偶陣列將合適放射性物質衰變釋放的熱能轉化為電能。</RimatomicsRTG_Frame.description>
+
+  <ReactorCoreA.label>A型反應爐</ReactorCoreA.label>
+  <ReactorCoreA.description>基礎熱核反應爐心，擁有21個燃料棒插槽。反應爐心包含燃料元件，核反應在此處發生並產生熱能。</ReactorCoreA.description>
+  <ReactorCoreA_Blueprint.label>A型反應爐 (藍圖)</ReactorCoreA_Blueprint.label>
+  <ReactorCoreA_Frame.label>A型反應爐 (建造中)</ReactorCoreA_Frame.label>
+  <ReactorCoreA_Frame.description>基礎熱核反應爐心，擁有21個燃料棒插槽。反應爐心包含燃料元件，核反應在此處發生並產生熱能。</ReactorCoreA_Frame.description>
+
+  <ReactorCoreB.label>X型反應爐</ReactorCoreB.label>
+  <ReactorCoreB.description>先進增殖反應爐，可以產生比消耗更多的可裂變物質。</ReactorCoreB.description>
+  <ReactorCoreB_Blueprint.label>X型反應爐 (藍圖)</ReactorCoreB_Blueprint.label>
+  <ReactorCoreB_Frame.label>X型反應爐 (建造中)</ReactorCoreB_Frame.label>
+  <ReactorCoreB_Frame.description>先進增殖反應爐，可以產生比消耗更多的可裂變物質。</ReactorCoreB_Frame.description>
+
+  <ReactorCoreC.label>V型反應爐</ReactorCoreC.label>
+  <ReactorCoreC.description>大型先進增殖反應爐，可以產生比消耗更多的可裂變物質。</ReactorCoreC.description>
+  <ReactorCoreC_Blueprint.label>V型反應爐 (藍圖)</ReactorCoreC_Blueprint.label>
+  <ReactorCoreC_Frame.label>V型反應爐 (建造中)</ReactorCoreC_Frame.label>
+  <ReactorCoreC_Frame.description>大型先進增殖反應爐，可以產生比消耗更多的可裂變物質。</ReactorCoreC_Frame.description>
+
+
+  <!-- HEAT EXCHANGE -->
+
+  <Turbine.label>索爾級渦輪機</Turbine.label>
+  <Turbine.description>蒸汽驅動的渦輪機，帶動發電機發電。索爾型號的最大功率輸出為100KW。</Turbine.description>
+  <Turbine_Blueprint.label>索爾級渦輪機 (藍圖)</Turbine_Blueprint.label>
+  <Turbine_Frame.label>索爾級渦輪機 (建造中)</Turbine_Frame.label>
+  <Turbine_Frame.description>蒸汽驅動的渦輪機，帶動發電機發電。索爾型號的最大功率輸出為100KW。</Turbine_Frame.description>
+
+  <BigTurbine.label>宙斯級渦輪機</BigTurbine.label>
+  <BigTurbine.description>蒸汽驅動的渦輪機，帶動發電機發電。宙斯型號的最大功率輸出為1MW。</BigTurbine.description>
+  <BigTurbine_Blueprint.label>宙斯級渦輪機 (藍圖)</BigTurbine_Blueprint.label>
+  <BigTurbine_Frame.label>宙斯級渦輪機 (建造中)</BigTurbine_Frame.label>
+  <BigTurbine_Frame.description>蒸汽驅動的渦輪機，帶動發電機發電。宙斯型號的最大功率輸出為1MW。</BigTurbine_Frame.description>
+
+
+  <!-- COOLING -->
+
+  <CoolingRadiator.label>散熱器</CoolingRadiator.label>
+  <CoolingRadiator.description>設計用於當資源或空間有限時為小型核反應爐提供冷卻的小型空氣冷卻器，
+    \n冷卻能力為25KW</CoolingRadiator.description>
+  <CoolingRadiator_Blueprint.label>散熱器 (藍圖)</CoolingRadiator_Blueprint.label>
+  <CoolingRadiator_Frame.label>散熱器 (建造中)</CoolingRadiator_Frame.label>
+  <CoolingRadiator_Frame.description>設計用於當資源或空間有限時為小型核反應爐提供冷卻的小型空氣冷卻器，
+    \n冷卻能力為25KW</CoolingRadiator_Frame.description>
+
+  <CoolingWater.label>水冷裝置</CoolingWater.label>
+  <CoolingWater.description>通過利用來自河流、湖泊或海洋的冷水，為核反應爐提供大量冷卻。
+    \n冷卻能力為250KW</CoolingWater.description>
+  <CoolingWater_Blueprint.label>水冷裝置 (藍圖)</CoolingWater_Blueprint.label>
+  <CoolingWater_Frame.label>水冷裝置 (建造中)</CoolingWater_Frame.label>
+  <CoolingWater_Frame.description>通過利用來自河流、湖泊或海洋的冷水，為核反應爐提供大量冷卻。
+    \n冷卻能力為250KW</CoolingWater_Frame.description>
+
+  <CoolingTower.label>乾式冷卻塔</CoolingTower.label>
+  <CoolingTower.description>當沒有自然水源可用時，設計用於為核反應爐提供大量冷卻的超大型空氣冷卻器。
+    \n冷卻能力為250KW</CoolingTower.description>
+  <CoolingTower_Blueprint.label>乾式冷卻塔 (藍圖)</CoolingTower_Blueprint.label>
+  <CoolingTower_Frame.label>乾式冷卻塔 (建造中)</CoolingTower_Frame.label>
+  <CoolingTower_Frame.description>當沒有自然水源可用時，設計用於為核反應爐提供大量冷卻的超大型空氣冷卻器。
+    \n冷卻能力為250KW</CoolingTower_Frame.description>
+
+
+  <!-- TRANNY -->
+
+  <Transformer.label>高壓變壓器</Transformer.label>
+  <Transformer.description>將渦輪機提供的高壓電降低到電力傳輸線路所使用的電壓水平。</Transformer.description>
+  <Transformer_Blueprint.label>高壓變壓器 (藍圖)</Transformer_Blueprint.label>
+  <Transformer_Frame.label>高壓變壓器 (建造中)</Transformer_Frame.label>
+  <Transformer_Frame.description>將渦輪機提供的高壓電降低到電力傳輸線路所使用的電壓水平。</Transformer_Frame.description>
+
+
+  <!-- CONTROLLERS -->
+
+  <ReactorControl.label>反應爐控制台</ReactorControl.label>
+  <ReactorControl.description>設計用於控制核反應爐的電腦系統。需要派遣一名殖民者前往該站，才能夠訪問這些控制器，多個控制器可以同時開啟。</ReactorControl.description>
+  <ReactorControl_Blueprint.label>反應爐控制台 (藍圖)</ReactorControl_Blueprint.label>
+  <ReactorControl_Frame.label>反應爐控制台 (建造中)</ReactorControl_Frame.label>
+  <ReactorControl_Frame.description>設計用於控制核反應爐的電腦系統。需要派遣一名殖民者前往該站，才能夠訪問這些控制器，多個控制器可以同時開啟。</ReactorControl_Frame.description>
+
+  <storagePool.label>儲存池</storagePool.label>
+  <storagePool.description>一個安全存放廢核燃料棒的儲存池，池中的水可以吸收輻射。在使用這些燃料之前，必須手動將其從儲存池中移除。</storagePool.description>
+  <storagePool_Blueprint.label>儲存池 (藍圖)</storagePool_Blueprint.label>
+  <storagePool_Frame.label>儲存池 (建造中)</storagePool_Frame.label>
+  <storagePool_Frame.description>一個安全存放廢核燃料棒的儲存池，池中的水可以吸收輻射。在使用這些燃料之前，必須手動將其從儲存池中移除。</storagePool_Frame.description>
+
+  <RadiationDetector.label>輻射檢測器</RadiationDetector.label>
+  <RadiationDetector.description>輻射檢測器，可放置在反應爐附近，用於檢測輻射洩漏。</RadiationDetector.description>
+  <RadiationDetector_Blueprint.label>輻射檢測器 (藍圖)</RadiationDetector_Blueprint.label>
+  <RadiationDetector_Frame.label>輻射檢測器 (建造中)</RadiationDetector_Frame.label>
+  <RadiationDetector_Frame.description>輻射檢測器，可放置在反應爐附近，用於檢測輻射洩漏。</RadiationDetector_Frame.description>
+
+
+</LanguageData>

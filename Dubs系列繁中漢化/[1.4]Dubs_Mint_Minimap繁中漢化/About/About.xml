@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Dubs Mint Minimap繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.dubsmintminimap</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Dubwise.dubsmintminimap</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+新增一個小地圖，具有一些選項，並且不會影響到幀數或多人連線時的標記工具。
+
+支援多人連線
+
+點擊右下角控制組的小地圖按鈕，或者設定快捷鍵來開啟。
+	</description>
+
+</ModMetaData>

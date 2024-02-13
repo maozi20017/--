@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RadiationShielding.label>加固貧鈾牆</RadiationShielding.label>
+  <RadiationShielding.description>使用貧化鈾加強的非常堅固的牆，可完全防護輻射。</RadiationShielding.description>
+  <RadiationShielding_Blueprint.label>加固貧鈾牆 (藍圖)</RadiationShielding_Blueprint.label>
+  <RadiationShielding_Frame.label>加固貧鈾牆 (建造中)</RadiationShielding_Frame.label>
+  <RadiationShielding_Frame.description>使用貧化鈾加強的非常堅固的牆，可完全防護輻射。</RadiationShielding_Frame.description>
+
+  <ReactorSacrophagus.label>A型石棺</ReactorSacrophagus.label>
+  <ReactorSacrophagus.description>核反應爐熔毀事故後，用來容納熔融芯的混凝土結構。</ReactorSacrophagus.description>
+  <ReactorSacrophagus_Blueprint.label>A型石棺 (藍圖)</ReactorSacrophagus_Blueprint.label>
+  <ReactorSacrophagus_Frame.label>A型石棺 (建造中)</ReactorSacrophagus_Frame.label>
+  <ReactorSacrophagus_Frame.description>核反應爐熔毀事故後，用來容納熔融芯的混凝土結構。</ReactorSacrophagus_Frame.description>
+
+  <ReactorSacrophagusB.label>X型石棺</ReactorSacrophagusB.label>
+  <ReactorSacrophagusB.description>核反應爐熔毀事故後，用來容納熔融芯的混凝土結構。</ReactorSacrophagusB.description>
+  <ReactorSacrophagusB_Blueprint.label>X型石棺 (藍圖)</ReactorSacrophagusB_Blueprint.label>
+  <ReactorSacrophagusB_Frame.label>X型石棺 (建造中)</ReactorSacrophagusB_Frame.label>
+  <ReactorSacrophagusB_Frame.description>核反應爐熔毀事故後，用來容納熔融芯的混凝土結構。</ReactorSacrophagusB_Frame.description>
+
+  <ReactorSacrophagusC.label>V型石棺</ReactorSacrophagusC.label>
+  <ReactorSacrophagusC.description>核反應爐熔毀事故後，用來容納熔融芯的混凝土結構。</ReactorSacrophagusC.description>
+  <ReactorSacrophagusC_Blueprint.label>V型石棺 (藍圖)</ReactorSacrophagusC_Blueprint.label>
+  <ReactorSacrophagusC_Frame.label>V型石棺 (建造中)</ReactorSacrophagusC_Frame.label>
+  <ReactorSacrophagusC_Frame.description>核反應爐熔毀事故後，用來容納熔融芯的混凝土結構。</ReactorSacrophagusC_Frame.description>
+
+  <PoppedReactorCoreA.label>熔融芯</PoppedReactorCoreA.label>
+  <PoppedReactorCoreA.description>熔融的反應爐燃料芯心。</PoppedReactorCoreA.description>
+
+  <PoppedReactorCoreB.label>熔融芯</PoppedReactorCoreB.label>
+  <PoppedReactorCoreB.description>熔融的反應爐燃料芯心。</PoppedReactorCoreB.description>
+
+  <PoppedReactorCoreC.label>熔融芯</PoppedReactorCoreC.label>
+  <PoppedReactorCoreC.description>熔融的反應爐燃料芯心。</PoppedReactorCoreC.description>
+
+  <DU_Blastdoor.label>貧鈾防爆門</DU_Blastdoor.label>
+  <DU_Blastdoor.description>使用貧化鈾加強的非常堅固的防爆門，可完全防護輻射。</DU_Blastdoor.description>
+  <DU_Blastdoor_Blueprint.label>貧鈾防爆門 (藍圖)</DU_Blastdoor_Blueprint.label>
+  <DU_Blastdoor_Frame.label>貧鈾防爆門 (建造中)</DU_Blastdoor_Frame.label>
+  <DU_Blastdoor_Frame.description>使用貧化鈾加強的非常堅固的防爆門，可完全防護輻射。</DU_Blastdoor_Frame.description>
+
+
+</LanguageData>

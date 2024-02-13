@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Should not show up by default; an xpath patch will enable this only if Combat Extended is running -->
+
+  <CombatExtendedFsxRefiner.label>FSX精煉廠</CombatExtendedFsxRefiner.label>
+  <CombatExtendedFsxRefiner.description>將化合燃料加工成FSX，這是一種高爆炸性化學物質，用於各種工業和軍事應用中。</CombatExtendedFsxRefiner.description>
+  <CombatExtendedFsxRefiner_Blueprint.label>FSX精煉廠 (藍圖)</CombatExtendedFsxRefiner_Blueprint.label>
+  <CombatExtendedFsxRefiner_Blueprint_Install.label>FSX精煉廠 (藍圖)</CombatExtendedFsxRefiner_Blueprint_Install.label>
+  <CombatExtendedFsxRefiner_Frame.label>FSX精煉廠 (建造中)</CombatExtendedFsxRefiner_Frame.label>
+  <CombatExtendedFsxRefiner_Frame.description>將化合燃料加工成FSX，這是一種高爆炸性化學物質，用於各種工業和軍事應用中。</CombatExtendedFsxRefiner_Frame.description>
+
+
+</LanguageData>

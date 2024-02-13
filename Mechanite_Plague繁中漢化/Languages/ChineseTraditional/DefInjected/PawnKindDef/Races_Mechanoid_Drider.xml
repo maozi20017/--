@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MP_Mech_Drider.label>drider</MP_Mech_Drider.label>
+  <MP_Mech_Drider.labelPlural>driders</MP_Mech_Drider.labelPlural>
+  <MP_Mech_Drider.lifeStages.0.label>drider</MP_Mech_Drider.lifeStages.0.label>
+  <MP_Mech_Drider.lifeStages.0.labelPlural>drider</MP_Mech_Drider.lifeStages.0.labelPlural>
+  <MP_Mech_Drider.lifeStages.0.labelMale>男性drider</MP_Mech_Drider.lifeStages.0.labelMale>
+  <MP_Mech_Drider.lifeStages.0.labelMalePlural>男性driders</MP_Mech_Drider.lifeStages.0.labelMalePlural>
+  <MP_Mech_Drider.lifeStages.0.labelFemale>女性drider</MP_Mech_Drider.lifeStages.0.labelFemale>
+  <MP_Mech_Drider.lifeStages.0.labelFemalePlural>女性driders</MP_Mech_Drider.lifeStages.0.labelFemalePlural>
+  <MP_Mech_Drider.lifeStages.1.label>drider</MP_Mech_Drider.lifeStages.1.label>
+  <MP_Mech_Drider.lifeStages.1.labelPlural>drider</MP_Mech_Drider.lifeStages.1.labelPlural>
+  <MP_Mech_Drider.lifeStages.1.labelMale>男性drider</MP_Mech_Drider.lifeStages.1.labelMale>
+  <MP_Mech_Drider.lifeStages.1.labelMalePlural>男性driders</MP_Mech_Drider.lifeStages.1.labelMalePlural>
+  <MP_Mech_Drider.lifeStages.1.labelFemale>女性drider</MP_Mech_Drider.lifeStages.1.labelFemale>
+  <MP_Mech_Drider.lifeStages.1.labelFemalePlural>女性driders</MP_Mech_Drider.lifeStages.1.labelFemalePlural>
+  <MP_Mech_Drider.labelMale>男性drider</MP_Mech_Drider.labelMale>
+  <MP_Mech_Drider.labelMalePlural>男性driders</MP_Mech_Drider.labelMalePlural>
+  <MP_Mech_Drider.labelFemale>女性drider</MP_Mech_Drider.labelFemale>
+  <MP_Mech_Drider.labelFemalePlural>女性driders</MP_Mech_Drider.labelFemalePlural>
+
+
+</LanguageData>

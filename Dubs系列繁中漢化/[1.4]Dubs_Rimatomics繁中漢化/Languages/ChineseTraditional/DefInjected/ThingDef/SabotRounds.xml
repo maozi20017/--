@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- STANDARD -->
+
+  <RailgunSabot.label>磁軌炮彈</RailgunSabot.label>
+  <RailgunSabot.description>一顆由電磁炮發射的動能彈。</RailgunSabot.description>
+
+  <Bullet_Sabot.label>磁軌炮彈</Bullet_Sabot.label>
+
+
+  <!-- DU Sabot -->
+
+  <RailgunSabotDU.label>磁軌炮彈(貧鈾)</RailgunSabotDU.label>
+  <RailgunSabotDU.description>一顆由電磁炮發射的動能彈，惰性且可以安全儲存。</RailgunSabotDU.description>
+
+  <Bullet_Sabot_DU.label>磁軌炮彈(貧鈾)</Bullet_Sabot_DU.label>
+  <SabotRoundIncoming.label>磁軌炮彈來襲</SabotRoundIncoming.label>
+  <DUSabotRoundIncoming.label>磁軌炮彈(貧鈾)來襲</DUSabotRoundIncoming.label>
+
+
+</LanguageData>

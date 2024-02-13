@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Wall Light 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.walllight</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>murmur.walllight</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+這些燈具可以直接安裝在您的牆壁上。如果它們所安裝的牆壁被拆除或毀壞，它們也會被破壞。
+
+這些燈具可以像普通的燈一樣改變顏色，也可以調整為暗光模式。
+	</description>
+
+</ModMetaData>

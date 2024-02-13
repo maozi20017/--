@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CompRTPowerSwitch_EmergencyPowerToggle>能量等級調節</CompRTPowerSwitch_EmergencyPowerToggle>
+  <CompRTPowerSwitch_EmergencyPowerOn>電力將根據鄰近電力網路電池中存儲的能量量自動開啟和關閉。
+
+    精確的行為可以在「設置」檢查器選項卡中進行配置。</CompRTPowerSwitch_EmergencyPowerOn>
+  <CompRTPowerSwitch_EmergencyPowerOff>電源開關將正常運作。</CompRTPowerSwitch_EmergencyPowerOff>
+  <CompRTPowerSwitch_MonitoredNetwork>能量儲存狀態: {0}/{1}Wd ({2})</CompRTPowerSwitch_MonitoredNetwork>
+  <CompRTPowerSwitch_MonitoredNetworkInvalid>能量儲存狀態: 無電池!</CompRTPowerSwitch_MonitoredNetworkInvalid>
+
+
+</LanguageData>

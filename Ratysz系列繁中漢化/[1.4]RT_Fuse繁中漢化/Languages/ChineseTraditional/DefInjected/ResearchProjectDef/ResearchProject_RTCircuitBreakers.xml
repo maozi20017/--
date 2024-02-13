@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchProject_RTCircuitBreakers.label>斷路器</ResearchProject_RTCircuitBreakers.label>
+  <ResearchProject_RTCircuitBreakers.description>解鎖建造斷路器；可以連接任何接有電池的電網。每一個斷路器都可以安全地抵消1800W（相當於三個原版電池所儲存的電量）的放電，跳閘後需要手動復位。</ResearchProject_RTCircuitBreakers.description>
+
+
+</LanguageData>

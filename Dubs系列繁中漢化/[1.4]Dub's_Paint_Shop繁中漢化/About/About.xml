@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.4]Dubs Paint Shop繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.dubspaintshop</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Dubwise.dubspaintshop</li>
+	</loadAfter>
+    <description>
+設定裡的提取不出來就沒翻了
+一種油漆工具，可更改大多數建築物、服裝、區域和建造地形的顏色。支援多人遊戲。
+
+可在作業式油漆和即時油漆之間切換。
+		
+按Ctrl+單擊可油漆床單。
+		
+油漆工具可在任何建築菜單中找到，靠近取消和拆除按鈕。
+		
+協調您的基地的色彩，或將其用作修改工具。
+		
+創建和編輯已保存的調色板。
+		
+十六進位和RGB輸入框，可複製和粘貼。
+		
+可以添加到存檔中。
+		
+應該適用於幾乎所有東西。
+		
+無法對沒有適當遮罩文件的建築物進行染色以使其正確顯示。
+	</description>
+
+</ModMetaData>

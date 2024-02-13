@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Guardian Kidney: provides immunity to the Mechanite Plague, also slightly more efficient -->
+
+  <MP_InstallGuardianKidney.label>install guardian kidney</MP_InstallGuardianKidney.label>
+  <MP_InstallGuardianKidney.description>Install a guardian kidney.</MP_InstallGuardianKidney.description>
+  <MP_InstallGuardianKidney.jobString>Installing guardian kidney.</MP_InstallGuardianKidney.jobString>
+
+
+</LanguageData>

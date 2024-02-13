@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Duplicated] <OilWellHead.label>Oil Well Head</OilWellHead.label>-->
+  <!--[Duplicated] <OilWellHead.description>Abandoned oil well, when left unused the pressure will rise back to full over time. Place a derrick directly over the well to continue using it</OilWellHead.description>-->
+
+  <OilWellHead.label>油井口</OilWellHead.label>
+  <OilWellHead.description>廢棄油井，當不再使用時，壓力會逐漸恢復到原先的滿狀態。若要繼續使用該油井，需要將井口正上方架設井架。</OilWellHead.description>
+
+  <DeepOilWellHead.label>深油井口</DeepOilWellHead.label>
+  <DeepOilWellHead.description>廢棄油井，當不再使用時，壓力會逐漸恢復到原先的滿狀態。若要繼續使用該油井，需要將井口正上方架設井架。</DeepOilWellHead.description>
+
+  <OilWell.label>油井</OilWell.label>
+  <OilWell.description>開採地下油藏，需要資源控制台才能查看油田情況，並需要礦工進行鑽井作業。</OilWell.description>
+  <OilWell_Blueprint.label>油井 (藍圖)</OilWell_Blueprint.label>
+  <OilWell_Frame.label>油井 (建造中)</OilWell_Frame.label>
+  <OilWell_Frame.description>開採地下油藏，需要資源控制台才能查看油田情況，並需要礦工進行鑽井作業。</OilWell_Frame.description>
+
+  <DeepOilWell.label>深油井</DeepOilWell.label>
+  <DeepOilWell.description>開採地下油藏，需要資源控制台和地質掃描儀來查看深層油田情況，並需要礦工進行鑽井作業。</DeepOilWell.description>
+  <DeepOilWell_Blueprint.label>深油井 (藍圖)</DeepOilWell_Blueprint.label>
+  <DeepOilWell_Frame.label>深油井 (建造中)</DeepOilWell_Frame.label>
+  <DeepOilWell_Frame.description>開採地下油藏，需要資源控制台和地質掃描儀來查看深層油田情況，並需要礦工進行鑽井作業。</DeepOilWell_Frame.description>
+
+  <OilStorage.label>石油儲存罐</OilStorage.label>
+  <OilStorage.description>儲存從油井開採出來的石油。</OilStorage.description>
+  <OilStorage_Blueprint.label>石油儲存罐 (藍圖)</OilStorage_Blueprint.label>
+  <OilStorage_Frame.label>石油儲存罐 (建造中)</OilStorage_Frame.label>
+  <OilStorage_Frame.description>儲存從油井開採出來的石油。</OilStorage_Frame.description>
+
+  <FuelStorage.label>化合燃料儲存罐</FuelStorage.label>
+  <FuelStorage.description>儲存由原油裂解廠生產的化合燃料，可以將化合燃料泵送到連接的化合燃料漏斗中。</FuelStorage.description>
+  <FuelStorage_Blueprint.label>化合燃料儲存罐 (藍圖)</FuelStorage_Blueprint.label>
+  <FuelStorage_Frame.label>化合燃料儲存罐 (建造中)</FuelStorage_Frame.label>
+  <FuelStorage_Frame.description>儲存由原油裂解廠生產的化合燃料，可以將化合燃料泵送到連接的化合燃料漏斗中。</FuelStorage_Frame.description>
+
+  <ResourceConsole.label>資源控制台</ResourceConsole.label>
+  <ResourceConsole.description>操作原油裂解廠和精煉廠，需要有人坐在電腦控制台前操作。</ResourceConsole.description>
+  <ResourceConsole_Blueprint.label>資源控制台 (藍圖)</ResourceConsole_Blueprint.label>
+  <ResourceConsole_Blueprint_Install.label>資源控制台 (藍圖)</ResourceConsole_Blueprint_Install.label>
+  <ResourceConsole_Frame.label>資源控制台 (建造中)</ResourceConsole_Frame.label>
+  <ResourceConsole_Frame.description>操作原油裂解廠和精煉廠，需要有人坐在電腦控制台前操作。</ResourceConsole_Frame.description>
+
+  <CrudeCracker.label>原油裂解廠</CrudeCracker.label>
+  <CrudeCracker.description>將原油裂解為化合燃料，並必須儲存在連接的化合燃料儲存罐中，化合燃料可以泵送到連接的化合燃料漏斗中。</CrudeCracker.description>
+  <CrudeCracker_Blueprint.label>原油裂解廠 (藍圖)</CrudeCracker_Blueprint.label>
+  <CrudeCracker_Frame.label>原油裂解廠 (建造中)</CrudeCracker_Frame.label>
+  <CrudeCracker_Frame.description>將原油裂解為化合燃料，並必須儲存在連接的化合燃料儲存罐中，化合燃料可以泵送到連接的化合燃料漏斗中。</CrudeCracker_Frame.description>
+
+  <FuelPowerplant.label>化合燃料發電廠</FuelPowerplant.label>
+  <FuelPowerplant.description>通過消耗化合燃料來發電。化合燃料必須通過管道輸送到化合燃料儲存罐中。</FuelPowerplant.description>
+  <FuelPowerplant_Blueprint.label>化合燃料發電廠 (藍圖)</FuelPowerplant_Blueprint.label>
+  <FuelPowerplant_Blueprint_Install.label>化合燃料發電廠 (藍圖)</FuelPowerplant_Blueprint_Install.label>
+  <FuelPowerplant_Frame.label>化合燃料發電廠 (建造中)</FuelPowerplant_Frame.label>
+  <FuelPowerplant_Frame.description>通過消耗化合燃料來發電。化合燃料必須通過管道輸送到化合燃料儲存罐中。</FuelPowerplant_Frame.description>
+
+  <LargeFuelPowerplant.label>大型化合燃料發電廠</LargeFuelPowerplant.label>
+  <LargeFuelPowerplant.description>通過消耗化合燃料來發電。化合燃料必須通過管道輸送到化合燃料儲存罐中。</LargeFuelPowerplant.description>
+  <LargeFuelPowerplant_Blueprint.label>大型化合燃料發電廠 (藍圖)</LargeFuelPowerplant_Blueprint.label>
+  <LargeFuelPowerplant_Frame.label>大型化合燃料發電廠 (建造中)</LargeFuelPowerplant_Frame.label>
+  <LargeFuelPowerplant_Frame.description>通過消耗化合燃料來發電。化合燃料必須通過管道輸送到化合燃料儲存罐中。</LargeFuelPowerplant_Frame.description>
+
+
+</LanguageData>

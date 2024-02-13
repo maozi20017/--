@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CompRTFuse_SurgeMitigation>抵消高達{0}W的放電。</CompRTFuse_SurgeMitigation>
+  <CompRTFuse_WillBreakdown>如果熔斷需要維修。</CompRTFuse_WillBreakdown>
+  <CompRTFuse_WillFlick>如果跳閘需要手動復位。</CompRTFuse_WillFlick>
+
+</LanguageData>

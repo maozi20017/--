@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OilSpill.label>石油洩漏</OilSpill.label>
+  <OilSpill.letterText>一處石油管道破裂而洩漏，可以使用“清理石油”命令來清除。</OilSpill.letterText>
+  <OilSpill.letterLabel>石油洩漏</OilSpill.letterLabel>
+
+  <DrillQuake.label>微震</DrillQuake.label>
+  <DrillQuake.letterText>過度的石油鑽探已導致地面不穩定。</DrillQuake.letterText>
+  <DrillQuake.letterLabel>微震</DrillQuake.letterLabel>
+
+
+</LanguageData>

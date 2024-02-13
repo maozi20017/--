@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicBladder.label>仿生膀胱</BionicBladder.label>
+  <BionicBladder.description>一個先進的人造膀胱。化學循環系統將身體排泄物分解成分子，並將這些分子進行循環再用，其餘部分則釋放為氣體，這樣做的缺點是會使使用者產生腸胃氣體。</BionicBladder.description>
+
+  <HygieneEnhancer.label>衛生增強裝置</HygieneEnhancer.label>
+  <HygieneEnhancer.description>釋放微型機器人，分解皮膚和頭髮上的死細胞和其他碎屑，將其無害地釋放到空氣中。</HygieneEnhancer.description>
+
+
+</LanguageData>
