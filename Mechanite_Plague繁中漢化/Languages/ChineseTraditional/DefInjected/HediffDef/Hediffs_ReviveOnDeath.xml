@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <MP_ResurrectOnDeath.label>mechanite reanimation</MP_ResurrectOnDeath.label>
-  <MP_ResurrectOnDeath.description>Through an immense infusion of mechanites, this pawn has obtained the ability to revive after death for a short period.\n\nUpon death, this pawn will revive after a short delay, assuming their corpse is still intact.</MP_ResurrectOnDeath.description>
-
-
-</LanguageData>
