@@ -37,7 +37,7 @@
     \n發動消耗：[救贖的血杯]　5</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_CommandExplosive.commandDesc>
 
   <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandLabel>斬裂的王女</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandLabel>
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandDesc>從目標中心發生半徑3格的衝擊波。
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandDesc>從目標中心發出半徑3格的衝擊波。
     \n發動條件　：[救贖的血杯]　30以上
     \n發動消耗：[救贖的血杯]　3</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_b.commandDesc>
 
@@ -47,7 +47,7 @@
     \n發動消耗：[救贖的血杯]　5</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_c.commandDesc>
 
   <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandLabel>黑暗的祝宴</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandLabel>
-  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandDesc>從目標中心發生半徑8格的強制出血衝擊波。
+  <HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandDesc>從目標中心發出半徑8格的強制出血衝擊波。
     \n發動條件　：[救贖的血杯]　100以上
     \n發動消耗：[救贖的血杯]　10</HAR_EL_Race_Eveliet_a.comps.HAR_EL_Comp_Skill_d.commandDesc>
 

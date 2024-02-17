@@ -23,6 +23,45 @@
   <Make_Aya_Race_Ap_C_T_d.jobString>正在製作 兒童款式學生服</Make_Aya_Race_Ap_C_T_d.jobString>
 
 
+    <!-- Recipe Users: HTBench_HAR, BMOT_Building_Incubator -->
+
+  <Make_HAR_EL_EyeCover_a.label>製作 夜魔的光之僕</Make_HAR_EL_EyeCover_a.label>
+  <Make_HAR_EL_EyeCover_a.description>製作 夜魔的光之僕。</Make_HAR_EL_EyeCover_a.description>
+  <Make_HAR_EL_EyeCover_a.jobString>正在製作 夜魔的光之僕</Make_HAR_EL_EyeCover_a.jobString>
+  
+  <Make_HAR_EL_EyeCover_b.label>製作 人魚的光之僕</Make_HAR_EL_EyeCover_b.label>
+  <Make_HAR_EL_EyeCover_b.description>製作 人魚的光之僕。</Make_HAR_EL_EyeCover_b.description>
+  <Make_HAR_EL_EyeCover_b.jobString>正在製作 人魚的光之僕</Make_HAR_EL_EyeCover_b.jobString>
+  
+  <Make_HAR_EL_EyeCover_c.label>製作 幽鬼的光之僕</Make_HAR_EL_EyeCover_c.label>
+  <Make_HAR_EL_EyeCover_c.description>製作 幽鬼的光之僕。</Make_HAR_EL_EyeCover_c.description>
+  <Make_HAR_EL_EyeCover_c.jobString>正在製作 幽鬼的光之僕</Make_HAR_EL_EyeCover_c.jobString>
+  
+  <Make_HAR_EL_EyeCover_d.label>製作 細菌的光之僕</Make_HAR_EL_EyeCover_d.label>
+  <Make_HAR_EL_EyeCover_d.description>製作 細菌的光之僕。</Make_HAR_EL_EyeCover_d.description>
+  <Make_HAR_EL_EyeCover_d.jobString>正在製作 細菌的光之僕</Make_HAR_EL_EyeCover_d.jobString>
+  
+  <Make_HAR_EL_EyeCover_e.label>製作 龍人的光之僕</Make_HAR_EL_EyeCover_e.label>
+  <Make_HAR_EL_EyeCover_e.description>製作 龍人的光之僕。</Make_HAR_EL_EyeCover_e.description>
+  <Make_HAR_EL_EyeCover_e.jobString>正在製作 龍人的光之僕</Make_HAR_EL_EyeCover_e.jobString>
+  
+  <Make_HAR_EL_EyeCover_f.label>製作 宇宙的光之僕</Make_HAR_EL_EyeCover_f.label>
+  <Make_HAR_EL_EyeCover_f.description>製作 宇宙的光之僕。</Make_HAR_EL_EyeCover_f.description>
+  <Make_HAR_EL_EyeCover_f.jobString>正在製作 宇宙的光之僕</Make_HAR_EL_EyeCover_f.jobString>
+  
+  <Make_HAR_EL_EyeCover_g.label>製作 王族的光之僕</Make_HAR_EL_EyeCover_g.label>
+  <Make_HAR_EL_EyeCover_g.description>製作 王族的光之僕。</Make_HAR_EL_EyeCover_g.description>
+  <Make_HAR_EL_EyeCover_g.jobString>正在製作 王族的光之僕</Make_HAR_EL_EyeCover_g.jobString>
+  
+  <Make_HAR_EL_EyeCover_h.label>製作 混沌的光之僕</Make_HAR_EL_EyeCover_h.label>
+  <Make_HAR_EL_EyeCover_h.description>製作 混沌的光之僕。</Make_HAR_EL_EyeCover_h.description>
+  <Make_HAR_EL_EyeCover_h.jobString>正在製作 混沌的光之僕</Make_HAR_EL_EyeCover_h.jobString>
+  
+  <Make_HAR_EL_EyeCover_i.label>製作 獸人的光之僕</Make_HAR_EL_EyeCover_i.label>
+  <Make_HAR_EL_EyeCover_i.description>製作 獸人的光之僕。</Make_HAR_EL_EyeCover_i.description>
+  <Make_HAR_EL_EyeCover_i.jobString>正在製作 獸人的光之僕</Make_HAR_EL_EyeCover_i.jobString>
+  
+
   <!-- Recipe Users: HTBench_HAR, FabricationBench -->
 
   <Make_HAR_EL_Apparel_Armor_a.label>製作 至高者盔甲(吸血姬)</Make_HAR_EL_Apparel_Armor_a.label>
@@ -40,13 +79,13 @@
   <Make_HAR_EL_Apparel_Head_a.description>製作 救贖主頭飾(吸血姬)。</Make_HAR_EL_Apparel_Head_a.description>
   <Make_HAR_EL_Apparel_Head_a.jobString>正在製作 救贖主頭飾(吸血姬)</Make_HAR_EL_Apparel_Head_a.jobString>
 
-  <Make_HAR_EL_Apparel_Head_b.label>製作 救贖主頭飾(吸血姬)</Make_HAR_EL_Apparel_Head_b.label>
-  <Make_HAR_EL_Apparel_Head_b.description>製作 救贖主頭飾(吸血姬)。</Make_HAR_EL_Apparel_Head_b.description>
-  <Make_HAR_EL_Apparel_Head_b.jobString>正在製作 救贖主頭飾(吸血姬)</Make_HAR_EL_Apparel_Head_b.jobString>
+  <Make_HAR_EL_Apparel_Head_b.label>製作 救贖主頭盔(吸血姬)</Make_HAR_EL_Apparel_Head_b.label>
+  <Make_HAR_EL_Apparel_Head_b.description>製作 救贖主頭盔(吸血姬)。</Make_HAR_EL_Apparel_Head_b.description>
+  <Make_HAR_EL_Apparel_Head_b.jobString>正在製作 救贖主頭盔(吸血姬)</Make_HAR_EL_Apparel_Head_b.jobString>
 
-  <Make_HAR_EL_Apparel_Head_c.label>製作 救贖主寶石(吸血姬)</Make_HAR_EL_Apparel_Head_c.label>
-  <Make_HAR_EL_Apparel_Head_c.description>製作 救贖主寶石(吸血姬)。</Make_HAR_EL_Apparel_Head_c.description>
-  <Make_HAR_EL_Apparel_Head_c.jobString>正在製作 救贖主寶石(吸血姬)</Make_HAR_EL_Apparel_Head_c.jobString>
+  <Make_HAR_EL_Apparel_Head_c.label>製作 救贖主首飾(吸血姬)</Make_HAR_EL_Apparel_Head_c.label>
+  <Make_HAR_EL_Apparel_Head_c.description>製作 救贖主首飾(吸血姬)。</Make_HAR_EL_Apparel_Head_c.description>
+  <Make_HAR_EL_Apparel_Head_c.jobString>正在製作 救贖主首飾(吸血姬)</Make_HAR_EL_Apparel_Head_c.jobString>
 
 
   <!-- Recipe Users: HTBench_HAR, FabricationBench -->

@@ -7,15 +7,15 @@
   <HAR_EL_Apparel_Head_a.description>吸血姬專用的裝備。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Head_a.description>
 
 
-  <!-- ■救贖主頭部裝備(吸血姬) -->
+  <!-- ■救贖主頭盔(吸血姬) -->
 
-  <HAR_EL_Apparel_Head_b.label>救贖主頭部裝備(吸血姬)</HAR_EL_Apparel_Head_b.label>
+  <HAR_EL_Apparel_Head_b.label>救贖主頭盔(吸血姬)</HAR_EL_Apparel_Head_b.label>
   <HAR_EL_Apparel_Head_b.description>吸血姬專用的裝備。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Head_b.description>
 
 
-  <!-- ■救贖主寶石(吸血姬) -->
+  <!-- ■救贖主首飾(吸血姬) -->
 
-  <HAR_EL_Apparel_Head_c.label>救贖主寶石(吸血姬)</HAR_EL_Apparel_Head_c.label>
+  <HAR_EL_Apparel_Head_c.label>救贖主首飾(吸血姬)</HAR_EL_Apparel_Head_c.label>
   <HAR_EL_Apparel_Head_c.description>吸血姬專用的裝備。由於裝備仍在調整中，性能並不高。</HAR_EL_Apparel_Head_c.description>
 
 
@@ -28,7 +28,7 @@
   <!-- ■イシャバアルベール -->
 
   <HAR_EL_Apparel_Head_e.label>救贖主面紗(吸血姬)</HAR_EL_Apparel_Head_e.label>
-  <HAR_EL_Apparel_Head_e.description>吸血姬専用的神聖面紗。據說這是最古老且最接近造物主的女性所僅有被允許穿戴的。</HAR_EL_Apparel_Head_e.description>
+  <HAR_EL_Apparel_Head_e.description>吸血姬専用的神聖面紗。據說這是最古老且最接近創造主的女性所僅有被允許穿戴的。</HAR_EL_Apparel_Head_e.description>
   
   
 </LanguageData>
