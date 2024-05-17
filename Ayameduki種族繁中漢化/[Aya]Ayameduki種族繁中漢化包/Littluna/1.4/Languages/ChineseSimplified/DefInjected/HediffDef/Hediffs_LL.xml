@@ -45,7 +45,7 @@
   <HAR_LL_Hediff_g.label>邊境的淨土</HAR_LL_Hediff_g.label>
   <HAR_LL_Hediff_g.description>偽神族・邊緣至福樂土所籠罩的領域。
   \n在此領域內失去再生能力，但身體能力和射擊能力得到了顯著的增強。
-  \n效果持續數小時。</HAR_LL_Hediff_g.description>
+  \n效果會在數小時後解除。</HAR_LL_Hediff_g.description>
 
   <HAR_LL_Hediff_h.label>理念能天使</HAR_LL_Hediff_h.label>
   <HAR_LL_Hediff_h.description>榮耀花冠所賦予的祝福。
@@ -63,7 +63,7 @@
   <HAR_LL_Hediff_j.description>處於受到神秘生命體閃光影響的狀態。
   \n失去生氣，倒地不起，無法進行任何動作。
   \n同時，處於倒地狀態時會定期受到傷害。
-  \n這種狀態會在半天後解除。
+  \n狀態會在半天後解除。
   \n\n如果這個地方有一隻鳥的話，它現在應該正美味地啄食著。</HAR_LL_Hediff_j.description>
 
   <HAR_LL_Hediff_k.label>神子的哭聲</HAR_LL_Hediff_k.label>
@@ -75,5 +75,6 @@
   <Littluna_Artificial_b.label>人工上位種族</Littluna_Artificial_b.label>
   <Littluna_Artificial_b.description>偽神族・理念奴隸基本上和普通種沒有太大區別。然而，她們所獲得的祝福卻極度扭曲且充滿絕望。
   \n\n她比其他童女更寬廣地看待事物，但也因此被累積的痛苦所折磨，最終陷入瘋狂的狀態。</Littluna_Artificial_b.description>
+
 
 </LanguageData>
