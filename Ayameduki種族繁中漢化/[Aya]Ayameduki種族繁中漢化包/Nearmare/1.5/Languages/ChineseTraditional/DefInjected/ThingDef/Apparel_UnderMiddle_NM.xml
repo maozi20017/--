@@ -103,4 +103,10 @@
   <HAR_NM_Wear_x.description>夜魔・溫蓋特專用的衣服。為了能夠承受長途旅行而製作。</HAR_NM_Wear_x.description>
 
 
+  <!-- ■センチネルウェア -->
+
+  <HAR_NM_Wear_r.label>哨兵裝(夜魔)</HAR_NM_Wear_r.label>
+  <HAR_NM_Wear_r.description>。</HAR_NM_Wear_r.description>
+
+
 </LanguageData>

@@ -37,4 +37,10 @@
   <HAR_NM_Os_Pf.description>夜魔・阿拉迪亞系很喜歡穿的內衣，特點是布料遮蓋面積少，顏色也很艷麗。</HAR_NM_Os_Pf.description>
 
 
+  <!-- ■センチネルスーツ -->
+
+  <HAR_NM_Os_Pg.label>哨兵服(夜魔)</HAR_NM_Os_Pg.label>
+  <HAR_NM_Os_Pg.description>。</HAR_NM_Os_Pg.description>
+
+
 </LanguageData>

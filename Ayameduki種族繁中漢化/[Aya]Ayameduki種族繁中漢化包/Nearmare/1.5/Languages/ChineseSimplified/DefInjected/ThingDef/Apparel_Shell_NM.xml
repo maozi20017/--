@@ -48,5 +48,11 @@
   <HAR_NM_Sh_x.label>探索斗篷(夜魔)</HAR_NM_Sh_x.label>
   <HAR_NM_Sh_x.description>夜魔・溫蓋特專用的外套。為了能夠承受長途旅行而製作。</HAR_NM_Sh_x.description>
 
-    
+
+  <!-- ■センチネルサポーター -->
+
+  <HAR_NM_Sh_r.label>哨兵護具(夜魔)</HAR_NM_Sh_r.label>
+  <HAR_NM_Sh_r.description>。</HAR_NM_Sh_r.description>
+
+
 </LanguageData>

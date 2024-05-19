@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Mur]Wall Light 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.walllight</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>murmur.walllight</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+隨著更新 1.5，Rimworld 現在包含了與該模組多年前相同功能的壁燈。
+
+那麼，這個模組現在做了什麼？
+
+添加了壁掛太陽燈。
+允許你像以前這個模組的壁燈一樣配置原版的壁燈（以及新增的壁掛太陽燈）。
+提供一個選項，使敵人忽略壁燈。
+
+如果未來某個時間點，原版遊戲引入了壁掛太陽燈，我將移除這個模組添加的太陽燈，並使設定應用到原版的太陽燈。
+	</description>
+
+</ModMetaData>
