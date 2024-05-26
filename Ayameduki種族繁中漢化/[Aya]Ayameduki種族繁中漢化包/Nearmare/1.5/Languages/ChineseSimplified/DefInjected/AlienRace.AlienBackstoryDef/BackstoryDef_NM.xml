@@ -94,5 +94,9 @@
   <HAR_NM_Backstory_d_A1.titleShort>正體不明</HAR_NM_Backstory_d_A1.titleShort>
   <HAR_NM_Backstory_d_A1.description>[PAWN_nameDef]是誰並不清楚。但可以確定的是他是你的盟友。</HAR_NM_Backstory_d_A1.description>
 
+  <HAR_NM_Backstory_e_A1.title>ETHOS戰鬥員</HAR_NM_Backstory_e_A1.title>
+  <HAR_NM_Backstory_e_A1.titleShort>ETHOS戰鬥員</HAR_NM_Backstory_e_A1.titleShort>
+  <HAR_NM_Backstory_e_A1.description>[PAWN_nameDef]是直接前往邊境星球的戰鬥員。作為ETHOS的士兵，他具備應對各種戰鬥的技能。</HAR_NM_Backstory_e_A1.description>
 
+  
 </LanguageData>

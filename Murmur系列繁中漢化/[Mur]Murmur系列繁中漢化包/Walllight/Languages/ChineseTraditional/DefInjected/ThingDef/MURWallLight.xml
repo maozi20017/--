@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Main wall light -->
+
+  <Lighting_MURWallLight.label>壁燈</Lighting_MURWallLight.label>
+  <Lighting_MURWallLight.description>一種設計用於安裝在牆壁上的燈具。</Lighting_MURWallLight.description>
+
+
+  <!-- Sun light -->
+
+  <Lighting_MURWallSunLight.label>壁掛式日光燈</Lighting_MURWallSunLight.label>
+  <Lighting_MURWallSunLight.description>一種專門用來種植植物的日光燈具，設計用於安裝在牆壁上。</Lighting_MURWallSunLight.description>
+  <Lighting_MURWallSunLight.comps.3.offMessage>停止運作，進入植物休息期。</Lighting_MURWallSunLight.comps.3.offMessage>
+
+  <MURWallLight_GlowerPlaceholder.label>未使用</MURWallLight_GlowerPlaceholder.label>
+
+
+</LanguageData>

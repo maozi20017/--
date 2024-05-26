@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Mur]Murmur系列繁中漢化包</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.murmur</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>murmur.enemyselfpreservation</li>
+		<li>murmur.outofcombatmovespeedboost</li>
+		<li>murmur.tcu</li>
+		<li>murmur.walllight</li>
+	</loadAfter>
+    <description>
+Murmur系列繁中漢化包
+
+・這作者還有很多其他mod，但大多是提取不出來或沒必要翻譯的，所以就這些
+・不用每個都裝，裝你想裝的就好(應該吧(ﾟ∀。))
+	</description>
+
+</ModMetaData>

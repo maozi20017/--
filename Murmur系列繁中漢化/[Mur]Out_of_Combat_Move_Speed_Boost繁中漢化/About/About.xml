@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Mur]Out of Combat Move Speed Boost 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.outofcombatmovespeedboost</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>murmur.outofcombatmovespeedboost</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+如果您厭倦了殖民者走過長長的走廊需要花費一整個遊戲小時，但又不想破壞遊戲的平衡，那就試試這個...
+
+在當前地圖上沒有任何威脅存在時，所有生物的移動速度將乘以8。當威脅出現時，移動速度會恢復到正常程度，直到再次安全為止。
+
+注意：此模組僅影響移動速度，不影響工作速度或其他任何方面。
+	</description>
+
+</ModMetaData>

@@ -101,5 +101,26 @@
   <HAR_Nearmaere_NPC_Resident_d.labelFemale>女性 夜魔・溫蓋特</HAR_Nearmaere_NPC_Resident_d.labelFemale>
   <HAR_Nearmaere_NPC_Resident_d.labelFemalePlural>女性 夜魔・溫蓋特們</HAR_Nearmaere_NPC_Resident_d.labelFemalePlural>
 
+  <HAR_Nearmaere_NPC_Trader_e.label>ETHOS部隊長</HAR_Nearmaere_NPC_Trader_e.label>
+  <HAR_Nearmaere_NPC_Trader_e.labelPlural>ETHOS部隊長s</HAR_Nearmaere_NPC_Trader_e.labelPlural>
+  <HAR_Nearmaere_NPC_Trader_e.labelMale>男性 ETHOS部隊長</HAR_Nearmaere_NPC_Trader_e.labelMale>
+  <HAR_Nearmaere_NPC_Trader_e.labelMalePlural>男性 ETHOS部隊長s</HAR_Nearmaere_NPC_Trader_e.labelMalePlural>
+  <HAR_Nearmaere_NPC_Trader_e.labelFemale>女性 ETHOS部隊長</HAR_Nearmaere_NPC_Trader_e.labelFemale>
+  <HAR_Nearmaere_NPC_Trader_e.labelFemalePlural>女性 ETHOS部隊長s</HAR_Nearmaere_NPC_Trader_e.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Leader_e.label>ETHOS司令官</HAR_Nearmaere_NPC_Leader_e.label>
+  <HAR_Nearmaere_NPC_Leader_e.labelPlural>ETHOS司令官s</HAR_Nearmaere_NPC_Leader_e.labelPlural>
+  <HAR_Nearmaere_NPC_Leader_e.labelMale>男性 ETHOS司令官</HAR_Nearmaere_NPC_Leader_e.labelMale>
+  <HAR_Nearmaere_NPC_Leader_e.labelMalePlural>男性 ETHOS司令官s</HAR_Nearmaere_NPC_Leader_e.labelMalePlural>
+  <HAR_Nearmaere_NPC_Leader_e.labelFemale>女性 ETHOS司令官</HAR_Nearmaere_NPC_Leader_e.labelFemale>
+  <HAR_Nearmaere_NPC_Leader_e.labelFemalePlural>女性 ETHOS司令官s</HAR_Nearmaere_NPC_Leader_e.labelFemalePlural>
+
+  <HAR_Nearmaere_NPC_Resident_e.label>ETHOS隊員</HAR_Nearmaere_NPC_Resident_e.label>
+  <HAR_Nearmaere_NPC_Resident_e.labelPlural>ETHOS隊員s</HAR_Nearmaere_NPC_Resident_e.labelPlural>
+  <HAR_Nearmaere_NPC_Resident_e.labelMale>男性 ETHOS隊員</HAR_Nearmaere_NPC_Resident_e.labelMale>
+  <HAR_Nearmaere_NPC_Resident_e.labelMalePlural>男性 ETHOS隊員s</HAR_Nearmaere_NPC_Resident_e.labelMalePlural>
+  <HAR_Nearmaere_NPC_Resident_e.labelFemale>女性 ETHOS隊員</HAR_Nearmaere_NPC_Resident_e.labelFemale>
+  <HAR_Nearmaere_NPC_Resident_e.labelFemalePlural>女性 ETHOS隊員s</HAR_Nearmaere_NPC_Resident_e.labelFemalePlural>
+
 
 </LanguageData>

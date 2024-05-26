@@ -25,5 +25,18 @@
   <Nearmaere_Faction_NPC_c.fixedName>真理教會</Nearmaere_Faction_NPC_c.fixedName>
   <Nearmaere_Faction_NPC_c.pawnsPlural>夜魔</Nearmaere_Faction_NPC_c.pawnsPlural>
   <Nearmaere_Faction_NPC_c.leaderTitle>領袖</Nearmaere_Faction_NPC_c.leaderTitle>
+  
+  <Nearmaere_Faction_NPC_e.label>邊境惑星保全機構-ETHOS-</Nearmaere_Faction_NPC_e.label>
+  <Nearmaere_Faction_NPC_e.description>在大戰結束後，偽神族・可能性成立的機構。
+其目的是阻止外部文明的介入，並監視行星直到其自然發展。
 
+不像隱德來希那樣激進，對於降落在這個星球上的遇難者表現出寬容的態度。
+只要遇難者不對其造成危害，便不會有敵對的情況。
+
+穿戴著迦南製造的最先進裝備，召喚她們作為援軍將成為強大的盟友。</Nearmaere_Faction_NPC_e.description>
+  <Nearmaere_Faction_NPC_e.fixedName>邊境惑星保全機構-ETHOS-</Nearmaere_Faction_NPC_e.fixedName>
+  <Nearmaere_Faction_NPC_e.pawnsPlural>夜魔</Nearmaere_Faction_NPC_e.pawnsPlural>
+  <Nearmaere_Faction_NPC_e.leaderTitle>司令官</Nearmaere_Faction_NPC_e.leaderTitle>
+
+  
 </LanguageData>

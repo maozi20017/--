@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+  <li IfModActive="murmur.walllight">Walllight</li>
+  <li IfModActive="murmur.tcu">Tcu</li>
+  <li IfModActive="murmur.outofcombatmovespeedboost">Outofcombatmovespeedboost</li>
+</loadFolders>
