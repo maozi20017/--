@@ -33,5 +33,10 @@
   <HAR_NM_Bullet_Shell_HighExplosive_g.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_g.label>
   <HAR_NM_Bullet_Shell_HighExplosive_h.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_h.label>
 
+  <HAR_NM_VanometricPowerCell.label>宇宙發電機</HAR_NM_VanometricPowerCell.label>
+  <HAR_NM_VanometricPowerCell.description>人工種族的神子偽神族・可能性開發的發電機。
+    \n利用持續膨脹的宇宙引力發電，不需要燃料。
+    \n在殖民地運營中非常有效，但需注意其資產價值很高。</HAR_NM_VanometricPowerCell.description>
+
 
 </LanguageData>

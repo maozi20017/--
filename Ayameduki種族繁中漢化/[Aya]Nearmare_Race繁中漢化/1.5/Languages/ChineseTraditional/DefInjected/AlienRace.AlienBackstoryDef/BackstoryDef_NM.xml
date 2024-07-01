@@ -21,11 +21,11 @@
 
   <HAR_NM_Backstory_C5.title>幼年的訓練兵</HAR_NM_Backstory_C5.title>
   <HAR_NM_Backstory_C5.titleShort>訓練兵</HAR_NM_Backstory_C5.titleShort>
-  <HAR_NM_Backstory_C5.description>[PAWN_nameDef] 是一名從幼年時期開始接受戰鬥技巧訓練的士兵，他既能應對近戰，也能夠一定程度地進行射擊。</HAR_NM_Backstory_C5.description>
+  <HAR_NM_Backstory_C5.description>[PAWN_nameDef] 是一名從幼年時期開始接受戰鬥技巧訓練的士兵，她既能應對近戰，也能夠一定程度地進行射擊。</HAR_NM_Backstory_C5.description>
 
   <HAR_NM_Backstory_C6.title>小小穴居人</HAR_NM_Backstory_C6.title>
   <HAR_NM_Backstory_C6.titleShort>穴居人</HAR_NM_Backstory_C6.titleShort>
-  <HAR_NM_Backstory_C6.description>[PAWN_nameDef] 失去了故鄉後，在一個黑暗的洞穴中度過了他的日子。由於這樣的生活，他熟練於採礦和建築。</HAR_NM_Backstory_C6.description>
+  <HAR_NM_Backstory_C6.description>[PAWN_nameDef] 失去了故鄉後，在一個黑暗的洞穴中度過了她的日子。由於這樣的生活，她熟練於採礦和建築。</HAR_NM_Backstory_C6.description>
 
   <HAR_NM_Backstory_b_C1.title>魔女</HAR_NM_Backstory_b_C1.title>
   <HAR_NM_Backstory_b_C1.titleShort>魔女</HAR_NM_Backstory_b_C1.titleShort>
@@ -33,18 +33,22 @@
 
   <HAR_NM_Backstory_d_C1.title>經歷不明</HAR_NM_Backstory_d_C1.title>
   <HAR_NM_Backstory_d_C1.titleShort>經歷不明</HAR_NM_Backstory_d_C1.titleShort>
-  <HAR_NM_Backstory_d_C1.description>[PAWN_nameDef]的出生和成長過程是未知的。唯一可以從言行中推斷出來的是他是一位智者。</HAR_NM_Backstory_d_C1.description>
+  <HAR_NM_Backstory_d_C1.description>[PAWN_nameDef]的出生和成長過程是未知的。唯一可以從言行中推斷出來的是她是一位智者。</HAR_NM_Backstory_d_C1.description>
+
+  <HAR_NM_Backstory_e_C1.title>ETHOS少女兵</HAR_NM_Backstory_e_C1.title>
+  <HAR_NM_Backstory_e_C1.titleShort>ETHOS兵</HAR_NM_Backstory_e_C1.titleShort>
+  <HAR_NM_Backstory_e_C1.description>[PAWN_nameDef]作為ETHOS的一員，不斷進行訓練。由於這些訓練的成果，她在戰鬥之外也掌握了多種多樣的技能，雖然每項技能掌握得不深，但應用範圍廣泛。</HAR_NM_Backstory_e_C1.description>
 
 
   <!-- ■↓成人期のバックストーリー -->
 
   <HAR_NM_Backstory_A1.title>充滿魅力的接待員</HAR_NM_Backstory_A1.title>
   <HAR_NM_Backstory_A1.titleShort>接待員</HAR_NM_Backstory_A1.titleShort>
-  <HAR_NM_Backstory_A1.description>[PAWN_nameDef] 利用自己的外表，擔任接待業務的職位，他具備了社交能力和處世之道，但相對地對於粗暴的事情卻不太擅長。</HAR_NM_Backstory_A1.description>
+  <HAR_NM_Backstory_A1.description>[PAWN_nameDef] 利用自己的外表，擔任接待業務的職位，她具備了社交能力和處世之道，但相對地對於粗暴的事情卻不太擅長。</HAR_NM_Backstory_A1.description>
 
   <HAR_NM_Backstory_A2.title>充滿熱情的建築師</HAR_NM_Backstory_A2.title>
   <HAR_NM_Backstory_A2.titleShort>建築師</HAR_NM_Backstory_A2.titleShort>
-  <HAR_NM_Backstory_A2.description>[PAWN_nameDef] 意外地覺醒了作為建築師的才能，但由於追求正確和精確，他與野生動物的相處卻不太好。</HAR_NM_Backstory_A2.description>
+  <HAR_NM_Backstory_A2.description>[PAWN_nameDef] 意外地覺醒了作為建築師的才能，但由於追求正確和精確，她與野生動物的相處卻不太好。</HAR_NM_Backstory_A2.description>
 
   <HAR_NM_Backstory_A3.title>華美的射手</HAR_NM_Backstory_A3.title>
   <HAR_NM_Backstory_A3.titleShort>射手</HAR_NM_Backstory_A3.titleShort>
@@ -92,11 +96,11 @@
 
   <HAR_NM_Backstory_d_A1.title>正體不明</HAR_NM_Backstory_d_A1.title>
   <HAR_NM_Backstory_d_A1.titleShort>正體不明</HAR_NM_Backstory_d_A1.titleShort>
-  <HAR_NM_Backstory_d_A1.description>[PAWN_nameDef]是誰並不清楚。但可以確定的是他是你的盟友。</HAR_NM_Backstory_d_A1.description>
+  <HAR_NM_Backstory_d_A1.description>[PAWN_nameDef]是誰並不清楚。但可以確定的是她是你的盟友。</HAR_NM_Backstory_d_A1.description>
 
   <HAR_NM_Backstory_e_A1.title>ETHOS戰鬥員</HAR_NM_Backstory_e_A1.title>
   <HAR_NM_Backstory_e_A1.titleShort>ETHOS戰鬥員</HAR_NM_Backstory_e_A1.titleShort>
-  <HAR_NM_Backstory_e_A1.description>[PAWN_nameDef]是直接前往邊境星球的戰鬥員。作為ETHOS的士兵，他具備應對各種戰鬥的技能。</HAR_NM_Backstory_e_A1.description>
+  <HAR_NM_Backstory_e_A1.description>[PAWN_nameDef]是直接前往邊境星球的戰鬥員。作為ETHOS的士兵，她具備應對各種戰鬥的技能。</HAR_NM_Backstory_e_A1.description>
 
   
 </LanguageData>

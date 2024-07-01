@@ -59,5 +59,12 @@
   <Nearmaere_Artificial_d.stages.3.label>Lv4</Nearmaere_Artificial_d.stages.3.label>
   <Nearmaere_Artificial_d.stages.4.label>Lv5</Nearmaere_Artificial_d.stages.4.label>
 
+  <Nearmaere_Artificial_e.label>人工種族</Nearmaere_Artificial_e.label>
+  <Nearmaere_Artificial_e.description>夜魔·涅墨西斯是經過改良的夜魔。為了能夠在邊境星球的艱難戰鬥中生存，進行了基因調整。</Nearmaere_Artificial_e.description>
+  <Nearmaere_Artificial_e.stages.0.label>Lv1</Nearmaere_Artificial_e.stages.0.label>
+  <Nearmaere_Artificial_e.stages.1.label>Lv2</Nearmaere_Artificial_e.stages.1.label>
+  <Nearmaere_Artificial_e.stages.2.label>Lv3</Nearmaere_Artificial_e.stages.2.label>
+  <Nearmaere_Artificial_e.stages.3.label>Lv4</Nearmaere_Artificial_e.stages.3.label>
+  <Nearmaere_Artificial_e.stages.4.label>Lv5</Nearmaere_Artificial_e.stages.4.label>
 
 </LanguageData>
