@@ -4,12 +4,7 @@
     <!--イデアーン・メネクセノスB型-->
 	<HAR_Idearn_Menexenus_b.label>艾蒂安・美涅克塞努B型</HAR_Idearn_Menexenus_b.label>
     <!--イデアーンは人工種族の同胞ということと断片的な技術以外記録に残されていない謎の多い種族です。\n幽体と思われていたイドヘールの特性を科学的に再現した技術が導入されており、極限的環境でも活動が可能になっています。\nまた不完全ではありますがアザーサイドが使用可能に。\n\n１シーズンの一回『アルケーカードリッジ(ドラック品)』を交換する必要があり、できなければ活動停止し死亡してしまいます。\n\nメネクセノスB型は敵を混乱させることに特化した個体です。\n高い機動力を活かし高速で敵陣に肉薄し炎をまき散らすことで足並みを乱し、機械生命体にはEMPで動きを止めて行動を制限します。-->
-	<HAR_Idearn_Menexenus_b.description>艾蒂安是一支神秘的種族，除了她們是人工種族的同胞和她們零散的技術外，沒有其他記錄。
-		\n使用科學技術再現了幽靈般的幽靈姬的特性，即使在極端環境下也能活動。
-		\n\n每季需要更換1次『始基卡匣(藥品)』，否則會因為身體機能停止而死亡。
-		\n\n美涅克塞努B型是迷惑特化的個體，可以不斷散佈奈米機械並削弱周圍的敵對實體。
-		\n擅長利用其高機動性高速逼近敵方陣線並散播火焰擾亂步伐，使用EMP限制機械生命體的行動。
-	</HAR_Idearn_Menexenus_b.description>
+	<HAR_Idearn_Menexenus_b.description>艾蒂安是一支神秘的種族，除了她們是人工種族的同胞和她們零散的技術外，沒有其他記錄。\n\n使用科學技術再現了幽靈般的幽靈姬的特性，即使在極端環境下也能活動。\n\n每季需要更換1次『始基卡匣(藥品)』，否則會因為身體機能停止而死亡。\n\n美涅克塞努B型是迷惑特化的個體，可以不斷散佈奈米機械並削弱周圍的敵對實體。\n\n擅長利用其高機動性高速逼近敵方陣線並散播火焰擾亂步伐，使用EMP限制機械生命體的行動。</HAR_Idearn_Menexenus_b.description>
 	<HAR_Idearn_Menexenus_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>外殻</HAR_Idearn_Menexenus_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
 	<HAR_Idearn_Menexenus_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>外殻</HAR_Idearn_Menexenus_b.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
 	<!--オケアノスクシフォス-->

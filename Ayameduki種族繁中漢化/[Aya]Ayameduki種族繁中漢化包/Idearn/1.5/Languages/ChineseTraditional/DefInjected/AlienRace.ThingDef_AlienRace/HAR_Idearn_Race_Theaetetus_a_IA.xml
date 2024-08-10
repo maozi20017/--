@@ -4,12 +4,7 @@
     <!--イデアーン・テアイテトスA型-->
 	<HAR_Idearn_Theaetetus_a.label>艾蒂安・泰阿泰德A型</HAR_Idearn_Theaetetus_a.label>
     <!--イデアーンは人工種族の同胞ということと断片的な技術以外記録に残されていない謎の多い種族です。\n幽体と思われていたイドヘールの特性を科学的に再現した技術が導入されており、極限的環境でも活動が可能になっています。\nまたダメージを遮断するアザーサイドが使用可能です。\n\n１シーズンの一回『アルケーカードリッジ(ドラック品)』を交換する必要があり、できなければ活動停止し死亡してしまいます。\n\nテアイテトスA型は女王種レクイーンのデータが使われており軍隊戦術に特化した上位個体です。接近戦に特化した眷属を多数召喚しまた周囲の味方へナノマシンによる強化を施します。-->
-	<HAR_Idearn_Theaetetus_a.description>艾蒂安是一支神秘的種族，除了她們是人工種族的同胞和她們零散的技術外，沒有其他記錄。
-		\n使用科學技術再現了幽靈般的幽靈姬的特性，即使在極端環境下也能活動。
-		\n\n每季需要更換1次『始基卡匣(藥品)』，否則會因為身體機能停止而死亡。
-		\n\n泰阿泰德A型是使用女王種【女皇】的數據而製成的軍事戰術特化的上位個體。
-		\n能夠召喚多個近戰特化的眷屬，並用奈米機械強化周圍的盟友。
-	</HAR_Idearn_Theaetetus_a.description>
+	<HAR_Idearn_Theaetetus_a.description>艾蒂安是一支神秘的種族，除了她們是人工種族的同胞和她們零散的技術外，沒有其他記錄。\n\n使用科學技術再現了幽靈般的幽靈姬的特性，即使在極端環境下也能活動。\n\n每季需要更換1次『始基卡匣(藥品)』，否則會因為身體機能停止而死亡。\n\n泰阿泰德A型是使用女王種【女皇】的數據而製成的軍事戰術特化的上位個體。\n\n能夠召喚多個近戰特化的眷屬，並用奈米機械強化周圍的盟友。</HAR_Idearn_Theaetetus_a.description>
 	<HAR_Idearn_Theaetetus_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>外殻</HAR_Idearn_Theaetetus_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.0.name>
 	<HAR_Idearn_Theaetetus_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>外殻</HAR_Idearn_Theaetetus_a.alienRace.generalSettings.alienPartGenerator.bodyAddons.1.name>
 	<!--オケアノスクシフォス-->
