@@ -39,8 +39,8 @@
 	<!--【範囲:超大規模】自身を中心として20マスの『不可逆の狂暴化』を起こす大爆発を発生させます、再使用には一日間の時間が必要となります。-->
 	<HAR_Idearn_Critias.comps.Idearn_CompCommandExplosive-2.commandDesc>【範圍：超大規模】以自身為中心，對周圍20格內造成『不可逆的狂暴化』，冷卻時間為1天。</HAR_Idearn_Critias.comps.Idearn_CompCommandExplosive-2.commandDesc>
 	<!--ゲヘナバシレイア--><!--欣嫩谷 神之國度-->
-	<HAR_Idearn_Critias.comps.Idearn_CompCommandExplosive-3.commandLabel>天國之獄</HAR_Idearn_Critias.comps.Idearn_CompCommandExplosive-3.commandLabel>
+	<HAR_Idearn_Critias.comps.Comp_HAR_IA_Skill.commandLabel>天國之獄</HAR_Idearn_Critias.comps.Comp_HAR_IA_Skill.commandLabel>
 	<!--【範囲:超大規模】自身を中心として40マスの膨大なダメージの大爆発を発生させます、再使用には1シーズンの時間が必要となります。-->
-	<HAR_Idearn_Critias.comps.Idearn_CompCommandExplosive-3.commandDesc>【範圍：超大規模】以自身為中心，對周圍40格內造成極大傷害，冷卻時間為1季。</HAR_Idearn_Critias.comps.Idearn_CompCommandExplosive-3.commandDesc>
+	<HAR_Idearn_Critias.comps.Comp_HAR_IA_Skill.commandDesc>在射程內的任意格上發生半徑25格的衝擊波。消滅除了克里提亞斯以外的所有存在（有例外）。</HAR_Idearn_Critias.comps.Comp_HAR_IA_Skill.commandDesc>
 
 </LanguageData>
