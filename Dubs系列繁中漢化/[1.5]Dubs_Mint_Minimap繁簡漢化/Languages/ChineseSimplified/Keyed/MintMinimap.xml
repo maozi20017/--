@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Minimap.Coords>协调</Minimap.Coords>
+  <Minimap.ShowButt>显示右下小地图按钮</Minimap.ShowButt>
+  <Minimap.MintMinimapDesc>显示当前地图的小地图</Minimap.MintMinimapDesc>
+  <Minimap.MintMinimapWiki>小地图维基</Minimap.MintMinimapWiki>
+  <Minimap.DubsModsDiscord>Dubs模组Discord</Minimap.DubsModsDiscord>
+  <Minimap.Setkeybindinkeyboardconfig>配置按键</Minimap.Setkeybindinkeyboardconfig>
+  <Minimap.Pingbutton>ping按钮</Minimap.Pingbutton>
+  <Minimap.Mouse>鼠标键{0}</Minimap.Mouse>
+  <Minimap.None>无</Minimap.None>
+  <Minimap.Minimapmode>小地图模式</Minimap.Minimapmode>
+  <Minimap.Free>无任何条件</Minimap.Free>
+  <Minimap.Commsconsole>通讯台</Minimap.Commsconsole>
+  <Minimap.RimatomicsTACS>Rimatomics TACS</Minimap.RimatomicsTACS>
+	<Minimap.AttackAlerts>攻击警报</Minimap.AttackAlerts>
+	<Minimap.Fires>火区</Minimap.Fires>
+	<Minimap.Hostiles>敌人</Minimap.Hostiles>
+	<Minimap.Animals>动物</Minimap.Animals>
+	<Minimap.Wildlife>野生动植物</Minimap.Wildlife>
+  <Minimap.Predators>捕食者</Minimap.Predators>
+  <Minimap.Colonists>殖民者</Minimap.Colonists>
+  <Minimap.Prisoners>囚犯</Minimap.Prisoners>
+  <Minimap.SmallArmsFire>子弹</Minimap.SmallArmsFire>
+  <Minimap.Projectiles>炮弹</Minimap.Projectiles>
+  <Minimap.FactionColours>派系颜色</Minimap.FactionColours>
+  <Minimap.Fogged>未探索区域</Minimap.Fogged>
+  <Minimap.DrawPlants>植物</Minimap.DrawPlants>
+  <Minimap.RealBuildingColour>建筑颜色</Minimap.RealBuildingColour>
+  <Minimap.RealTerrainColour>地面颜色</Minimap.RealTerrainColour>
+  <Minimap.RealPlantColour>植物颜色</Minimap.RealPlantColour>
+  <Minimap.Markers>标记</Minimap.Markers>
+  <Minimap.Enemies>敌人</Minimap.Enemies>
+  <Minimap.Friendlies>盟友</Minimap.Friendlies>
+  <Minimap.ColonyAnimals>殖民地动物</Minimap.ColonyAnimals>
+  <Minimap.Mapsize>地图尺寸</Minimap.Mapsize>
+  <Minimap.IconScale>启用项图标大小</Minimap.IconScale>
+  <Minimap.ColonistScale>殖民者图标大小</Minimap.ColonistScale>
+  <Minimap.Ground>地面</Minimap.Ground>
+	<Minimap.Plants>植物</Minimap.Plants>
+	<Minimap.Edifice>建筑</Minimap.Edifice>
+	<Minimap.Water>水体</Minimap.Water>
+	<Minimap.Fog>未探索区域</Minimap.Fog>
+  <Minimap.NoSignal>无信号</Minimap.NoSignal>
+  <Minimap.RimatomicsMinimap>启用后，小地图功能需要Rimatomics模组的TACS（目标获取和通信系统）来运作。</Minimap.RimatomicsMinimap>
+  <Minimap.CommsConsoleMap>启用后，小地图功能需要有通讯台才能运作。</Minimap.CommsConsoleMap>
+  <Minimap.FreeMinimap>启用后，小地图可以自由使用，无需额外建筑物。</Minimap.FreeMinimap>
+  <PinttoolTip>在多人连线中，可以对地图上的位置进行ping，其他玩家也能看到该ping。</PinttoolTip>
+  <MapAnchorTip>锁定小地图的大小和位置。</MapAnchorTip>
+  <SneakyFinderTip>标记地图上与当前选择具有相同定义的所有事物</SneakyFinderTip>
+
+</LanguageData>

@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[1.4]Dubs Mint Minimap繁中漢化</name>
+	<name>[1.5]Dubs Mint Minimap繁簡漢化</name>
 	<author>毛子</author>
 	<packageId>ZH.ChinesePack.dubsmintminimap</packageId>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<loadAfter>
 		<li>Dubwise.dubsmintminimap</li>
