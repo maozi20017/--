@@ -28,7 +28,7 @@
   \n\n\n施展這股力量的時候，經常能看到偽神族們揮舞著小手、嘴裡念叨著『不勝感激』的樣子。</HAR_LL_Hediff_d.description>
 
   <HAR_LL_Hediff_e.label>星辰的神子</HAR_LL_Hediff_e.label>
-  <HAR_LL_Hediff_e.description>偽神族・理念奴隸被某個存在佔據，處於被控制的狀態。
+  <HAR_LL_Hediff_e.description>偽神族・伊迪亞之奴被某個存在佔據，處於被控制的狀態。
   \n需要小心，它會無差別地使附近的人昏倒。
   \n\n童女是很久以前就被殘殺的神子『偽神族・可能性』的後裔。
   \n然而，現在她的輝煌已經消失，成為一個吞噬一切生命的怪物。
@@ -36,7 +36,7 @@
   \n\n只有一個例外，那就是殺害神子的騎士。</HAR_LL_Hediff_e.description>
 
   <HAR_LL_Hediff_f.label>心魂暴露</HAR_LL_Hediff_f.label>
-  <HAR_LL_Hediff_f.description>處於偽神族・理念奴隸的擁抱狀態中。
+  <HAR_LL_Hediff_f.description>處於偽神族・伊迪亞之奴的擁抱狀態中。
   \n失去生氣，倒地不起，無法進行任何動作。
   \n同時，處於倒地狀態時會定期受到傷害。
   \n這種狀態會在一天後解除。
@@ -73,7 +73,7 @@
   <Littluna_Artificial.description>偽神族是被設計為擁有強大召喚能力的人工種族。由於是人造生物，她們對疾病的耐性、免疫力等都比較低。</Littluna_Artificial.description>
 
   <Littluna_Artificial_b.label>人工上位種族</Littluna_Artificial_b.label>
-  <Littluna_Artificial_b.description>偽神族・理念奴隸基本上和普通種沒有太大區別。然而，她們所獲得的祝福卻極度扭曲且充滿絕望。
+  <Littluna_Artificial_b.description>偽神族・伊迪亞之奴基本上和普通種沒有太大區別。然而，她們所獲得的祝福卻極度扭曲且充滿絕望。
   \n\n她比其他童女更寬廣地看待事物，但也因此被累積的痛苦所折磨，最終陷入瘋狂的狀態。</Littluna_Artificial_b.description>
 
 </LanguageData>
