@@ -28,7 +28,7 @@
   <!-- ■ビーストエナジー -->
 
   <HAR_SK_Meal_c.label>獸娘能量飲料</HAR_SK_Meal_c.label>
-  <HAR_SK_Meal_c.description>『我等創造者秘傳的營養飲料，每日飲就健康生活！』\n\n亞人工業售賣的能量飲料，可以提高免疫力且不會上癮，想怎麼喝就怎麼喝！</HAR_SK_Meal_c.description>
+  <HAR_SK_Meal_c.description>『我等創造主秘傳的營養飲料，每日飲就健康生活！』\n\n亞人工業售賣的能量飲料，可以提高免疫力且不會上癮，想怎麼喝就怎麼喝！</HAR_SK_Meal_c.description>
   <HAR_SK_Meal_c.tools.0.label>瓶身</HAR_SK_Meal_c.tools.0.label>
   <HAR_SK_Meal_c.tools.1.label>瓶口</HAR_SK_Meal_c.tools.1.label>
   <HAR_SK_Meal_c.ingestible.ingestCommandString>飲用 {0}</HAR_SK_Meal_c.ingestible.ingestCommandString>
