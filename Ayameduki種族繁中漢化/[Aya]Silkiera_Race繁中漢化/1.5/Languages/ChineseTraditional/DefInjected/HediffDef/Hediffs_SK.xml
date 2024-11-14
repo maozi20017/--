@@ -26,8 +26,8 @@
   <Silkiera_Artificial.stages.3.label>Lv4</Silkiera_Artificial.stages.3.label>
   <Silkiera_Artificial.stages.4.label>Lv5</Silkiera_Artificial.stages.4.label>
 
-  <Silkiera_Artificial_b.label>人工上位種族(亞人獸娘・優越種)</Silkiera_Artificial_b.label>
-  <Silkiera_Artificial_b.description>經過品種改良後，亞人獸娘・優越種擁有比普通亞人獸娘更優秀的身體素質。\n曾是弱點的免疫力也得到了增強，應該能有更穩定的活動。</Silkiera_Artificial_b.description>
+  <Silkiera_Artificial_b.label>人工上位種族(亞人獸娘)</Silkiera_Artificial_b.label>
+  <Silkiera_Artificial_b.description>亞人獸娘的上位種經過品種改良後的結果，擁有比普通亞人獸娘更優秀的身體素質。\n曾是弱點的免疫力也得到了增強，應該能有更穩定的活動。</Silkiera_Artificial_b.description>
   <Silkiera_Artificial_b.stages.0.label>Lv1</Silkiera_Artificial_b.stages.0.label>
   <Silkiera_Artificial_b.stages.1.label>Lv2</Silkiera_Artificial_b.stages.1.label>
   <Silkiera_Artificial_b.stages.2.label>Lv3</Silkiera_Artificial_b.stages.2.label>
