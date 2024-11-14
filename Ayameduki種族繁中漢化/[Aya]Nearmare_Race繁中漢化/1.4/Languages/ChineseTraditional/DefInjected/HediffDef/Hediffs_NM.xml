@@ -35,7 +35,7 @@
   <HAR_NM_Skill_Hediff_e.label>深淵之暗</HAR_NM_Skill_Hediff_e.label>
   <HAR_NM_Skill_Hediff_e.description>受到幻景種夜魔・阿拉迪亞的身體脆弱的干涉。\n即使穿著最堅固的鎧甲，防禦也會降低到致命的程度。</HAR_NM_Skill_Hediff_e.description>
 
-  <Nearmaere_Artificial.label>人工種族</Nearmaere_Artificial.label>
+  <Nearmaere_Artificial.label>人工種族(夜魔)</Nearmaere_Artificial.label>
   <Nearmaere_Artificial.description>由於夜魔是人工製造的種族，特別針對精神干涉，所以對精神相關有很強的耐性，相反對人工生物或病毒等的抗性和免疫力很低。\n\n另外，她們有自己的眷屬，可以召喚出來讓其與敵人戰鬥，其強度、召喚數根據她們個人作為人工種族的Lv而定，大約1年提升1級(上限為5級)。</Nearmaere_Artificial.description>
   <Nearmaere_Artificial.stages.0.label>Lv1</Nearmaere_Artificial.stages.0.label>
   <Nearmaere_Artificial.stages.1.label>Lv2</Nearmaere_Artificial.stages.1.label>

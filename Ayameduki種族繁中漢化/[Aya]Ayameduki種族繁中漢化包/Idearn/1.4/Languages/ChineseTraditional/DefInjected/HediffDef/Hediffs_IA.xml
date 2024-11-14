@@ -13,7 +13,7 @@
 	<Idearn_Artificial_b.stages.5.label>100％</Idearn_Artificial_b.stages.5.label>
 	
 	<!--新生種族-->
-	<Idearn_Artificial.label>新生種族</Idearn_Artificial.label>
+	<Idearn_Artificial.label>新生種族(艾蒂安)</Idearn_Artificial.label>
 	<!--イデアーンは生物と機械の混合存在であり優れた演算能力を持つ。\n年月を経るごとにその処理速度は最適・高速化していきあらゆる行動が的確なものになる。\nLvは約一年でLv1上昇する(Lv上限は5)。-->
 	<Idearn_Artificial.description>艾蒂安是生物與機械的混和體，擁有優秀的演算能力。\n隨著時間的推移，她的處理速度會得到優化和加速，每一個動作都會更加準確。大約1年提升1級(上限為5級)。</Idearn_Artificial.description>
 	<Idearn_Artificial.stages.0.label>Lv.1</Idearn_Artificial.stages.0.label>

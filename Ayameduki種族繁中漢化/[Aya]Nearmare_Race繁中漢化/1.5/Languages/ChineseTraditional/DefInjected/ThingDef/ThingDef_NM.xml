@@ -10,7 +10,7 @@
 
   <HAR_NM_Archotech_b.label>ETHOS通信機(派遣要請)</HAR_NM_Archotech_b.label>
   <HAR_NM_Archotech_b.description>ETHOS的人員派遣通信機。
-    \n使用後，夜魔·涅墨西斯將會加入殖民地。</HAR_NM_Archotech_b.description>
+    \n使用後，夜魔・涅墨西斯將會加入殖民地。</HAR_NM_Archotech_b.description>
   <HAR_NM_Archotech_b.comps.0.useLabel>啟用 {0_label}</HAR_NM_Archotech_b.comps.0.useLabel>
 
   <HAR_NM_Proj_GrenadeFrag.label>諾托斯手榴彈</HAR_NM_Proj_GrenadeFrag.label>
@@ -21,7 +21,7 @@
     \n缺點是由於護盾較小，對爆炸波的抵抗力較弱。</HAR_NM_BroadshieldProjector.description>
 
   <HAR_NM_TrapIED_HighExplosive.label>安塔瑞斯地雷</HAR_NM_TrapIED_HighExplosive.label>
-  <HAR_NM_TrapIED_HighExplosive.description>夜魔·涅墨西斯召喚的地雷。
+  <HAR_NM_TrapIED_HighExplosive.description>夜魔・涅墨西斯召喚的地雷。
     \n踩踏或施加衝擊時，會發生半徑6格的爆炸。</HAR_NM_TrapIED_HighExplosive.description>
 
   <HAR_NM_Bullet_Shell_HighExplosive_a.label>歐律托斯加農</HAR_NM_Bullet_Shell_HighExplosive_a.label>

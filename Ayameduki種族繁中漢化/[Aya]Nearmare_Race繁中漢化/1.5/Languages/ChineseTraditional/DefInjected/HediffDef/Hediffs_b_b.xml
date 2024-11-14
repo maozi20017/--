@@ -2,7 +2,7 @@
 <LanguageData>
 
   <HAR_NM_Hediff_Potency_a.label>亞克特拉的靈藥</HAR_NM_Hediff_Potency_a.label>
-  <HAR_NM_Hediff_Potency_a.description>人造種族夜魔·阿拉迪亞之一的魔女，亞克特拉所創造的藥物效果。
+  <HAR_NM_Hediff_Potency_a.description>人造種族夜魔・阿拉迪亞之一的魔女，亞克特拉所創造的藥物效果。
 持續8小時發揮效果，之後會出現4小時的副作用。
 
 在藥物發揮效果期間，身體能力提升，攻擊力增強。
@@ -15,7 +15,7 @@
   <HAR_NM_Hediff_Potency_a.stages.0.label>副作用</HAR_NM_Hediff_Potency_a.stages.0.label>
 
   <HAR_NM_Hediff_Potency_b.label>艾蒂涅的魔藥</HAR_NM_Hediff_Potency_b.label>
-  <HAR_NM_Hediff_Potency_b.description>人造種族亞人獸娘·母夜叉之一的女狐，艾蒂涅創造的藥物效果。
+  <HAR_NM_Hediff_Potency_b.description>人造種族亞人獸娘・母夜叉之一的女狐，艾蒂涅創造的藥物效果。
 持續8小時發揮效果，之後會出現4小時的副作用。
 
 在藥物發揮效果期間，身體能力提升，防禦力增強。

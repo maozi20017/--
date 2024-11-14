@@ -54,7 +54,7 @@
   \n能使受影響的人無法行動，只能俯首伏地。
   \n經過1天後會解除。</HAR_IH_Hediff_ZZZ.description>
 
-  <Idhale_Artificial.label>人工種族</Idhale_Artificial.label>
+  <Idhale_Artificial.label>人工種族(幽靈姬)</Idhale_Artificial.label>
   <Idhale_Artificial.description>幽靈姬由於靈體性質原因，物理干擾需要先進的技術支持，所以工作效率較低，而且對疾病的抵抗力和免疫力低下。
   \n但是她們每天都在不斷的成長，一點點的克服自己的缺點，她們的強度取決於她們個人的Lv等級，大約1年提升1級(上限為5級)。</Idhale_Artificial.description>
   <Idhale_Artificial.stages.0.label>Lv1</Idhale_Artificial.stages.0.label>
@@ -63,7 +63,7 @@
   <Idhale_Artificial.stages.3.label>Lv4</Idhale_Artificial.stages.3.label>
   <Idhale_Artificial.stages.4.label>Lv5</Idhale_Artificial.stages.4.label>
 
-  <Idhale_Artificial_b.label>人工上位種族</Idhale_Artificial_b.label>
+  <Idhale_Artificial_b.label>人工上位種族(幽靈姬・罪孽神靈)</Idhale_Artificial_b.label>
   <Idhale_Artificial_b.description>幽靈姬・罪孽神靈與不穩定的普通種不同，她們擁有穩定的幽體並擁有許多神秘的力量。
   \n\n為了履行創造主的遺志，不斷重生並在星際間遊蕩的神靈。
   \n我們的宿敵，那繼承了災禍之血的幼鳥，到底在何方呢？</Idhale_Artificial_b.description>

@@ -35,7 +35,7 @@
   <HAR_NM_Skill_Hediff_e.label>深淵之暗</HAR_NM_Skill_Hediff_e.label>
   <HAR_NM_Skill_Hediff_e.description>受到幻景種夜魔・阿拉迪亞的身體脆弱的干涉。\n即使穿著最堅固的鎧甲，防禦也會降低到致命的程度。</HAR_NM_Skill_Hediff_e.description>
 
-  <Nearmaere_Artificial.label>人工種族</Nearmaere_Artificial.label>
+  <Nearmaere_Artificial.label>人工種族(夜魔)</Nearmaere_Artificial.label>
   <Nearmaere_Artificial.description>由於夜魔是人工製造的種族，特別針對精神干涉，所以對精神相關有很強的耐性，相反對人工生物或病毒等的抗性和免疫力很低。\n\n另外，她們有自己的眷屬，可以召喚出來讓其與敵人戰鬥，其強度、召喚數根據她們個人作為人工種族的Lv而定，大約1年提升1級(上限為5級)。</Nearmaere_Artificial.description>
   <Nearmaere_Artificial.stages.0.label>Lv1</Nearmaere_Artificial.stages.0.label>
   <Nearmaere_Artificial.stages.1.label>Lv2</Nearmaere_Artificial.stages.1.label>
@@ -43,7 +43,7 @@
   <Nearmaere_Artificial.stages.3.label>Lv4</Nearmaere_Artificial.stages.3.label>
   <Nearmaere_Artificial.stages.4.label>Lv5</Nearmaere_Artificial.stages.4.label>
 
-  <Nearmaere_Artificial_b.label>人工上位種族</Nearmaere_Artificial_b.label>
+  <Nearmaere_Artificial_b.label>人工上位種族(夜魔・阿拉迪亞)</Nearmaere_Artificial_b.label>
   <Nearmaere_Artificial_b.description>幻景種夜魔・阿拉迪亞是夜魔的完成形態，擁有在人類社會上位的手腕和技巧。\n長期以來人工種族特有的免疫問題克服的同時，精神力也得到了成長。</Nearmaere_Artificial_b.description>
   <Nearmaere_Artificial_b.stages.0.label>Lv1</Nearmaere_Artificial_b.stages.0.label>
   <Nearmaere_Artificial_b.stages.1.label>Lv2</Nearmaere_Artificial_b.stages.1.label>
@@ -51,16 +51,16 @@
   <Nearmaere_Artificial_b.stages.3.label>Lv4</Nearmaere_Artificial_b.stages.3.label>
   <Nearmaere_Artificial_b.stages.4.label>Lv5</Nearmaere_Artificial_b.stages.4.label>
 
-  <Nearmaere_Artificial_d.label>人工種族</Nearmaere_Artificial_d.label>
-  <Nearmaere_Artificial_d.description>夜魔·溫蓋特與普通的夜魔不同。雖然失去了召喚眷屬的能力，但免疫力已得到改善，精神面也變得更強大。</Nearmaere_Artificial_d.description>
+  <Nearmaere_Artificial_d.label>人工種族(夜魔・溫蓋特)</Nearmaere_Artificial_d.label>
+  <Nearmaere_Artificial_d.description>夜魔・溫蓋特與普通的夜魔不同。雖然失去了召喚眷屬的能力，但免疫力已得到改善，精神面也變得更強大。</Nearmaere_Artificial_d.description>
   <Nearmaere_Artificial_d.stages.0.label>Lv1</Nearmaere_Artificial_d.stages.0.label>
   <Nearmaere_Artificial_d.stages.1.label>Lv2</Nearmaere_Artificial_d.stages.1.label>
   <Nearmaere_Artificial_d.stages.2.label>Lv3</Nearmaere_Artificial_d.stages.2.label>
   <Nearmaere_Artificial_d.stages.3.label>Lv4</Nearmaere_Artificial_d.stages.3.label>
   <Nearmaere_Artificial_d.stages.4.label>Lv5</Nearmaere_Artificial_d.stages.4.label>
 
-  <Nearmaere_Artificial_e.label>人工種族</Nearmaere_Artificial_e.label>
-  <Nearmaere_Artificial_e.description>夜魔·涅墨西斯是經過改良的夜魔。為了能夠在邊境星球的艱難戰鬥中生存，進行了基因調整。</Nearmaere_Artificial_e.description>
+  <Nearmaere_Artificial_e.label>人工種族(夜魔・涅墨西斯)</Nearmaere_Artificial_e.label>
+  <Nearmaere_Artificial_e.description>夜魔・涅墨西斯是經過改良的夜魔。為了能夠在邊境星球的艱難戰鬥中生存，進行了基因調整。</Nearmaere_Artificial_e.description>
   <Nearmaere_Artificial_e.stages.0.label>Lv1</Nearmaere_Artificial_e.stages.0.label>
   <Nearmaere_Artificial_e.stages.1.label>Lv2</Nearmaere_Artificial_e.stages.1.label>
   <Nearmaere_Artificial_e.stages.2.label>Lv3</Nearmaere_Artificial_e.stages.2.label>

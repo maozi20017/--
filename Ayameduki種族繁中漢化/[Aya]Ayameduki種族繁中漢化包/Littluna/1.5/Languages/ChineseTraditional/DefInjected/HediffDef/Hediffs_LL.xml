@@ -75,14 +75,14 @@
   <HAR_LL_Hediff_k.label>神子的哭聲</HAR_LL_Hediff_k.label>
   <HAR_LL_Hediff_k.description>聽到神子的哭聲後產生的狀態。聽到的人會不知為何狂暴化。</HAR_LL_Hediff_k.description>
 
-  <Littluna_Artificial.label>人工種族</Littluna_Artificial.label>
+  <Littluna_Artificial.label>人工種族(偽神族)</Littluna_Artificial.label>
   <Littluna_Artificial.description>偽神族是被設計為擁有強大召喚能力的人工種族。由於是人造生物，她們對疾病的耐性、免疫力等都比較低。</Littluna_Artificial.description>
 
-  <Littluna_Artificial_b.label>人工上位種族</Littluna_Artificial_b.label>
+  <Littluna_Artificial_b.label>人工上位種族(偽神族・伊迪亞之奴)</Littluna_Artificial_b.label>
   <Littluna_Artificial_b.description>偽神族・伊迪亞之奴基本上和普通種沒有太大區別。然而，她們所獲得的祝福卻極度扭曲且充滿絕望。
   \n\n她比其他童女更寬廣地看待事物，但也因此被累積的痛苦所折磨，最終陷入瘋狂的狀態。</Littluna_Artificial_b.description>
 
-  <Littluna_Artificial_c.label>人工上位種族</Littluna_Artificial_c.label>
+  <Littluna_Artificial_c.label>人工上位種族(偽神族・可能性)</Littluna_Artificial_c.label>
   <Littluna_Artificial_c.description>偽神族・可能性擁有超越原種的能力，但身體能力更低。
     \n將需要高度技術的支持才能維持其運作。</Littluna_Artificial_c.description>
 

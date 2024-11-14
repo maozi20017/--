@@ -17,7 +17,7 @@
   <HAR_NC_Hediff_b.stages.2.label>重度</HAR_NC_Hediff_b.stages.2.label>
   <HAR_NC_Hediff_b.stages.3.label>極度</HAR_NC_Hediff_b.stages.3.label>
 
-  <Neclose_Artificial.label>人工種族</Neclose_Artificial.label>
+  <Neclose_Artificial.label>人工種族(牧菌妖姬)</Neclose_Artificial.label>
   <Neclose_Artificial.description>牧菌妖姬是人工製造的種族，擁有堪比夜魔的精神強度的同時，身體素質也極為出色。\n\n另外，她們還可以召喚眷屬、協助戰鬥；其召喚數取決於她們的牧菌等級——Lv等級，大約每過1年就會上升Lv.1(Lv上限為5)。</Neclose_Artificial.description>
   <Neclose_Artificial.stages.0.label>Lv1</Neclose_Artificial.stages.0.label>
   <Neclose_Artificial.stages.1.label>Lv2</Neclose_Artificial.stages.1.label>
