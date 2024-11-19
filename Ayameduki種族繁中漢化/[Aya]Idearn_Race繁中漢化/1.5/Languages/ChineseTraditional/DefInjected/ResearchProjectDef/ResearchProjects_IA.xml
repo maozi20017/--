@@ -64,5 +64,6 @@
 	<HAR_IA_Project_Final_g.label>就此開始</HAR_IA_Project_Final_g.label>
 	<!--隱德來希によって焼却されたものを蘇らせる-->
 	<HAR_IA_Project_Final_g.description>透過隱德來希來恢復被燒毀的東西。</HAR_IA_Project_Final_g.description>
-
+	<HAR_IA_Project_Final_g.discoveredLetterTitle>焚書</HAR_IA_Project_Final_g.discoveredLetterTitle>
+	<HAR_IA_Project_Final_g.discoveredLetterText>終於成功復原了被隱藏的製造數據。\n然而，製作這個模型所需的材料，遠遠超過以往的規模。\n如果在收集材料的過程中感到痛苦，倒不如坦然地選擇放棄。\n\n\n這是王族們以生命為代價使其沉眠的久遠怨敵。\n當你完成這個模型之時，人類的戰鬥將正式劃下句點。</HAR_IA_Project_Final_g.discoveredLetterText>
 </LanguageData>
