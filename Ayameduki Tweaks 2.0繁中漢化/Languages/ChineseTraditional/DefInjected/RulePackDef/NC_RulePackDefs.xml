@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Created to solve issues with neclose rulepacks not responding to normal patches when it comes time to spawn names. No idea why that happens. -->
+
+  <AT_NamerPerson_HAR_NC.rulePack.rulesStrings.0>name->[HAR_Aya_Firstname] [HAR_Aya_Lastname]</AT_NamerPerson_HAR_NC.rulePack.rulesStrings.0>
+
+
+</LanguageData>

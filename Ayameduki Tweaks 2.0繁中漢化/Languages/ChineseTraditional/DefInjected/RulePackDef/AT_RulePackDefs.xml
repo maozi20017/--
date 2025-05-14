@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RulePacks for custom ishmuti culture data. -->
+
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.0>r_ideoName(p=2)->Teachings of Aletheia and [memeConcept]</AT_NamerIdeoIshmuti.rulePack.rulesStrings.0>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.1>r_ideoName->Teachings of [keyDeity]</AT_NamerIdeoIshmuti.rulePack.rulesStrings.1>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.2>r_ideoName->[memeAdjective] Aletheianism</AT_NamerIdeoIshmuti.rulePack.rulesStrings.2>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.3>r_memberName->Aletheian</AT_NamerIdeoIshmuti.rulePack.rulesStrings.3>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.4>r_ideoAdjective->Ishmutian</AT_NamerIdeoIshmuti.rulePack.rulesStrings.4>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.5>r_ideoAdjective->Aletheian</AT_NamerIdeoIshmuti.rulePack.rulesStrings.5>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.6>r_ideoAdjective->Canaanite</AT_NamerIdeoIshmuti.rulePack.rulesStrings.6>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.7>hyphenPrefix->[memeHyphenPrefix]</AT_NamerIdeoIshmuti.rulePack.rulesStrings.7>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.8>hyphenPrefix->Idea</AT_NamerIdeoIshmuti.rulePack.rulesStrings.8>
+  <AT_NamerIdeoIshmuti.rulePack.rulesStrings.9>hyphenPrefix->Canaan</AT_NamerIdeoIshmuti.rulePack.rulesStrings.9>
+
+  <AT_NamerDeityIshmuti.rulePack.rulesStrings.0>name->The Creator</AT_NamerDeityIshmuti.rulePack.rulesStrings.0>
+  <AT_DeityTypeMakerIshmuti.rulePack.rulesStrings.0>r_deityType->Ishmutian Creator</AT_DeityTypeMakerIshmuti.rulePack.rulesStrings.0>
+
+  <AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.0>r_leaderTitle->High Daughter</AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.0>
+  <AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.1>r_leaderTitle->Queen</AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.1>
+  <AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.2>r_leaderTitle->Canaanite [memeLeaderNoun]</AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.2>
+  <AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.3>r_leaderTitle->Aletheian [memeLeaderNoun]</AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.3>
+  <AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.4>r_leaderTitle->Ishmutian [memeLeaderNoun]</AT_LeaderTitleMaker_Ishmuti.rulePack.rulesStrings.4>
+
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.0>festivalName(p=2)->[memeAdjective] [festival]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.0>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.1>festivalName->[memeAdjective] [festival] of [chosenTheme]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.1>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.2>festivalName->[memeAdjective] [festival] of [chosenTheme]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.2>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.3>festivalName->[festival] of Canaan</AT_NamerFestivalIshmuti.rulePack.rulesStrings.3>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.4>festivalName->[festival] of Aletheia</AT_NamerFestivalIshmuti.rulePack.rulesStrings.4>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.5>festivalName->[memeAdjective] Ishmuti [festival] </AT_NamerFestivalIshmuti.rulePack.rulesStrings.5>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.6>festivalName->Canaanian [memeAdjective] [festival]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.6>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.7>festivalName->Aletheian [memeAdjective] [festival]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.7>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.8>festivalName->Ishmutian [memeAdjective] [festival]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.8>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.9>festivalName->[chosenAdjective] [festival]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.9>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.10>festivalName->[keyDeity]'s [festival]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.10>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.11>festivalName->[festival] of [keyDeity]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.11>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.12>festivalName->[festival] of [memeConcept]</AT_NamerFestivalIshmuti.rulePack.rulesStrings.12>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.13>festival->pulkhan</AT_NamerFestivalIshmuti.rulePack.rulesStrings.13>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.14>festival->epinikion</AT_NamerFestivalIshmuti.rulePack.rulesStrings.14>
+  <AT_NamerFestivalIshmuti.rulePack.rulesStrings.15>festival->Adonia</AT_NamerFestivalIshmuti.rulePack.rulesStrings.15>
+
+
+</LanguageData>

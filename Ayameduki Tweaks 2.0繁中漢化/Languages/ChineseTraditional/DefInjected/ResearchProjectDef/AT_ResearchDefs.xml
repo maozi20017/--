@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- StatDefs used in different parts of the mod. -->
+
+  <AT_PsalterionResearch.label>Basileios Psalterion crafting</AT_PsalterionResearch.label>
+  <AT_PsalterionResearch.description>Research the means to craft the Basileios Psalterion - an item normally only obtainable by trade. These artifacts can summon ishmutian boss threats to the vicinity. 
+
+They are costly to craft, requiring materials from the very bosses they summon. However, wealthy colonies can reinvest spoils from a defeated boss into more Psalterions. This allows one to make consistent returns on boss materials.</AT_PsalterionResearch.description>
+  <AT_PsalterionResearch.generalRules.rulesStrings.0>subject-&gt;Basileios Psalterion</AT_PsalterionResearch.generalRules.rulesStrings.0>
+  <AT_PsalterionResearch.generalRules.rulesStrings.1>subject_story-&gt;investigated the dubious origins of the Basileios Psalterion</AT_PsalterionResearch.generalRules.rulesStrings.1>
+  <AT_PsalterionResearch.generalRules.rulesStrings.2>subject_story-&gt;accidentally unleashed the wrath of a Basileios Psalterion</AT_PsalterionResearch.generalRules.rulesStrings.2>
+  <AT_PsalterionResearch.generalRules.rulesStrings.3>subject_story-&gt;discovered a way to produce a replica Basileios Psalterion</AT_PsalterionResearch.generalRules.rulesStrings.3>
+  <AT_PsalterionResearch.generalRules.rulesStrings.4>subject_gerund-&gt;crafting Basileios Psalterions</AT_PsalterionResearch.generalRules.rulesStrings.4>
+
+
+</LanguageData>

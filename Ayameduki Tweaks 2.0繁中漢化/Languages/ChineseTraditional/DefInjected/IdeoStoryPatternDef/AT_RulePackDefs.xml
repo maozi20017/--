@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Largely deprecated in favor of fixed ideo descriptions. -->
+
+  <AT_IshmutiMyth.rules.rulesStrings.0>r_pattern-&gt;[tenets] [r_lesson]. [conclusion]</AT_IshmutiMyth.rules.rulesStrings.0>
+  <AT_IshmutiMyth.rules.rulesStrings.1>lesson(priority=-1)-&gt;stuff happens</AT_IshmutiMyth.rules.rulesStrings.1>
+  <AT_IshmutiMyth.rules.rulesStrings.2>tenets-&gt;The Three Tenets taught by the Teachings of Aletheia are the divine will of [deity0_name], the fallen maker of the ishmuti. In pursuing his ordained self-improvement, we came to believe that</AT_IshmutiMyth.rules.rulesStrings.2>
+  <AT_IshmutiMyth.rules.rulesStrings.3>tenets-&gt;[deity0_name] left us with the Three Tenets. We have spread, we have fought for [deity0_possessive] name, and we have learned that</AT_IshmutiMyth.rules.rulesStrings.3>
+  <AT_IshmutiMyth.rules.rulesStrings.4>tenets-&gt;We live for the Three Tenets of the Teachings of Aletheia. But the wider universe taught us a new Tenet -</AT_IshmutiMyth.rules.rulesStrings.4>
+  <AT_IshmutiMyth.rules.rulesStrings.5>conclusion-&gt;In refusing to accept this, the Church defies the Third.</AT_IshmutiMyth.rules.rulesStrings.5>
+  <AT_IshmutiMyth.rules.rulesStrings.6>conclusion-&gt;In putting our new revelations into practice, we honor [deity0_name].</AT_IshmutiMyth.rules.rulesStrings.6>
+  <AT_IshmutiMyth.rules.rulesStrings.7>conclusion-&gt;Yet at our core, we remain Aletheians like any of the Church.</AT_IshmutiMyth.rules.rulesStrings.7>
+  <AT_IshmutiMyth.rules.rulesStrings.8>conclusion-&gt;Though the Church may not formally recognize us, we know that all must find their own ways to fulfill the Third.</AT_IshmutiMyth.rules.rulesStrings.8>
+
+
+</LanguageData>

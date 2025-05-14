@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RulePacks for custom ishmuti culture data. -->
+
+  <AT_Canaan.placeRules.rulesStrings.0>place_name-&gt;Canaan</AT_Canaan.placeRules.rulesStrings.0>
+  <AT_Canaan.placeRules.rulesStrings.1>place_adjective-&gt;Canaanite</AT_Canaan.placeRules.rulesStrings.1>
+  <AT_Canaan.placeRules.rulesStrings.2>place_summary-&gt;Ishmutian homeworld</AT_Canaan.placeRules.rulesStrings.2>
+  <AT_Canaan.placeRules.rulesStrings.3>place_community-&gt;church</AT_Canaan.placeRules.rulesStrings.3>
+  <AT_Canaan.placeRules.rulesStrings.4>place_job(uses=1)-&gt;Divine Daughter</AT_Canaan.placeRules.rulesStrings.4>
+  <AT_Canaan.placeRules.rulesStrings.5>place_job(uses=1)-&gt;chaouran assassin</AT_Canaan.placeRules.rulesStrings.5>
+  <AT_Canaan.placeRules.rulesStrings.6>place_job(uses=1)-&gt;littlunan summoner</AT_Canaan.placeRules.rulesStrings.6>
+  <AT_Canaan.placeRules.rulesStrings.7>place_job(uses=1)-&gt;silkieran manufacturer</AT_Canaan.placeRules.rulesStrings.7>
+  <AT_Canaan.placeRules.rulesStrings.8>place_job(uses=1)-&gt;neclosian terraformer</AT_Canaan.placeRules.rulesStrings.8>
+  <AT_Canaan.placeRules.rulesStrings.9>place_job(uses=1)-&gt;qualeelan ruler</AT_Canaan.placeRules.rulesStrings.9>
+  <AT_Canaan.placeRules.rulesStrings.10>place_job(uses=1)-&gt;nexagan technician</AT_Canaan.placeRules.rulesStrings.10>
+  <AT_Canaan.placeRules.rulesStrings.11>place_job(uses=1)-&gt;xenoorcan soldier</AT_Canaan.placeRules.rulesStrings.11>
+  <AT_Canaan.placeRules.rulesStrings.12>place_job(uses=1)-&gt;sacleanian worker</AT_Canaan.placeRules.rulesStrings.12>
+  <AT_Canaan.placeRules.rulesStrings.13>place_job(uses=1)-&gt;idhalian lookout</AT_Canaan.placeRules.rulesStrings.13>
+  <AT_Canaan.placeRules.rulesStrings.14>place_job(uses=1)-&gt;solarkian warrior</AT_Canaan.placeRules.rulesStrings.14>
+  <AT_Canaan.placeRules.rulesStrings.15>place_job(uses=1)-&gt;idearn instigator</AT_Canaan.placeRules.rulesStrings.15>
+  <AT_Canaan.placeRules.rulesStrings.16>place_job(uses=1)-&gt;requeen attender</AT_Canaan.placeRules.rulesStrings.16>
+  <AT_Canaan.placeRules.rulesStrings.17>place_personalWeapon-&gt;Ts'vaot Rifle</AT_Canaan.placeRules.rulesStrings.17>
+  <AT_Canaan.placeRules.rulesStrings.18>place_personalWeapon-&gt;Ts'vaot Shotgun</AT_Canaan.placeRules.rulesStrings.18>
+  <AT_Canaan.placeRules.rulesStrings.19>place_personalWeapon-&gt;Mishmar Edge</AT_Canaan.placeRules.rulesStrings.19>
+  <AT_Canaan.placeRules.rulesStrings.20>place_massWeapon-&gt;a Requeen</AT_Canaan.placeRules.rulesStrings.20>
+  <AT_Canaan.placeRules.rulesStrings.21>place_massWeapon-&gt;an Enforcer</AT_Canaan.placeRules.rulesStrings.21>
+  <AT_Canaan.placeRules.rulesStrings.22>place_massWeapon-&gt;a Beast of Mourning</AT_Canaan.placeRules.rulesStrings.22>
+  <AT_Canaan.placeRules.rulesStrings.23>place_massWeapon-&gt;an Adama Helev</AT_Canaan.placeRules.rulesStrings.23>
+  <AT_Canaan.placeRules.rulesStrings.24>place_massWeapon-&gt;an army of mysterious mechanical ishmuti</AT_Canaan.placeRules.rulesStrings.24>
+  <AT_Canaan.placeRules.rulesStrings.25>place_massWeapon-&gt;what looked like an eveliet</AT_Canaan.placeRules.rulesStrings.25>
+  <AT_Canaan.placeRules.rulesStrings.26>place_massWeapon-&gt;a Basileios Psalterion</AT_Canaan.placeRules.rulesStrings.26>
+  <AT_Canaan.placeRules.rulesStrings.27>place_foeLeader-&gt;resurrectionist</AT_Canaan.placeRules.rulesStrings.27>
+  <AT_Canaan.placeRules.rulesStrings.28>place_foeSoldiers-&gt;infidels</AT_Canaan.placeRules.rulesStrings.28>
+
+
+</LanguageData>

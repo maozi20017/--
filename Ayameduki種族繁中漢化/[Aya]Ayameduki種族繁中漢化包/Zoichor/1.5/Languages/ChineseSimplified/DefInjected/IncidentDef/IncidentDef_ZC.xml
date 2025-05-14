@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 旧い約束 -->
+  <HAR_ZC_Incident_a.label>古老的約定</HAR_ZC_Incident_a.label>
+  <!-- EN: 旧い約束 -->
+  <HAR_ZC_Incident_a.letterLabel>古老的約定</HAR_ZC_Incident_a.letterLabel>
+  <!-- EN: 昏い雰囲気を纏った人工種族、糾罪者があなたのコロニーに加入しました。\n仲間になった理由は明かしてはくれませんでしたが、裏切りなどの心配はいらないようです。\n\n現在、彼女は力を封印されており、研究を進めることで、力を取り戻す切欠を得られるでしょう。 -->
+  <HAR_ZC_Incident_a.letterText>壟罩著昏暗氛圍的人工種族，糾罪者加入了你的殖民地。\n她並未透露加入的理由，但似乎不必擔心背叛之類的問題。\n\n目前，她的力量被封印，通過進行研究，應該能夠找到恢復力量的契機。</HAR_ZC_Incident_a.letterText>
+  
+</LanguageData>

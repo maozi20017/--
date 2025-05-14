@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[Mur]Enemy Self Preservation 繁中漢化</name>
+	<author>毛子</author>
+	<packageId>ZH.ChinesePack.enemyselfpreservation</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>murmur.enemyselfpreservation</li>
+	</loadAfter>
+    <description>
+漢化描述
+
+請注意，此模組將顯著降低遊戲中的戰鬥難度。
+
+人形敵人將不再不顧一切，當他們身受重傷時，會逃離戰鬥。
+
+此模組設計與我的另一個模組「[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2345845316]Faction Raid Cooldown[/url]」搭配使用，但也可以獨立使用。
+
+同時，強烈建議使用「[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2401146569]No One Left Behind[/url]」這個模組。
+
+題外話:我點進去就一行，害我很猶豫要不要翻_(┐「ε:)_
+	</description>
+
+</ModMetaData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are disabled by default thanks to the Abstract tag. Main_P_F_ProstheticGraphics.xml contains the patches to enable/disable them. -->
+
+  <AT_IshmutiAestheticProsthetic.label>ishmutian aesthetic mending</AT_IshmutiAestheticProsthetic.label>
+  <AT_IshmutiAestheticProsthetic.description>A Canaanite prosthetic device. It's capable of dynamically altering its form to replace any damaged ishmutian body parts - horns, tails, wings or any equivalents.</AT_IshmutiAestheticProsthetic.description>
+
+
+</LanguageData>

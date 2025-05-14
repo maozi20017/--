@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Comatose, currently inflicted on any race given the AT_invulnerableRace tag (Idhale and Avonruach) to make sure they spawn correctly as downed refugees -->
+
+  <AT_Comatose.label>昏迷</AT_Comatose.label>
+  <AT_Comatose.description>未知的原因使此人陷入昏迷狀態。雖然不太可能造成永久性傷害，但可能需要數天才能恢復。</AT_Comatose.description>
+
+
+  <!-- Used for amphibious races. -->
+
+  <AT_WetSwimmer.label>水中速度</AT_WetSwimmer.label>
+  <AT_WetSwimmer.description>接觸到水會提升此生物的機動性。</AT_WetSwimmer.description>
+  <AT_WetSwimmer.stages.0.label>潮濕</AT_WetSwimmer.stages.0.label>
+  <AT_WetSwimmer.stages.1.label>游泳</AT_WetSwimmer.stages.1.label>
+
+  <AT_Diving.label>深潛</AT_Diving.label>
+  <AT_Diving.description>這個生物正在水下游動，敵人無法鎖定它。但若發動攻擊或受到傷害，將會浮出水面。</AT_Diving.description>
+
+
+</LanguageData>

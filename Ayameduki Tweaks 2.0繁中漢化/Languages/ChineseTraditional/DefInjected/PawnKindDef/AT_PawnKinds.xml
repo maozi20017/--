@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Given as a hybridSpecific childKindDef to all ishmuti races so they can produce human male sons. -->
+
+  <AT_IshmutiSon.label>ishmuti son</AT_IshmutiSon.label>
+  <AT_IshmutiSon.labelPlural>ishmuti sons</AT_IshmutiSon.labelPlural>
+
+
+</LanguageData>

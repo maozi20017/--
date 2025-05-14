@@ -35,5 +35,6 @@
     <li IfModActive="ayameduki.harxenoorca">Xenoorca/1.5</li>
     <li IfModActive="ayameduki.hareveliet">Eveliet/1.5</li>
     <li IfModActive="ayameduki.ideastoryteller">Ideastoryteller/1.5</li>
+    <li IfModActive="ayameduki.harzoichor">Zoichor/1.5</li>
   </v1.5>
 </loadFolders>

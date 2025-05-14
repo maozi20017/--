@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Milk production speed, currently only used by saclean. -->
+
+  <AT_MilkProductionMultiplier.label>milk production</AT_MilkProductionMultiplier.label>
+  <AT_MilkProductionMultiplier.description>A multiplier on milk production amount per harvest.</AT_MilkProductionMultiplier.description>
+
+
+  <!-- Wool production speed, also currently only used by saclean. -->
+
+  <AT_WoolProductionMultiplier.label>wool production</AT_WoolProductionMultiplier.label>
+  <AT_WoolProductionMultiplier.description>A multiplier on wool production amount per harvest.</AT_WoolProductionMultiplier.description>
+
+
+  <!-- Plant cutting speed, used by the solark to ensure they're exclusively good at clearing plants and not sowing them. -->
+
+  <AT_PlantCuttingSpeed.label>plant cutting speed</AT_PlantCuttingSpeed.label>
+  <AT_PlantCuttingSpeed.description>An additional modifier on plant work speed for cutting and harvesting plants.</AT_PlantCuttingSpeed.description>
+
+
+</LanguageData>

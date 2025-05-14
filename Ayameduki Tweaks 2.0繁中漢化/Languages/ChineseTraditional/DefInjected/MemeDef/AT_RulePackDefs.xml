@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RulePacks for custom ishmuti culture data. -->
+
+  <AT_Structure_OriginCanaanite.label>Canaanite origin</AT_Structure_OriginCanaanite.label>
+  <AT_Structure_OriginCanaanite.description>This is a variant of the abstract theist structure. This ideoligion is a descendant of the Teachings of Aletheia from the ishmutian homeworld, Canaan. It shares many symbols with ideoligions of Christian origin.</AT_Structure_OriginCanaanite.description>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.0>r_ideoName(p=99)-&gt;Teachings of Aletheia and [memeConcept]</AT_Structure_OriginCanaanite.generalRules.rulesStrings.0>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.1>r_ideoName(p=99)-&gt;[globalAdjective] [packIdeoName]</AT_Structure_OriginCanaanite.generalRules.rulesStrings.1>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.2>r_ideoName(p=99)-&gt;[memeAdjective] [packIdeoName]</AT_Structure_OriginCanaanite.generalRules.rulesStrings.2>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.3>r_ideoName(p=99)-&gt;[packAdjective] [packIdeoName]</AT_Structure_OriginCanaanite.generalRules.rulesStrings.3>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.4>r_ideoName(p=99)-&gt;[packIdeoName]</AT_Structure_OriginCanaanite.generalRules.rulesStrings.4>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.5>memeLeaderNoun-&gt;Daughter</AT_Structure_OriginCanaanite.generalRules.rulesStrings.5>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.6>memeLeaderNoun-&gt;Queen</AT_Structure_OriginCanaanite.generalRules.rulesStrings.6>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.7>memeLeaderNoun-&gt;Royal</AT_Structure_OriginCanaanite.generalRules.rulesStrings.7>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.8>memeLeaderNoun-&gt;Elite</AT_Structure_OriginCanaanite.generalRules.rulesStrings.8>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.9>memeLeaderNoun-&gt;Basilissa</AT_Structure_OriginCanaanite.generalRules.rulesStrings.9>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.10>memeLeaderNoun-&gt;Malkah</AT_Structure_OriginCanaanite.generalRules.rulesStrings.10>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.11>memeLeaderNoun-&gt;Nivchar</AT_Structure_OriginCanaanite.generalRules.rulesStrings.11>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;Ishmutian</AT_Structure_OriginCanaanite.generalRules.rulesStrings.12>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;Aletheian</AT_Structure_OriginCanaanite.generalRules.rulesStrings.13>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;Canaanite</AT_Structure_OriginCanaanite.generalRules.rulesStrings.14>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.15>memeLeaderAdjective-&gt;Creator's</AT_Structure_OriginCanaanite.generalRules.rulesStrings.15>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.16>memeMoralist-&gt;priestess</AT_Structure_OriginCanaanite.generalRules.rulesStrings.16>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.17>memeMoralist-&gt;hiereia</AT_Structure_OriginCanaanite.generalRules.rulesStrings.17>
+  <AT_Structure_OriginCanaanite.generalRules.rulesStrings.18>memeMoralist-&gt;kohenet</AT_Structure_OriginCanaanite.generalRules.rulesStrings.18>
+  <AT_Structure_OriginCanaanite.symbolPacks.0.adjective>Aletheian</AT_Structure_OriginCanaanite.symbolPacks.0.adjective>
+
+
+</LanguageData>

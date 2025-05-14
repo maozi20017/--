@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are disabled by default thanks to the Abstract tag. Main_P_F_ProstheticGraphics.xml contains the patches to enable/disable them. -->
+
+  <AT_InstallIshmutiAestheticProsthetic.label>install ishmutian aesthetic mending</AT_InstallIshmutiAestheticProsthetic.label>
+  <AT_InstallIshmutiAestheticProsthetic.description>Install an ishmutian aesthetic mending.</AT_InstallIshmutiAestheticProsthetic.description>
+  <AT_InstallIshmutiAestheticProsthetic.jobString>Installing ishmutian aesthetic mending.</AT_InstallIshmutiAestheticProsthetic.jobString>
+
+
+</LanguageData>
