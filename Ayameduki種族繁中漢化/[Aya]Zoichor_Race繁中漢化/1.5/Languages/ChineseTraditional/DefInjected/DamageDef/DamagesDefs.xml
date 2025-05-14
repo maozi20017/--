@@ -27,9 +27,9 @@
   <HAR_ZC_Damage_e.deathMessage>{0} 死於一場爆炸。</HAR_ZC_Damage_e.deathMessage>
   
   <!-- EN: 断罪 -->
-  <HAR_ZC_Damage_EX.label>TODO</HAR_ZC_Damage_EX.label>
+  <HAR_ZC_Damage_EX.label>斷罪</HAR_ZC_Damage_EX.label>
   <!-- EN: {0} has been shot to death. -->
-  <HAR_ZC_Damage_EX.deathMessage>TODO</HAR_ZC_Damage_EX.deathMessage>
+  <HAR_ZC_Damage_EX.deathMessage>{0} 被射殺了。</HAR_ZC_Damage_EX.deathMessage>
   
   <!-- EN: 反射 -->
   <HAR_ZC_Damage_f.label>反射</HAR_ZC_Damage_f.label>
