@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <HAR_Chaoura_Body.label>混沌靈</HAR_Chaoura_Body.label>
+  
+  <!-- UNUSED -->
   <HAR_Chaoura_Body.corePart.parts.0.customLabel>翅膀</HAR_Chaoura_Body.corePart.parts.0.customLabel>
   <HAR_Chaoura_Body.corePart.parts.7.customLabel>左肺</HAR_Chaoura_Body.corePart.parts.7.customLabel>
   <HAR_Chaoura_Body.corePart.parts.8.customLabel>右肺</HAR_Chaoura_Body.corePart.parts.8.customLabel>
@@ -52,6 +52,5 @@
   <HAR_Chaoura_Body.corePart.parts.17.parts.2.parts.2.customLabel>右三趾</HAR_Chaoura_Body.corePart.parts.17.parts.2.parts.2.customLabel>
   <HAR_Chaoura_Body.corePart.parts.17.parts.2.parts.3.customLabel>右二趾</HAR_Chaoura_Body.corePart.parts.17.parts.2.parts.3.customLabel>
   <HAR_Chaoura_Body.corePart.parts.17.parts.2.parts.4.customLabel>右大腳趾</HAR_Chaoura_Body.corePart.parts.17.parts.2.parts.4.customLabel>
-
-
+  
 </LanguageData>

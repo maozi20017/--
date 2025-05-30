@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>[Aya]Zoichor Race 繁中漢化</name>
 	<author>毛子</author>
-	<packageId>ZH.ChinesePack.HARZoichor</packageId>
+	<packageId>Maozi.ZH.ChinesePack.HARZoichor</packageId>
 	<supportedVersions>
         <li>1.5</li>
 	</supportedVersions>

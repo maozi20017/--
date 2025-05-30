@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>[Aya]Ayameduki種族繁中漢化包</name>
 	<author>毛子</author>
-	<packageId>ZH.ChinesePack.Ayameduki</packageId>
+	<packageId>Maozi.ZH.ChinesePack.Ayameduki</packageId>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
@@ -32,6 +32,7 @@
 		<li>ayameduki.harxenoorcaex</li>
 		<li>ayameduki.harnecloseuc</li>
 		<li>ayameduki.harzoichor</li>
+		<li>Ayameduki.harchaouraub</li>
 	</loadAfter>
     <description>
 Ayameduki種族繁中漢化包
