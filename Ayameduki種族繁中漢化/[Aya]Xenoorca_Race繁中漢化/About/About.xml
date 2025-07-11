@@ -2,13 +2,14 @@
 <ModMetaData>
 	<name>[Aya]Xenoorca Race 繁中漢化</name>
 	<author>毛子</author>
-	<packageId>ZH.ChinesePack.HARXenoorca</packageId>
+	<packageId>Maozi.ZH.ChinesePack.HARXenoorca</packageId>
 	<supportedVersions>
         <li>1.4</li>
         <li>1.5</li>
 		<li>1.6</li>
 	</supportedVersions>
 	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
 		<li>Ayameduki.HARXenoorca</li>
 		<li>ayameduki.harxenoorcaex</li>
 	</loadAfter>

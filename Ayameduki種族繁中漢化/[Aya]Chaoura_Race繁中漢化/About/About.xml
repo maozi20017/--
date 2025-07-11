@@ -9,6 +9,7 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<loadAfter>
+		<li>Ayameduki.AyaRacePremise</li>
 		<li>Ayameduki.HARChaoura</li>
 		<li>Ayameduki.HARChaouraub</li>
 	</loadAfter>
